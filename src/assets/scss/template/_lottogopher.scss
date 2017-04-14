@@ -1,0 +1,188 @@
+.lotto-header {
+  padding-top: 50px !important;
+}
+
+.lotto-main-container {
+  margin-bottom: 10px;
+}
+
+.lotto-blue-cloud-bg {
+  max-width: 600px !important;
+}
+
+container.lotto-green-bg {
+  width: 900px !important;
+  background-color: #88d32c !important;
+  height: 230px !important;
+}
+
+.lotto-top-context {
+  background-position: 50% 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+  h1, h4, h3 {
+    color: white;
+  }
+
+  h1 {
+    font-size: 30px;
+    @media (min-width: 440px) {
+      font-size: 56px !important;
+    }
+  }
+
+  h4 {
+    font-weight: 100;
+    font-size: 24px;
+    @media (min-width: 440px) {
+      font-size: 24px !important;
+    }
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+}
+
+.background-img {
+  background-repeat: no-repeat;
+  width: 100%;
+  background-position: 50% 0;
+}
+
+.lotto-mega-millions-logo {
+  margin: -60px auto 0 auto !important;
+  padding-left: 20px;
+  height: 103px;
+}
+
+table.container.lotto-countdown {
+  background: none;
+  .lotto-spacing-between {
+    padding-right: 10px;
+    padding-left: 10px;
+
+    @media (min-width: 380px) {
+      padding-right: 30px !important;
+      padding-left: 30px !important;
+    }
+  }
+
+  h2 {
+    font-size: 48px;
+    color: black;
+    line-height: 35px;
+  }
+
+  p {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+  }
+}
+
+.lotto-second-middle-row {
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
+  .lotto-cutoff {
+    font-size: 14px;
+    color: #777777;
+    span {
+      color: #333333;
+      font-weight: bold;
+    }
+  }
+  .lotto-questions-concerns {
+    color: #777777;
+    font-size: 14px;
+    a {
+      color: #2796fd;
+    }
+  }
+  .lotto-goodluck {
+    color: #333333;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  .lotto-sincerely {
+    font-size: 14px;
+    color: #777777;
+  }
+  .lotto-footer-tickets {
+
+  }
+  & .columns {
+    padding-bottom: 0 !important;
+  }
+}
+
+.lotto-footer-description {
+  color: #777777;
+  font-size: 12px;
+  a {
+    color: #2796fd;
+  }
+}
+
+.lotto-footer {
+  margin-top: 30px !important;
+
+  .lotto-footer-links {
+    a {
+      color: #2796fd;
+      font-size: 14px;
+    }
+  }
+  .lotto-footer-copyright {
+    font-weight: bold;
+    color: #4a4a4a;
+    font-size: 12px;
+  }
+}
+
+.lotto-body-spacing {
+  padding-left: 40px;
+  @media only screen and (max-width: 550px) {
+    padding-left: 0 !important;
+  }
+}
+
+/* overwrites */
+table.button.success table td {
+  background: #81c935 !important;
+  border: none !important;
+}
+
+table.body {
+  background: #fff;
+  margin: 65px auto !important;
+}
+
+/* new email registration */
+.new-email-registration {
+  .lotto-context {
+    h1 {
+      color: black;
+      font-size: 25px;
+      @media (min-width: 550px) {
+        font-size: 32px !important;
+      }
+    }
+    h3 {
+      color: #74ce00;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    p {
+      font-size: 14px;
+      color: #777777;
+    }
+  }
+  .lotto-hello {
+    color: white;
+  }
+}
