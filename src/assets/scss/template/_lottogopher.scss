@@ -46,8 +46,8 @@
 }
 
 .lotto-border-left-right {
-  border-left: 0.5px solid #bbb;
-  border-right: 0.5px solid #bbb;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
 }
 
 .lotto-countdown {
@@ -141,28 +141,69 @@
   }
 }
 
-/* new email registration */
-.new-email-registration {
-  .lotto-context {
+/* email change update */
+.email-change-update,
+.billing-alert {
+  .lotto-second-middle-row {
     h1 {
+      padding-top: 23px;
       color: black;
       font-size: 25px;
+      margin: 0 !important;
       @media (min-width: 550px) {
         font-size: 32px !important;
       }
     }
-    h3 {
+    .lotto-confirmation-msg {
       color: #74ce00;
       font-weight: bold;
       font-size: 16px;
+      padding-top: 25px;
+    }
+    .lotto-email-info {
+      font-size: 14px;
+      color: #777777;
+      span {
+        font-weight: bold;
+        color: #003333;
+      }
     }
     p {
       font-size: 14px;
       color: #777777;
     }
+    .emails {
+      padding-top: 10px;
+    }
+    .icon {
+      padding-top: 28px;
+    }
+    .last-line {
+      td {
+        border-bottom: 1px solid #bbb !important;
+      }
+    }
   }
-  .lotto-hello {
-    color: white;
+}
+
+.lotto-important-bg {
+  background: #eff8ff;
+  padding: 21px;
+  width: 90%;
+  @media (min-width: 550px) {
+    width: 85% !important;
+  }
+  span {
+    font-weight: bold;
+  }
+}
+
+.lotto-action-link {
+  a {
+    font-size: 14px;
+    text-decoration: underline;
+    color: #2796fd;
+    font-weight: bold;
   }
 }
 
@@ -172,6 +213,15 @@
   @media only screen and (max-width: 550px) {
     padding-left: 15px !important;
     padding-right: 15px !important;
+  }
+}
+
+.lotto-hello {
+  p {
+    padding-top: 25px;
+    padding-left: 35px;
+    color: white;
+    font-size: 15px;
   }
 }
 
@@ -187,6 +237,12 @@ table.button.success table td {
 table.body {
   background: #fff;
   margin: 65px auto !important;
+}
+
+@media only screen and (max-width: 596px) {
+  table.body .container {
+    width: 100% !important;
+  }
 }
 
 table {border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; table-layout: fixed;}
