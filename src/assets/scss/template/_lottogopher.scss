@@ -1,3 +1,6 @@
+//table, tr, td {border-collapse: collapse !important;}
+//tr { font-size:0px !important; line-height:0px !important; border-collapse: collapse !important; }
+
 .lotto-header {
   padding-top: 50px !important;
 }
@@ -6,34 +9,20 @@
   margin-bottom: 10px;
 }
 
-.lotto-blue-cloud-bg {
-  max-width: 600px !important;
-}
-
-container.lotto-green-bg {
-  width: 900px !important;
-  background-color: #88d32c !important;
-  height: 230px !important;
-}
-
 .lotto-top-context {
   background-position: 50% 0px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   width: 100%;
-  border-left: 1px solid #bbb;
-  border-right: 1px solid #bbb;
   h1, h4, h3 {
     color: white;
   }
-
   h1 {
     font-size: 30px;
-    @media (min-width: 440px) {
+    @media (min-width: 550px) {
       font-size: 56px !important;
     }
   }
-
   h4 {
     font-weight: 100;
     font-size: 24px;
@@ -41,35 +30,28 @@ container.lotto-green-bg {
       font-size: 24px !important;
     }
   }
-
   h3 {
     font-size: 14px;
+    margin-top: 32px;
+    @media (min-width: 550px) {
+      margin-top: initial !important;
+    }
   }
 }
 
 .background-img {
-  background-repeat: no-repeat;
-  width: 100%;
-  background-position: 50% 0;
+  background-repeat: no-repeat !important;
+  background-position: 50% 0 !important;
+  overflow: hidden !important;
 }
 
-.lotto-mega-millions-logo {
-  margin: -60px auto 0 auto !important;
-  padding-left: 20px;
-  height: 103px;
+.lotto-border-left-right {
+  border-left: 0.5px solid #bbb;
+  border-right: 0.5px solid #bbb;
 }
 
-table.container.lotto-countdown {
+.lotto-countdown {
   background: none;
-  .lotto-spacing-between {
-    padding-right: 10px;
-    padding-left: 10px;
-
-    @media (min-width: 380px) {
-      padding-right: 30px !important;
-      padding-left: 30px !important;
-    }
-  }
 
   h2 {
     font-size: 48px;
@@ -84,10 +66,19 @@ table.container.lotto-countdown {
   }
 }
 
+.lotto-spacing-between {
+  h2 {
+    padding: 0 10px;
+    @media (min-width: 550px) {
+      padding: 0 18px !important;
+    }
+  }
+}
+
 .lotto-second-middle-row {
-  border-left: 1px solid #bbb;
-  border-right: 1px solid #bbb;
-  border-bottom: 1px solid #bbb;
+  p {
+    margin: 0 !important;
+  }
   .lotto-cutoff {
     font-size: 14px;
     color: #777777;
@@ -113,10 +104,16 @@ table.container.lotto-countdown {
     color: #777777;
   }
   .lotto-footer-tickets {
-
+    border-bottom: 1px solid #bbb;
   }
   & .columns {
     padding-bottom: 0 !important;
+  }
+  .lotto-order-button {
+    margin: 0;
+  }
+  center {
+    width: initial;
   }
 }
 
@@ -144,24 +141,6 @@ table.container.lotto-countdown {
   }
 }
 
-.lotto-body-spacing {
-  padding-left: 40px;
-  @media only screen and (max-width: 550px) {
-    padding-left: 0 !important;
-  }
-}
-
-/* overwrites */
-table.button.success table td {
-  background: #81c935 !important;
-  border: none !important;
-}
-
-table.body {
-  background: #fff;
-  margin: 65px auto !important;
-}
-
 /* new email registration */
 .new-email-registration {
   .lotto-context {
@@ -186,3 +165,29 @@ table.body {
     color: white;
   }
 }
+
+.lotto-body-spacing {
+  padding-left: 25px;
+  padding-right: 25px;
+  @media only screen and (max-width: 550px) {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+
+/* overwrites */
+table.button {
+  margin: 0 !important;
+}
+table.button.success table td {
+  background: #81c935 !important;
+  border: none !important;
+}
+
+table.body {
+  background: #fff;
+  margin: 65px auto !important;
+}
+
+table {border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; table-layout: fixed;}
+table table { table-layout: auto; }
