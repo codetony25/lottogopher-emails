@@ -12,13 +12,7 @@ subject: Membership Cancel Email
 </container>
 <container class="membership-cancel">
     <row>
-        <columns class="show-for-large" small="1" large="1" style="padding: 0 !important;">
-            <container>
-                <row>
-                    <columns small="1" large="1" bgcolor="#8bd531" style="width: 100% !important; padding-bottom: 208px;"></columns>
-                </row>
-            </container>
-        </columns>
+        {{> left-green-box }}
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
             <table cellpadding="0" cellspacing="0" border="0" cellpadding="0" cellspacing="0" border="0" width="100%">
                 <tr>
@@ -57,17 +51,21 @@ subject: Membership Cancel Email
                                                         </row>
                                                         <row class="description-info">
                                                             <columns small="6">
+                                                                <spacer size="15"></spacer>
                                                                 <p class="description text-left">Description</p>
                                                             </columns>
                                                             <columns small="6">
+                                                                <spacer size="15"></spacer>
                                                                 <p class="amount text-right">Amount</p>
                                                             </columns>
                                                         </row>
                                                         <row class="purchase-info">
                                                             <columns small="6">
+                                                                <spacer size="15"></spacer>
                                                                 <p class="purchased-item text-left">Annual Membership <span class="cancelled">(CANCELLED)</span></p>
                                                             </columns>
                                                             <columns small="6">
+                                                                <spacer size="15"></spacer>
                                                                 <p class="price text-right">$99.00</p>
                                                             </columns>
                                                         </row>
@@ -109,12 +107,6 @@ subject: Membership Cancel Email
                 </tr>
             </table>
         </columns>
-        <columns class="show-for-large" small="1" large="1" style="padding: 0 !important;">
-            <container>
-                <row>
-                    <columns small="1" large="1" bgcolor="#8bd531" style="width: 100% !important; padding-bottom: 208px;"></columns>
-                </row>
-            </container>
-        </columns>
+        {{> right-green-box }}
     </row>
 </container>

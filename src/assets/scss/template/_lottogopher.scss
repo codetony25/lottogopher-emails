@@ -147,7 +147,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 .billing-alert,
 .membership-upgrade,
 .membership-cancel,
-.registration {
+.registration,
+.declined-transaction {
   .lotto-second-middle-row {
     h1 {
       padding-top: 23px;
@@ -191,7 +192,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 }
 
 /* registration */
-.registration {
+.registration,
+.declined-transaction {
   .lotto-important-bg-wide {
     background: #eff8ff;
     padding: 21px;
@@ -252,8 +254,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 }
 
 .lotto-body-spacing {
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
   @media only screen and (max-width: 640px) {
     padding-left: 15px !important;
     padding-right: 15px !important;
@@ -274,7 +276,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 }
 
 .membership-upgrade,
-.membership-cancel {
+.membership-cancel,
+.declined-transaction {
   .icon {
     padding-top: 17px;
   }
@@ -288,7 +291,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
     }
 
     .invoice,
-    .total {
+    .total,
+    .total-info {
       padding-right: 23px;
       @media only screen and (max-width: 640px) {
         padding-right: 13px !important;
@@ -297,7 +301,7 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 
     .description,
     .purchased-item {
-      padding-left: 18px;
+      padding-left: 5px;
       @media only screen and (max-width: 640px) {
         padding-left: 15px !important;
       }
@@ -305,20 +309,10 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 
     .amount,
     .price {
-      padding-right: 18px;
+      padding-right: 5px;
       @media only screen and (max-width: 640px) {
         padding-right: 15px !important;
       }
-    }
-
-    .description,
-    .amount {
-      padding-top: 20px;
-    }
-
-    .purchased-item,
-    .price {
-      padding-top: 20px;
     }
 
     .date,
@@ -383,6 +377,23 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
         font-weight: bold;
         padding-top: 7px;
       }
+    }
+  }
+}
+
+.declined-transaction {
+  .total-info {
+    border-top: 2px solid #e4e4e4;
+    margin: 15px auto;
+    .paid-with {
+      margin: 0;
+      padding-left: 5px !important;
+    }
+    .total {
+      padding-right: 5px !important;
+    }
+    @media (min-width: 640px) {
+      width: 530px !important;
     }
   }
 }

@@ -5,6 +5,7 @@ subject: Blasts Powerball
 {{> header}}
 <container class="lotto-green-container">
     <row>
+        <!--[if !mso]><\!-->
         <columns class="show-for-large" small="1" large="1" style="padding: 0 !important;">
             <container>
                 <row>
@@ -12,6 +13,7 @@ subject: Blasts Powerball
                 </row>
             </container>
         </columns>
+        <!-- <![endif]-->
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
             <table cellpadding="0" cellspacing="0" border="0" cellpadding="0" cellspacing="0" border="0" width="100%">
                 <tr>
@@ -23,20 +25,21 @@ subject: Blasts Powerball
                                 <tr>
                                     <td clsss="background-img" background="http://i.imgur.com/a6V1Pck.jpg" bgcolor="#fff" valign="top" style="background-position: 50% 0 !important; background-repeat: no-repeat !important;">
                                         <!--[if gte mso 9]>
-                                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;">
-                                            <v:fill type="tile" size="100%, 100%" src="http://i.imgur.com/a6V1Pck.jpg" color="#fff" style="background-repeat: no-repeat !important;" />
+                                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:500; height: 1000px;">
+                                            <v:fill type="frame" size="100%, 50%" src="http://i.imgur.com/a6V1Pck.jpg" origin="0.5, 0" position="0.5,-0.25" color="#fff" style="width: 580px !important; height: 1000px; background-repeat: no-repeat !important;" />
                                             <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
                                         <![endif]-->
                                         <div>
-                                            <center width="100%" class="lotto-context">
+                                            <center width="100%" class="lotto-context lotto-border-left-right">
                                                 <spacer size="130"></spacer>
                                                 <h1 class="text-center">$308,000,000</h1>
                                                 <h4 class="text-center">Million Jackpot</h4>
-                                                <spacer size="45"></spacer>
+                                                <spacer size="65"></spacer>
                                                 <h3 class="text-center">The countdown is on. Just Go-pher It!</h3>
+                                                <spacer size="5"></spacer>
                                             </center>
                                             <center class="lotto-countdown lotto-border-left-right">
-                                                <menu align="center" width="100%">
+                                                <menu>
                                                     <item>
                                                         <h2 class="text-center">16</h2>
                                                         <p class="text-center">Hours</p>
@@ -50,37 +53,60 @@ subject: Blasts Powerball
                                                         <p class="text-center">Seconds</p>
                                                     </item>
                                                 </menu>
+                                                <spacer size="90"></spacer>
                                             </center>
-                                            <center>
-                                                <spacer class="lotto-border-left-right" size="90"></spacer>
-                                                <container class="lotto-border-left-right">
-                                                    <center>
-                                                        <button href="#" class="lotto-border-left-right lotto-order-button success radius large">Order Tickets!</button>
-                                                    </center>
-                                                </container>
-                                                <spacer class="lotto-border-left-right" size="20"></spacer>
-                                            </center>
-                                            <center bgcolor="#fff">
-                                                <row class="lotto-second-middle-row">
-                                                    <columns small="12">
-                                                        <p class="lotto-border-left-right lotto-cutoff text-center">Cut-off time to order your tickets is at <span>4pm PST.</span></p>
-                                                        <spacer class="lotto-border-left-right" size="30"></spacer>
-                                                        <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">If you have any questions or encounter problems accessing your tickets please contact us at
-                                                            <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call
-                                                            <a href="">866-LOTTO-GO</a>
-                                                        </p>
-                                                        <spacer class="lotto-border-left-right" size="20"></spacer>
-                                                        <p class="lotto-border-left-right lotto-goodluck lotto-body-spacing">Good Luck!</p>
-                                                        <spacer class="lotto-border-left-right" size="20"></spacer>
-                                                        <p class="lotto-border-left-right lotto-sincerely lotto-body-spacing">Sincerely,<br />The LottoGopher Team</p>
-                                                        <spacer class="lotto-border-left-right" size="85"></spacer>
-                                                        <center class="lotto-footer-tickets lotto-border-left-right">
-                                                            <img style="display: block;" src="http://i.imgur.com/IGT76Ri.png" alt="Lotto Footer Tickets">
-                                                        </center>
-                                                        {{> footer}}
-                                                    </columns>
-                                                </row>
-                                            </center>
+                                            <container style="background: #fff !important;" class="lotto-border-left-right">
+                                                <center>
+                                                    <!--[if !mso]><\!-->
+                                                    <button href="#" class="lotto-order-button success radius large">Order Tickets!</button>
+                                                    <!-- <![endif]-->
+
+                                                    <!--[if gte mso 9]>
+                                                    <container>
+                                                        <row>
+                                                            <columns small="4"></columns>
+                                                            <columns small="4">
+                                                                <center>
+                                                                    <a class="text-center">
+                                                                        <img src="http://i.imgur.com/9leB6DN.png"
+                                                                             alt="order tickers button">
+                                                                    </a>
+                                                                </center>
+                                                            </columns>
+                                                            <columns small="4"></columns>
+                                                        </row>
+                                                    </container>
+                                                    <![endif]-->
+                                                </center>
+                                            </container>
+                                            <container style="background: #fff !important;" class="lotto-border-left-right">
+                                                <center class="lotto-mid-bottom">
+                                                    <spacer size="20"></spacer>
+                                                    <row class="lotto-second-middle-row">
+                                                        <columns small="12">
+                                                            <p class="lotto-cutoff text-center">Cut-off time to order your tickets is at <span>4pm PST.</span></p>
+                                                            <spacer size="30"></spacer>
+                                                            <p class=" lotto-questions-concerns lotto-body-spacing">If you have any questions or encounter problems accessing your tickets please contact us at
+                                                                <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call
+                                                                <a href="">866-LOTTO-GO</a>
+                                                            </p>
+                                                            <spacer size="20"></spacer>
+                                                            <p class="lotto-goodluck lotto-body-spacing">Good Luck!</p>
+                                                            <spacer size="20"></spacer>
+                                                            <p class="lotto-sincerely lotto-body-spacing">Sincerely,<br />The LottoGopher Team</p>
+                                                            <spacer size="50"></spacer>
+                                                            <center class="lotto-footer-tickets ">
+                                                                <img style="display: block;" src="http://i.imgur.com/IGT76Ri.png" alt="Lotto Footer Tickets">
+                                                            </center>
+                                                        </columns>
+                                                    </row>
+                                                </center>
+                                            </container>
+                                            <container>
+                                                <center>
+                                                    {{> footer}}
+                                                </center>
+                                            </container>
                                         </div>
                                         <!--[if gte mso 9]>
                                         </v:textbox>
@@ -95,6 +121,7 @@ subject: Blasts Powerball
                 </tr>
             </table>
         </columns>
+        <!--[if !mso]><\!-->
         <columns class="show-for-large" small="1" large="1" style="padding: 0 !important;">
             <container>
                 <row>
@@ -102,5 +129,6 @@ subject: Blasts Powerball
                 </row>
             </container>
         </columns>
+        <!-- <![endif]-->
     </row>
 </container>
