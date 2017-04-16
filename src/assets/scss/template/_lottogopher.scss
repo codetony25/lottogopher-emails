@@ -1,5 +1,5 @@
-//table, tr, td {border-collapse: collapse !important;}
-//tr { font-size:0px !important; line-height:0px !important; border-collapse: collapse !important; }
+table, tr, td {border-collapse: collapse !important;}
+tr { font-size:0px !important; line-height:0px !important; border-collapse: collapse !important; }
 
 .lotto-header {
   padding-top: 50px !important;
@@ -16,24 +16,25 @@
   width: 100%;
   h1, h4, h3 {
     color: white;
+    margin-bottom: 0;
   }
   h1 {
     font-size: 30px;
-    @media (min-width: 550px) {
+    @media (min-width: 640px) {
       font-size: 56px !important;
     }
   }
   h4 {
     font-weight: 100;
     font-size: 24px;
-    @media (min-width: 440px) {
+    @media (min-width: 640px) {
       font-size: 24px !important;
     }
   }
   h3 {
     font-size: 14px;
     margin-top: 32px;
-    @media (min-width: 550px) {
+    @media (min-width: 640px) {
       margin-top: initial !important;
     }
   }
@@ -48,6 +49,7 @@
 .lotto-border-left-right {
   border-left: 1px solid #bbb;
   border-right: 1px solid #bbb;
+  //box-shadow: 0px 1px 1px 0px #bbb;
 }
 
 .lotto-countdown {
@@ -69,7 +71,7 @@
 .lotto-spacing-between {
   h2 {
     padding: 0 10px;
-    @media (min-width: 550px) {
+    @media (min-width: 640px) {
       padding: 0 18px !important;
     }
   }
@@ -111,6 +113,7 @@
   }
   .lotto-order-button {
     margin: 0;
+    font-weight: normal !important;
   }
   center {
     width: initial;
@@ -126,8 +129,6 @@
 }
 
 .lotto-footer {
-  margin-top: 30px !important;
-
   .lotto-footer-links {
     a {
       color: #2796fd;
@@ -141,16 +142,19 @@
   }
 }
 
-/* email change update */
+/* Common Emails */
 .email-change-update,
-.billing-alert {
+.billing-alert,
+.membership-upgrade,
+.membership-cancel,
+.registration {
   .lotto-second-middle-row {
     h1 {
       padding-top: 23px;
       color: black;
       font-size: 25px;
       margin: 0 !important;
-      @media (min-width: 550px) {
+      @media (min-width: 640px) {
         font-size: 32px !important;
       }
     }
@@ -186,11 +190,51 @@
   }
 }
 
+/* registration */
+.registration {
+  .lotto-important-bg-wide {
+    background: #eff8ff;
+    padding: 21px;
+
+    h2 {
+      font-size: 24px;
+      color: #333333;
+    }
+    p {
+      font-size: 14px;
+    }
+    a {
+      color: #269eff;
+      text-decoration: underline;
+    }
+  }
+  .lotto-getting-started {
+    h5 {
+      color: #269eff;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    p {
+      color: #777777;
+      font-size: 13px;
+    }
+    .left-icon {
+      padding: 10px;
+    }
+    .middle-borders {
+      border: 1px solid #bbb;
+    }
+    .right-icon {
+
+    }
+  }
+}
+
 .lotto-important-bg {
   background: #eff8ff;
   padding: 21px;
   width: 90%;
-  @media (min-width: 550px) {
+  @media (min-width: 640px) {
     width: 85% !important;
   }
   span {
@@ -210,7 +254,7 @@
 .lotto-body-spacing {
   padding-left: 25px;
   padding-right: 25px;
-  @media only screen and (max-width: 550px) {
+  @media only screen and (max-width: 640px) {
     padding-left: 15px !important;
     padding-right: 15px !important;
   }
@@ -225,9 +269,144 @@
   }
 }
 
+.middle-button {
+  background: #fff !important;
+}
+
+.membership-upgrade,
+.membership-cancel {
+  .icon {
+    padding-top: 17px;
+  }
+  .lotto-statement {
+    .date,
+    .paid-with {
+      padding-left: 25px;
+      @media only screen and (max-width: 640px) {
+        padding-left: 15px !important;
+      }
+    }
+
+    .invoice,
+    .total {
+      padding-right: 23px;
+      @media only screen and (max-width: 640px) {
+        padding-right: 13px !important;
+      }
+    }
+
+    .description,
+    .purchased-item {
+      padding-left: 18px;
+      @media only screen and (max-width: 640px) {
+        padding-left: 15px !important;
+      }
+    }
+
+    .amount,
+    .price {
+      padding-right: 18px;
+      @media only screen and (max-width: 640px) {
+        padding-right: 15px !important;
+      }
+    }
+
+    .description,
+    .amount {
+      padding-top: 20px;
+    }
+
+    .purchased-item,
+    .price {
+      padding-top: 20px;
+    }
+
+    .date,
+    .invoice {
+      color: #333333;
+      font-size: 14px;
+    }
+
+    .description,
+    .amount {
+      font-size: 12px;
+      color: #777777;
+      font-weight: bold;
+    }
+
+    .purchased-item {
+      font-size: 14px;
+      font-weight: bold;
+      color: #333333;
+    }
+
+    .price {
+      font-size: 14px;
+      color: #333333;
+    }
+
+    .cancelled {
+      color: #f56759;
+    }
+
+    .description-info,
+    .purchase-info {
+      border-top: 2px solid #e4e4e4;
+      margin: 15px auto;
+      @media (min-width: 640px) {
+        width: 530px !important;
+      }
+    }
+
+    .total-info {
+      .paid-with {
+        font-weight: bold;
+        font-size: 12px;
+        color: #777777;
+        span {
+          margin-top: 6px;
+          font-size: 14px;
+          display: inline-block;
+          padding-bottom: 5px;
+          color: #333333;
+          vertical-align: bottom;
+        }
+        img {
+          margin-top: 8px;
+          display: inline-block;
+          vertical-align: middle;
+        }
+      }
+      .total {
+        font-size: 16px;
+        color: #333333;
+        font-weight: bold;
+        padding-top: 7px;
+      }
+    }
+  }
+}
+
+.lotto-mid-bottom {
+  border-radius: 3px;
+  background: #fff !important;
+  //box-shadow: 0px 1px 1px 0px #bbb;
+}
+
 /* overwrites */
+* {
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+p {
+  line-height: 24px !important;
+}
+
 table.button {
   margin: 0 !important;
+  background: #fff !important;
 }
 table.button.success table td {
   background: #81c935 !important;
@@ -239,7 +418,7 @@ table.body {
   margin: 65px auto !important;
 }
 
-@media only screen and (max-width: 596px) {
+@media only screen and (max-width: 640px) {
   table.body .container {
     width: 100% !important;
   }
