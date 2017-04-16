@@ -148,6 +148,14 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 
 .lotto-top-money-bg {
   width: 100%;
+  h2, h1 {
+    margin: 0;
+  }
+  .jackpot {
+    color: #303030;
+    font-size: 38px;
+    font-weight: bold;
+  }
   @media (min-width: 638px) {
     width: 638px !important;
   }
@@ -160,7 +168,9 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
   }
 }
 
-table.container.payment-request {
+table.container.payment-request,
+table.container.payment-request-check,
+table.container.alert-notification-jackpot {
   max-width: 573px !important;
 }
 
@@ -171,7 +181,9 @@ table.container.payment-request {
 .membership-cancel,
 .registration,
 .declined-transaction,
-.payment-request {
+.payment-request,
+.payment-request-check,
+.alert-notification-jackpot {
   .lotto-second-middle-row {
     h1 {
       padding-top: 23px;
@@ -217,7 +229,9 @@ table.container.payment-request {
 /* registration */
 .registration,
 .declined-transaction,
-.payment-request {
+.payment-request,
+.payment-request-check,
+.alert-notification-jackpot {
   .lotto-important-bg-wide {
     background: #eff8ff;
 
@@ -301,7 +315,9 @@ table.container.payment-request {
 .membership-upgrade,
 .membership-cancel,
 .declined-transaction,
-.payment-request {
+.payment-request,
+.payment-request-check,
+.alert-notification-jackpot {
   .icon {
     padding-top: 17px;
   }
@@ -443,6 +459,12 @@ table.container.payment-request {
   border-radius: 3px;
   background: #fff !important;
   //box-shadow: 0px 1px 1px 0px #bbb;
+}
+
+.dark-paragraph {
+  font-weight: 16px;
+  font-color: #000000;
+
 }
 
 /* overwrites */

@@ -6,9 +6,12 @@
         </columns>
         <!-- <![endif]-->
         <columns small="12" large="12">
-            <img style="max-width: none !important; width: 100%;" class="float-left" src="http://i.imgur.com/VPWyKoB.jpg" alt="top money bg image">
+            <img style="max-width: none !important; width: 100%;" class="float-left" src="{{topImage}}" alt="top money bg image">
             <spacer size="30"></spacer>
-            <h1 class="text-center">{{title}}</h1>
+            {{#if subtitle}}
+            <h2 class="lotto-border-left-right text-center">{{subtitle}}</h2>
+            {{/if}}
+            <h1 class="{{classForTitle}} lotto-border-left-right text-center">{{title}}</h1>
         </columns>
         <!--[if !mso]><\!-->
         <columns class="show-for-large" small="1" large="1" style="padding: 0 !important;">

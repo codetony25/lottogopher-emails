@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/icon-border-image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/left-money-green-box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/mail-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/right-money-green-box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-green-money-box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-money-green-box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/left-money-green-box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/lottogopher-payment-request.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/right-money-green-box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/top-green-box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/top-money-green-box.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/hand-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lotto-powerball-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-money-bag-box.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-powerball-header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/index.html" afterPath="$PROJECT_DIR$/src/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-registration.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/partials/top-money-green-box.html" afterPath="$PROJECT_DIR$/src/partials/top-money-green-box.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,14 +24,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.42393163">
+    <splitter split-orientation="horizontal" split-proportion="0.5037749">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="lottogopher-payment-request.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="lottogopher-payment-request.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="688">
-                  <caret line="77" column="73" lean-forward="false" selection-start-line="77" selection-start-column="73" selection-end-line="77" selection-end-column="73" />
+                <state relative-caret-position="204">
+                  <caret line="12" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
                   <folding>
                     <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
@@ -53,10 +43,40 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="lottogopher-alert-notification-jackpot.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="850">
+                  <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+                  <folding>
+                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="lottogopher-payment-request-check.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="476">
+                  <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+                  <folding>
+                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.63226205">
+        <splitter split-orientation="horizontal" split-proportion="0.4785464">
           <split-first>
             <leaf>
               <file leaf-file-name="left-money-green-box.html" pinned="false" current-in-tab="false">
@@ -74,8 +94,8 @@
               <file leaf-file-name="top-money-green-box.html" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/partials/top-money-green-box.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="153">
-                      <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+                    <state relative-caret-position="357">
+                      <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
                       <folding>
                         <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
                         <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
@@ -94,8 +114,18 @@
               <file leaf-file-name="_lottogopher.scss" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="410">
-                      <caret line="165" column="0" lean-forward="false" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+                    <state relative-caret-position="514">
+                      <caret line="466" column="0" lean-forward="false" selection-start-line="466" selection-start-column="0" selection-end-line="466" selection-end-column="0" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="119">
+                      <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
                       <folding />
                     </state>
                   </provider>
@@ -109,11 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>left</find>
-      <find>lotto-spacing-between</find>
-      <find>lotto-order-button</find>
-      <find>lotto-mid-bottom</find>
-      <find>lotto-footer</find>
       <find>margin</find>
       <find>spacin</find>
       <find>18px</find>
@@ -139,6 +164,11 @@
       <find>last</find>
       <find>last-line</find>
       <find>request</find>
+      <find>payment-request</find>
+      <find>border</find>
+      <find>your accou</find>
+      <find>impor</find>
+      <find>payment-req</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,20 +202,22 @@
         <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-superlottoplus.html" />
         <option value="$PROJECT_DIR$/src/partials/left-green-box.html" />
         <option value="$PROJECT_DIR$/src/partials/right-green-box.html" />
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/partials/top-green-box.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
         <option value="$PROJECT_DIR$/src/partials/left-money-green-box.html" />
         <option value="$PROJECT_DIR$/src/partials/right-money-green-box.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/partials/top-money-green-box.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
       </list>
     </option>
   </component>
@@ -200,8 +232,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="3428" />
-    <option name="height" value="1573" />
+    <option name="width" value="3417" />
+    <option name="height" value="1574" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -888,15 +920,15 @@
       <workItem from="1492149679279" duration="35250000" />
       <workItem from="1492197846752" duration="34854000" />
       <workItem from="1492236736185" duration="40156000" />
-      <workItem from="1492303890607" duration="14771000" />
+      <workItem from="1492303890607" duration="18856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135266000" />
+    <option name="totallyTimeSpent" value="139351000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="3428" height="1573" extended-state="0" />
+    <frame x="0" y="22" width="3417" height="1574" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -909,10 +941,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21066847" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13614886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1365926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -975,20 +1007,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/img/lotto-youtube-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/legacy.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
-          <caret line="831" column="18" lean-forward="false" selection-start-line="831" selection-start-column="18" selection-end-line="831" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/lottogopher-email-new-registration.html" />
     <entry file="file://$PROJECT_DIR$/src/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1267,14 +1285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/partials/left-green-box.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1302,14 +1312,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
@@ -1369,14 +1371,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/lottogopher-payment-request.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="0" column="12955" lean-forward="true" selection-start-line="0" selection-start-column="12955" selection-end-line="0" selection-end-column="12955" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/partials/right-money-green-box.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1408,26 +1402,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html">
+    <entry file="file://$PROJECT_DIR$/dist/lottogopher-payment-request.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1941">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="0" column="13389" lean-forward="true" selection-start-line="0" selection-start-column="13389" selection-end-line="0" selection-end-column="13389" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="165" column="0" lean-forward="false" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        <state relative-caret-position="476">
+          <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/lottogopher-payment-request-check.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="0" column="10220" lean-forward="true" selection-start-line="0" selection-start-column="10220" selection-end-line="0" selection-end-column="10220" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="153" column="35" lean-forward="true" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="50" selection-end-line="84" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="77" column="73" lean-forward="false" selection-start-line="77" selection-start-column="73" selection-end-line="77" selection-end-column="73" />
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
@@ -1438,16 +1469,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="466" column="0" lean-forward="false" selection-start-line="466" selection-start-column="0" selection-end-line="466" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/partials/top-money-green-box.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

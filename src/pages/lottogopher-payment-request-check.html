@@ -1,10 +1,10 @@
 ---
-subject: Payment Request Email
+subject: Payment Request Check Email
 ---
 
 {{> header}}
 {{> top-money-green-box title='Your payment is on its way!' topImage='http://i.imgur.com/VPWyKoB.jpg' }}
-<container class="payment-request">
+<container class="payment-request-check">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
             <table cellpadding="0" cellspacing="0" border="0" cellpadding="0" cellspacing="0" border="0" width="100%">
@@ -32,21 +32,21 @@ subject: Payment Request Email
                                                         <row>
                                                             <columns>
                                                                 <center>
-                                                                    <img class="icon" src="http://i.imgur.com/tgLAwWp.png" alt="phone hand money image" />
+                                                                    <img class="icon" src="http://i.imgur.com/xv3yXh4.png" alt="phone hand check image" />
                                                                 </center>
                                                                 <center class="lotto-important-bg-wide">
                                                                     <spacer size="30"></spacer>
                                                                     <h2 class="text-center">Cashing out: $36.00</h2>
-                                                                    <p class="text-center">Your winnings will be credited to credit card ending in: </strong></p>
-                                                                    <spacer size="30"></spacer>
-                                                                    <img style="display: inline-block;" src="http://i.imgur.com/X6k2b8Y.png" alt="visa card icon" />&nbsp;&nbsp;&nbsp;<span>Visa **** 9000</span>
+                                                                    <p class="text-center">Your winnings will be sent to you in a check to the below address: </strong></p>
+                                                                    <spacer size="20"></spacer>
+                                                                    <p class="text-center">
+                                                                        <span>Karm Khanna</span><br />
+                                                                        3807 Wilshire Blvd. #705<br />
+                                                                        Los Angeles CA 90010
+                                                                    </p>
                                                                     <spacer size="10"></spacer>
-                                                                    <p class="text-center"><span>Username: </span>
-                                                                        <a href="#">Jane321</a>
-                                                                    </p>
-                                                                    <p class="text-center"><span>Email: </span>
-                                                                        <a href="#">Jane321@gmail.com</a>
-                                                                    </p>
+                                                                    <p class="text-center light-paragraph"><span>Username: </span>Jane321</p>
+                                                                    <p class="text-center light-paragraph"><span>Email: </span>Jane321@gmail.com</p>
                                                                     <spacer size="40"></spacer>
                                                                 </center>
                                                             </columns>
@@ -82,12 +82,6 @@ subject: Payment Request Email
                                                                 </center>
                                                             </columns>
                                                         </row>
-                                                    </container>
-                                                    <container>
-                                                        <center>
-                                                            <spacer size="30"></spacer>
-                                                            <p class="light-paragraph text-center">*This can sometimes take a few days depending on your bank's policy.</p>
-                                                        </center>
                                                     </container>
                                                     {{> footer}}
                                                 </columns>
