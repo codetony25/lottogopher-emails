@@ -1,12 +1,11 @@
 ---
-subject: Declined Transaction Email
+subject: Payment Request Email
 ---
 
 {{> header}}
-{{> top-green-box }}
-<container class="declined-transaction">
+{{> top-money-green-box }}
+<container class="payment-request">
     <row>
-        {{> left-green-box }}
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
             <table cellpadding="0" cellspacing="0" border="0" cellpadding="0" cellspacing="0" border="0" width="100%">
                 <tr>
@@ -20,19 +19,14 @@ subject: Declined Transaction Email
                                         <center bgcolor="#fff">
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
-                                                    <h1 class="lotto-border-left-right text-center">Payment Processing Issue</h1>
+                                                    <h1 class="lotto-border-left-right text-center">Your payment is on its way!</h1>
                                                     <spacer class="lotto-border-left-right" size="10"></spacer>
                                                     <container class="lotto-border-left-right">
                                                         <row>
                                                             <columns small="12" large="8" class="emails large-offset-1">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">There was a porblem with your order.</h3>
                                                                 <spacer size="15"></spacer>
                                                                 <p class="lotto-email-info lotto-body-spacing">
-                                                                    Thank you for your ongoing LottoGopher subscription. Unfortunately, we are unable to process the recurring payment due at this time because your credit card company has declined the charge to your <span>[Visa]</span> card ending in <span>[7398]</span>.
-                                                                </p>
-                                                                <spacer size="15"></spacer>
-                                                                <p class="lotto-email-info lotto-body-spacing">
-                                                                    Find below subscription(s) affected:
+                                                                    Your request to cash in your winnings has been received and will be processed within the next 48 hours.
                                                                 </p>
                                                             </columns>
                                                             <columns small="12" large="3">
@@ -112,7 +106,7 @@ subject: Declined Transaction Email
                                                     </center>
                                                     <spacer class="lotto-border-left-right" size="30"></spacer>
                                                     <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">
-                                                        To resume your recurring order, <a href="#">update your account</a> with a different credit card or confirm that your original account will accept this charge. If you prefer to cancel this order, simply do nothing and your subscription(s) will be terminated.
+                                                        To resume your recurring order, <a href="#">update your account</a>with a different credit card or confirm that your original account will accept this charge. If you prefer to cancel this order, simply do nothing and your subscription(s) will be terminated.
                                                     </p>
                                                     <spacer class="lotto-border-left-right" size="30"></spacer>
                                                     <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">
@@ -141,6 +135,5 @@ subject: Declined Transaction Email
                 </tr>
             </table>
         </columns>
-        {{> right-green-box }}
     </row>
 </container>

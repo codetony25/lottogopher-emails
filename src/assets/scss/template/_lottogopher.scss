@@ -118,6 +118,10 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
   center {
     width: initial;
   }
+  span {
+    color: #333333;
+    font-weight: bold;
+  }
 }
 
 .lotto-footer-description {
@@ -142,13 +146,32 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
   }
 }
 
+.lotto-top-money-bg {
+  width: 100%;
+  @media (min-width: 638px) {
+    width: 638px !important;
+  }
+  th.columns {
+    padding-bottom: 0 !important;
+  }
+  th.large-12 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+table.container.payment-request {
+  max-width: 573px !important;
+}
+
 /* Common Emails */
 .email-change-update,
 .billing-alert,
 .membership-upgrade,
 .membership-cancel,
 .registration,
-.declined-transaction {
+.declined-transaction,
+.payment-request {
   .lotto-second-middle-row {
     h1 {
       padding-top: 23px;
@@ -193,10 +216,10 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 
 /* registration */
 .registration,
-.declined-transaction {
+.declined-transaction,
+.payment-request {
   .lotto-important-bg-wide {
     background: #eff8ff;
-    padding: 21px;
 
     h2 {
       font-size: 24px;
@@ -277,7 +300,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 
 .membership-upgrade,
 .membership-cancel,
-.declined-transaction {
+.declined-transaction,
+.payment-request {
   .icon {
     padding-top: 17px;
   }
@@ -396,6 +420,23 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
       width: 530px !important;
     }
   }
+}
+
+.second-header {
+  font-size: 24px;
+  color: #333333;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.headline-paragraph {
+  font-size: 14px;
+  color: #777777;
+}
+
+.light-paragraph {
+  font-size: 12px;
+  color: #aeaeae;
 }
 
 .lotto-mid-bottom {
