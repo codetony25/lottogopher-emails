@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/hand-check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lotto-powerball-ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-money-bag-box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-powerball-header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/get-started-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-certificate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/index.html" afterPath="$PROJECT_DIR$/src/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-registration.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/partials/top-money-green-box.html" afterPath="$PROJECT_DIR$/src/partials/top-money-green-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,50 +21,66 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5037749">
+    <splitter split-orientation="horizontal" split-proportion="0.4785464">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="lottogopher-payment-request.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request.html">
+        <leaf>
+          <file leaf-file-name="lottogopher-invite-friend.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+                <state relative-caret-position="213">
+                  <caret line="48" column="78" lean-forward="false" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
                   <folding>
-                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h1#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#center#0;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#2;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#center#2;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <marker date="1492329753000" expanded="true" signature="8794:10000" ph="..." />
+                    <marker date="1492329753000" expanded="true" signature="8868:9923" ph="..." />
+                    <marker date="1492329753000" expanded="true" signature="9062:9746" ph="..." />
+                    <marker date="1492329753000" expanded="true" signature="9147:9663" ph="..." />
+                    <marker date="1492329753000" expanded="true" signature="9251:9577" ph="..." />
+                    <marker date="1492329753000" expanded="true" signature="9378:9492" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="lottogopher-alert-notification-jackpot.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
+          <file leaf-file-name="lottogopher-blasts-megamillions.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="850">
-                  <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+                <state relative-caret-position="631">
+                  <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="80" selection-end-column="56" />
                   <folding>
                     <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="lottogopher-payment-request-check.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
-                  <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
-                  <folding>
-                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <marker date="1492304188000" expanded="true" signature="1502:1540" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="1541:1951" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="1719:1800" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="1867:1893" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="1910:1951" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="4568:5620" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="4630:5555" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="4800:5402" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="4873:5331" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="4965:5257" ph="..." />
+                    <marker date="1492304188000" expanded="true" signature="5080:5184" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -76,78 +89,33 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.4785464">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="left-money-green-box.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/partials/left-money-green-box.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="170">
-                      <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="17" />
-                      <folding>
-                        <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#!!top" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="top-money-green-box.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/partials/top-money-green-box.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="357">
-                      <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-                      <folding>
-                        <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#img#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#img#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="_lottogopher.scss" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="514">
-                      <caret line="466" column="0" lean-forward="false" selection-start-line="466" selection-start-column="0" selection-end-line="466" selection-end-column="0" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="119">
-                      <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
+        <leaf>
+          <file leaf-file-name="_lottogopher.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="500">
+                  <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
       </split-second>
     </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>margin</find>
-      <find>spacin</find>
-      <find>18px</find>
-      <find>purchased-item</find>
-      <find>common</find>
-      <find>bg</find>
-      <find>lotto-top-money-bg</find>
-      <find>lotto-important-bg-wide</find>
-      <find>span</find>
       <find>update</find>
       <find>.</find>
       <find>line</find>
@@ -162,13 +130,22 @@
       <find>last-lin</find>
       <find>l</find>
       <find>last</find>
-      <find>last-line</find>
       <find>request</find>
       <find>payment-request</find>
       <find>border</find>
       <find>your accou</find>
       <find>impor</find>
       <find>payment-req</find>
+      <find>last-line</find>
+      <find>;</find>
+      <find>&amp;;</find>
+      <find>&amp;</find>
+      <find>&amp;ng</find>
+      <find>&amp;n</find>
+      <find>&amp;nb</find>
+      <find>&amp;nbs</find>
+      <find>&amp;nbsp</find>
+      <find>&amp;nbsp;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -213,11 +190,12 @@
         <option value="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/partials/top-money-green-box.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html" />
       </list>
     </option>
   </component>
@@ -232,7 +210,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="3417" />
+    <option name="width" value="3369" />
     <option name="height" value="1574" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -920,15 +898,15 @@
       <workItem from="1492149679279" duration="35250000" />
       <workItem from="1492197846752" duration="34854000" />
       <workItem from="1492236736185" duration="40156000" />
-      <workItem from="1492303890607" duration="18856000" />
+      <workItem from="1492303890607" duration="23917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139351000" />
+    <option name="totallyTimeSpent" value="144412000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="3417" height="1574" extended-state="0" />
+    <frame x="0" y="22" width="3369" height="1574" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -944,7 +922,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1365926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13856328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1007,21 +985,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml-lat1.ent">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="59" lean-forward="true" selection-start-line="52" selection-start-column="51" selection-end-line="53" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -1106,19 +1069,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="0" column="9804" lean-forward="true" selection-start-line="0" selection-start-column="9804" selection-end-line="0" selection-end-column="9804" />
-          <folding>
-            <marker date="1492304188000" expanded="false" signature="20345:20383" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="20384:20842" ph="..." />
-            <marker date="1492304188000" expanded="false" signature="20578:20659" ph="..." />
-            <marker date="1492304188000" expanded="false" signature="20742:20768" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="20785:20842" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="34693:35953" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="34771:35872" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="34973:35687" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="35062:35600" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="35170:35510" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="35301:35421" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,35 +1086,6 @@
         <state relative-caret-position="476">
           <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492304188000" expanded="true" signature="1502:1540" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1541:1951" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1719:1800" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1867:1893" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1910:1951" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4568:5620" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4630:5555" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4800:5402" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4873:5331" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4965:5257" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="5080:5184" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1382,16 +1304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/left-money-green-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -1410,39 +1322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/lottogopher-payment-request-check.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="0" column="10220" lean-forward="true" selection-start-line="0" selection-start-column="10220" selection-end-line="0" selection-end-column="10220" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="153" column="35" lean-forward="true" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1457,49 +1340,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+    <entry file="file://$PROJECT_DIR$/dist/lottogopher-alert-notification-jackpot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="466" column="0" lean-forward="false" selection-start-line="466" selection-start-column="0" selection-end-line="466" selection-end-column="0" />
+        <state relative-caret-position="686">
+          <caret line="0" column="11027" lean-forward="true" selection-start-line="0" selection-start-column="11027" selection-end-line="0" selection-end-column="11027" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="90" column="48" lean-forward="true" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="52" column="84" lean-forward="false" selection-start-line="52" selection-start-column="84" selection-end-line="52" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="80" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492304188000" expanded="true" signature="1502:1540" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="1541:1951" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="1719:1800" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="1867:1893" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="1910:1951" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="4568:5620" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="4630:5555" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="4800:5402" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="4873:5331" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="4965:5257" ph="..." />
+            <marker date="1492304188000" expanded="true" signature="5080:5184" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/partials/top-money-green-box.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/left-money-green-box.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="17" />
           <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="48" column="78" lean-forward="false" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#0;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#2;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#2;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492329753000" expanded="true" signature="8794:10000" ph="..." />
+            <marker date="1492329753000" expanded="true" signature="8868:9923" ph="..." />
+            <marker date="1492329753000" expanded="true" signature="9062:9746" ph="..." />
+            <marker date="1492329753000" expanded="true" signature="9147:9663" ph="..." />
+            <marker date="1492329753000" expanded="true" signature="9251:9577" ph="..." />
+            <marker date="1492329753000" expanded="true" signature="9378:9492" ph="..." />
           </folding>
         </state>
       </provider>
