@@ -146,7 +146,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
   }
 }
 
-.lotto-top-money-bg {
+.lotto-top-money-bg,
+.lotto-top-name-bg {
   width: 100%;
   h2, h1 {
     margin: 0;
@@ -168,22 +169,38 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
   }
 }
 
+.mega-millions-top-border {
+  border-top: 4px solid #4276d6;
+  width: 550px;
+  margin: 0 auto;
+}
+
+.ticket-category {
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
+
+  p {
+    color: #d6d6d6;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 14px;
+  }
+}
+
 table.container.payment-request,
 table.container.payment-request-check,
-table.container.alert-notification-jackpot {
+table.container.receipt-gift-order-giver,
+table.container.ticket-receipt,
+table.container.ticket-cancellation,
+table.container.ticket-subscription,
+table.container.receipt-gift-order-receipient,
+table.container.receipt-member-subscription,
+table.container.billing-update {
   max-width: 573px !important;
 }
 
 /* Common Emails */
-.email-change-update,
-.billing-alert,
-.membership-upgrade,
-.membership-cancel,
-.registration,
-.declined-transaction,
-.payment-request,
-.payment-request-check,
-.alert-notification-jackpot {
+.common-container {
   .lotto-second-middle-row {
     h1 {
       padding-top: 23px;
@@ -226,12 +243,7 @@ table.container.alert-notification-jackpot {
   }
 }
 
-/* registration */
-.registration,
-.declined-transaction,
-.payment-request,
-.payment-request-check,
-.alert-notification-jackpot {
+.common-container {
   .lotto-important-bg-wide {
     background: #eff8ff;
 
@@ -312,12 +324,7 @@ table.container.alert-notification-jackpot {
   background: #fff !important;
 }
 
-.membership-upgrade,
-.membership-cancel,
-.declined-transaction,
-.payment-request,
-.payment-request-check,
-.alert-notification-jackpot {
+.common-container {
   .icon {
     padding-top: 17px;
   }
@@ -386,6 +393,15 @@ table.container.alert-notification-jackpot {
     .description-info,
     .purchase-info {
       border-top: 2px solid #e4e4e4;
+    }
+
+    .add-bottom-border {
+      border-bottom: 2px solid #e4e4e4;
+    }
+
+    .description-info,
+    .purchase-info,
+    .ticket-info {
       margin: 15px auto;
       @media (min-width: 640px) {
         width: 530px !important;
@@ -416,6 +432,59 @@ table.container.alert-notification-jackpot {
         color: #333333;
         font-weight: bold;
         padding-top: 7px;
+      }
+    }
+
+    .ticket-info {
+      border-left: 6px solid #ffa434;
+      border-right: 14px solid #ffa434;
+      .each-ticket {
+        border-bottom: 1px solid #f0f0f0;
+        padding-bottom: 3px;
+      }
+      span {
+        font-size: 13px;
+        color: #333;
+        font-weight: normal;
+        display: inline-block;
+        padding-top: 6px;
+        padding-bottom: 6px;
+      }
+      .value {
+        span {
+          padding-left: 25px;
+          vertical-align: top;
+          color: #999999;
+          @media (min-width: 640px) {
+            padding-right: 60px !important;
+          }
+        }
+      }
+      .picked-numbers {
+        span {
+          display: inline-block;
+          vertical-align: middle;
+          @media (min-width: 640px) {
+            padding-right: 6px !important;
+          }
+        }
+        .mega-number {
+          color: #333;
+          font-weight: bold;
+          padding-left: 23px;
+        }
+        .quick-pick {
+          color: #c1c1c1;
+          @media (min-width: 640px) {
+            padding-left: 5px !important;
+          }
+        }
+      }
+      .scheduled-date {
+        span {
+          color: #7f7f7f;
+
+        }
       }
     }
   }

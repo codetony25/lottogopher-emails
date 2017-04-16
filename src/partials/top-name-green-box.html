@@ -1,0 +1,38 @@
+<container class="lotto-top-name-bg">
+    <row>
+        <!--[if !mso]><\!-->
+        <columns class="show-for-large" small="1" large="1" bgcolor="#8ad53b" style="padding: 0 !important;"></columns>
+        <!-- <![endif]-->
+        <columns small="12" large="12">
+            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                <tr>
+                    <td background="{{topImage}}" bgcolor="#fff" valign="top" style="background-position: 50% 0 !important; background-repeat: no-repeat !important;">
+                        <!--[if gte mso 9]>
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;">
+                            <v:fill type="tile" src="{{topImage}}" color="#fff" />
+                            <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+                        <![endif]-->
+                        <div>
+                            <spacer size="20"></spacer>
+                            <p class="top-name-introduction" style="color: white; font-size: 15px;">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello Jane,
+                            </p>
+                            <spacer size="60"></spacer>
+                            {{#if subtitle}}
+                            <h2 class="lotto-border-left-right text-center">{{subtitle}}</h2>
+                            {{/if}}
+                            <h1 style="padding-left: 25px; padding-right: 25px;" class="{{classForTitle}} lotto-border-left-right text-center">{{title}}</h1>
+                        </div>
+                        <!--[if gte mso 9]>
+                        </v:textbox>
+                        </v:rect>
+                        <![endif]-->
+                    </td>
+                </tr>
+            </table>
+        </columns>
+        <!--[if !mso]><\!-->
+        <columns class="show-for-large" small="1" large="1" bgcolor="#8ad53b" style="padding: 0 !important;"></columns>
+        <!-- <![endif]-->
+    </row>
+</container>

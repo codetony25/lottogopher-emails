@@ -2,15 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/get-started-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-certificate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-group.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/left-green-quotation-mark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/mega-millions-ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/right-green-quotation-mark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/small-icon-reminder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/top-receipt-box.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/view-my-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/view-winnings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-alert-notifications-big-winnings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-billing-update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-receipt-gift-order-giver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-receipt-gift-order-receipient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-receipt-member-subscription.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-ticket-cancellation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-ticket-receipt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/lottogopher-ticket-subscription.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partials/top-name-green-box.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/index.html" afterPath="$PROJECT_DIR$/src/pages/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/lottogopher-registration.html" afterPath="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,66 +43,36 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4785464">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="lottogopher-invite-friend.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="213">
-                  <caret line="48" column="78" lean-forward="false" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
-                  <folding>
-                    <element signature="n#style#0;n#h1#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#a#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#center#0;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#2;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#center#2;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <marker date="1492329753000" expanded="true" signature="8794:10000" ph="..." />
-                    <marker date="1492329753000" expanded="true" signature="8868:9923" ph="..." />
-                    <marker date="1492329753000" expanded="true" signature="9062:9746" ph="..." />
-                    <marker date="1492329753000" expanded="true" signature="9147:9663" ph="..." />
-                    <marker date="1492329753000" expanded="true" signature="9251:9577" ph="..." />
-                    <marker date="1492329753000" expanded="true" signature="9378:9492" ph="..." />
-                  </folding>
+                <state relative-caret-position="697">
+                  <caret line="41" column="95" lean-forward="true" selection-start-line="41" selection-start-column="95" selection-end-line="41" selection-end-column="127" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="lottogopher-blasts-megamillions.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html">
+          <file leaf-file-name="lottogopher-alert-notifications-big-winnings.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notifications-big-winnings.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="631">
-                  <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="80" selection-end-column="56" />
+                <state relative-caret-position="507">
+                  <caret line="175" column="73" lean-forward="false" selection-start-line="175" selection-start-column="73" selection-end-line="175" selection-end-column="73" />
                   <folding>
-                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-                    <marker date="1492304188000" expanded="true" signature="1502:1540" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="1541:1951" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="1719:1800" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="1867:1893" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="1910:1951" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="4568:5620" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="4630:5555" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="4800:5402" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="4873:5331" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="4965:5257" ph="..." />
-                    <marker date="1492304188000" expanded="true" signature="5080:5184" ph="..." />
+                    <element signature="n#style#0;n#p#0;n#center#0;n#columns#1;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#columns#2;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#3;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#columns#2;n#row#1;n#container#0;n#columns#0;n#row#0;n#container#3;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#columns#0;n#row#1;n#container#3;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#container#4;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+                    <marker date="1492351353000" expanded="true" signature="10494:11653" ph="..." />
+                    <marker date="1492351353000" expanded="true" signature="10564:11580" ph="..." />
+                    <marker date="1492351353000" expanded="true" signature="10750:11411" ph="..." />
+                    <marker date="1492351353000" expanded="true" signature="10831:11332" ph="..." />
+                    <marker date="1492351353000" expanded="true" signature="10931:11250" ph="..." />
+                    <marker date="1492351353000" expanded="true" signature="11054:11169" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -93,18 +85,8 @@
           <file leaf-file-name="_lottogopher.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="500">
-                  <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+                <state relative-caret-position="738">
+                  <caret line="491" column="0" lean-forward="false" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -116,24 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>update</find>
-      <find>.</find>
-      <find>line</find>
-      <find>line-l</find>
-      <find>line-</find>
-      <find>li</find>
-      <find>last-lane</find>
-      <find>last-lan</find>
-      <find>last-la</find>
-      <find>last-lu</find>
-      <find>last-l</find>
-      <find>last-lin</find>
-      <find>l</find>
-      <find>last</find>
-      <find>request</find>
-      <find>payment-request</find>
-      <find>border</find>
-      <find>your accou</find>
       <find>impor</find>
       <find>payment-req</find>
       <find>last-line</find>
@@ -146,6 +110,24 @@
       <find>&amp;nbs</find>
       <find>&amp;nbsp</find>
       <find>&amp;nbsp;</find>
+      <find>lotto-important-bg-wide</find>
+      <find>lotto-top-money-bg</find>
+      <find>payment-request</find>
+      <find>visa</find>
+      <find>table.</find>
+      <find>I</find>
+      <find>IMPORT</find>
+      <find>IMPORTANT</find>
+      <find>IMPORTANT:</find>
+      <find>IMPORTANT:</find>
+      <find>IMPORTANT: T</find>
+      <find>IMPORTANT: TH</find>
+      <find>v</find>
+      <find>view m</find>
+      <find>view my</find>
+      <find>view my</find>
+      <find>view my t</find>
+      <find>view my ti</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -175,27 +157,38 @@
         <option value="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
         <option value="$PROJECT_DIR$/dist/lottogopher-blasts-superlottoplus.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-powerball.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-superlottoplus.html" />
         <option value="$PROJECT_DIR$/src/partials/left-green-box.html" />
         <option value="$PROJECT_DIR$/src/partials/right-green-box.html" />
         <option value="$PROJECT_DIR$/src/partials/top-green-box.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" />
         <option value="$PROJECT_DIR$/src/partials/left-money-green-box.html" />
         <option value="$PROJECT_DIR$/src/partials/right-money-green-box.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
         <option value="$PROJECT_DIR$/src/partials/top-money-green-box.html" />
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-receipt-gift-order-giver.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-password-reset.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-ticket-receipt.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-ticket-cancellation.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-ticket-subscription.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-gift-order-receipient.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-reciept-gift-order-receipient.html" />
+        <option value="$PROJECT_DIR$/src/partials/top-name-green-box.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-receipt-gift-order-receipient.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-receipt-member-subscription.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-billing-update.html" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" />
+        <option value="$PROJECT_DIR$/src/pages/lottogopher-alert-notifications-big-winnings.html" />
       </list>
     </option>
   </component>
@@ -210,7 +203,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="3369" />
+    <option name="width" value="3533" />
     <option name="height" value="1574" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -231,9 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -313,36 +303,6 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -366,22 +326,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,16 +338,19 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/tonynguyen/Desktop/lottogopher-emails/src/pages/lottogopher-blasts-powerball.html" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/lottogopher-blasts-superlottoplus.html&#10;/Users/tonynguyen/Desktop/lottogopher-emails/dist/lottogopher-membership-cancel.html" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/img" />
-      <recent name="$PROJECT_DIR$/src/partials" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/img" />
       <recent name="$PROJECT_DIR$/src/pages/examples" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/partials" />
       <recent name="$PROJECT_DIR$/src/pages" />
     </key>
   </component>
@@ -898,15 +850,16 @@
       <workItem from="1492149679279" duration="35250000" />
       <workItem from="1492197846752" duration="34854000" />
       <workItem from="1492236736185" duration="40156000" />
-      <workItem from="1492303890607" duration="23917000" />
+      <workItem from="1492303890607" duration="25326000" />
+      <workItem from="1492331763386" duration="19027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144412000" />
+    <option name="totallyTimeSpent" value="164848000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="3369" height="1574" extended-state="0" />
+    <frame x="0" y="22" width="3533" height="1574" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -916,21 +869,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21255061" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13856328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13262676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -985,91 +938,10 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/lottogopher-blasts-megamillions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="4" column="10558" lean-forward="false" selection-start-line="4" selection-start-column="10558" selection-end-line="4" selection-end-column="10558" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/examples/hero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/lottogopher-blasts-powerball.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="0" column="2734" lean-forward="true" selection-start-line="0" selection-start-column="2734" selection-end-line="0" selection-end-column="2734" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/examples/marketing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/examples/order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="68" column="34" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/examples/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="911">
-          <caret line="65" column="15" lean-forward="true" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/examples/sidebar-hero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="54" column="57" lean-forward="true" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/right-arrow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="81" column="27" lean-forward="false" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/lottogopher-blasts-superlottoplus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="0" column="9804" lean-forward="true" selection-start-line="0" selection-start-column="9804" selection-end-line="0" selection-end-column="9804" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,28 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492304172000" expanded="true" signature="1499:1537" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="1538:1948" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="1716:1797" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="1864:1890" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="1907:1948" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="4565:5617" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="4627:5552" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="4797:5399" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="4870:5328" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="4962:5254" ph="..." />
-            <marker date="1492304172000" expanded="true" signature="5077:5181" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1155,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="0" column="24024" lean-forward="false" selection-start-line="0" selection-start-column="24024" selection-end-line="0" selection-end-column="24024" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="0" column="10980" lean-forward="false" selection-start-line="0" selection-start-column="10980" selection-end-line="0" selection-end-column="10980" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,7 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="670">
           <caret line="0" column="30783" lean-forward="true" selection-start-line="0" selection-start-column="30783" selection-end-line="0" selection-end-column="30783" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,7 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="0" column="23469" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="62190" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="0" column="13289" lean-forward="false" selection-start-line="0" selection-start-column="13289" selection-end-line="0" selection-end-column="13289" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="0" column="3248" lean-forward="false" selection-start-line="0" selection-start-column="3248" selection-end-line="0" selection-end-column="3248" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1203,65 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="0" column="7955" lean-forward="false" selection-start-line="0" selection-start-column="7955" selection-end-line="0" selection-end-column="7955" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/left-green-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/right-green-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/top-green-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-password-reset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1269,20 +1053,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/right-green-money-box.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/left-green-money-box.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/right-green-money-box.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/assets/img/left-green-money-box.jpg" />
     <entry file="file://$PROJECT_DIR$/src/assets/img/left-money-green-box.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1293,32 +1068,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/right-money-green-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="117" column="119" lean-forward="false" selection-start-line="117" selection-start-column="119" selection-end-line="117" selection-end-column="119" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/lottogopher-payment-request.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="0" column="13389" lean-forward="true" selection-start-line="0" selection-start-column="13389" selection-end-line="0" selection-end-column="13389" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1326,42 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="0" column="10220" lean-forward="true" selection-start-line="0" selection-start-column="10220" selection-end-line="0" selection-end-column="10220" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="50" selection-end-line="84" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#center#1;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1369,74 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="686">
           <caret line="0" column="11027" lean-forward="true" selection-start-line="0" selection-start-column="11027" selection-end-line="0" selection-end-column="11027" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="90" column="48" lean-forward="true" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="52" column="84" lean-forward="false" selection-start-line="52" selection-start-column="84" selection-end-line="52" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="80" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492304188000" expanded="true" signature="1502:1540" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1541:1951" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1719:1800" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1867:1893" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="1910:1951" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4568:5620" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4630:5555" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4800:5402" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4873:5331" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="4965:5257" ph="..." />
-            <marker date="1492304188000" expanded="true" signature="5080:5184" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/top-money-green-box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1444,24 +1093,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/lottogopher-invite-friend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="0" column="16370" lean-forward="false" selection-start-line="0" selection-start-column="16370" selection-end-line="0" selection-end-column="16370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/top-green-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/left-green-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/right-money-green-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/right-green-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/top-money-green-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request-check.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="62" lean-forward="true" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#center#3;n#columns#0;n#row#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/lottogopher-receipt-gift-order-giver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="0" column="9292" lean-forward="false" selection-start-line="0" selection-start-column="9292" selection-end-line="0" selection-end-column="9292" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-password-reset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-ticket-cancellation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="93" column="34" lean-forward="false" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-invite-friend.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="48" column="78" lean-forward="false" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+        <state relative-caret-position="-833">
+          <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="55" selection-end-column="76" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
@@ -1477,15 +1232,291 @@
             <element signature="n#style#0;n#p#0;n#center#3;n#columns#0;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492329753000" expanded="true" signature="8794:10000" ph="..." />
-            <marker date="1492329753000" expanded="true" signature="8868:9923" ph="..." />
-            <marker date="1492329753000" expanded="true" signature="9062:9746" ph="..." />
-            <marker date="1492329753000" expanded="true" signature="9147:9663" ph="..." />
-            <marker date="1492329753000" expanded="true" signature="9251:9577" ph="..." />
-            <marker date="1492329753000" expanded="true" signature="9378:9492" ph="..." />
+            <marker date="1492342241000" expanded="true" signature="8811:10017" ph="..." />
+            <marker date="1492342241000" expanded="true" signature="8885:9940" ph="..." />
+            <marker date="1492342241000" expanded="true" signature="9079:9763" ph="..." />
+            <marker date="1492342241000" expanded="true" signature="9164:9680" ph="..." />
+            <marker date="1492342241000" expanded="true" signature="9268:9594" ph="..." />
+            <marker date="1492342241000" expanded="true" signature="9395:9509" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notification-jackpot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="68" column="49" lean-forward="true" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-receipt-gift-order-giver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="195" column="63" lean-forward="true" selection-start-line="195" selection-start-column="63" selection-end-line="195" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#container#0;n#center#0;n#columns#0;n#row#1;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#columns#1;n#row#0;n#container#0;n#center#1;n#columns#0;n#row#0;n#container#4;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#container#0;n#center#2;n#columns#0;n#row#0;n#container#4;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-ticket-subscription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#4;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#0;n#columns#0;n#row#4;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#4;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492346179000" expanded="true" signature="24816:26024" ph="..." />
+            <marker date="1492346179000" expanded="true" signature="24890:25947" ph="..." />
+            <marker date="1492346179000" expanded="true" signature="25084:25770" ph="..." />
+            <marker date="1492346179000" expanded="true" signature="25169:25687" ph="..." />
+            <marker date="1492346179000" expanded="true" signature="25273:25601" ph="..." />
+            <marker date="1492346179000" expanded="true" signature="25400:25516" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-receipt-gift-order-receipient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#container#0;n#center#0;n#columns#0;n#row#1;n#container#0;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#2;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492347198000" expanded="true" signature="5838:6997" ph="..." />
+            <marker date="1492347198000" expanded="true" signature="5908:6924" ph="..." />
+            <marker date="1492347198000" expanded="true" signature="6094:6755" ph="..." />
+            <marker date="1492347198000" expanded="true" signature="6175:6676" ph="..." />
+            <marker date="1492347198000" expanded="true" signature="6275:6594" ph="..." />
+            <marker date="1492347198000" expanded="true" signature="6398:6513" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/top-name-green-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492347175000" expanded="true" signature="677:700" ph="..." />
+            <marker date="1492347175000" expanded="true" signature="701:900" ph="..." />
+            <marker date="1492347175000" expanded="true" signature="832:858" ph="..." />
+            <marker date="1492347175000" expanded="true" signature="875:900" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-payment-request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-ticket-receipt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="68" lean-forward="true" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
+          <folding>
+            <marker date="1492344174000" expanded="true" signature="20585:21949" ph="..." />
+            <marker date="1492344174000" expanded="true" signature="20671:21860" ph="..." />
+            <marker date="1492344174000" expanded="true" signature="20889:21659" ph="..." />
+            <marker date="1492344174000" expanded="true" signature="20986:21564" ph="..." />
+            <marker date="1492344174000" expanded="true" signature="21102:21466" ph="..." />
+            <marker date="1492344174000" expanded="true" signature="21241:21369" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-billing-update.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="959">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-receipt-member-subscription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="81" lean-forward="true" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+          <folding>
+            <marker date="1492347580000" expanded="true" signature="10942:12306" ph="..." />
+            <marker date="1492347580000" expanded="true" signature="11028:12217" ph="..." />
+            <marker date="1492347580000" expanded="true" signature="11246:12016" ph="..." />
+            <marker date="1492347580000" expanded="true" signature="11343:11921" ph="..." />
+            <marker date="1492347580000" expanded="true" signature="11459:11823" ph="..." />
+            <marker date="1492347580000" expanded="true" signature="11598:11726" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="95" lean-forward="true" selection-start-line="41" selection-start-column="95" selection-end-line="41" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="53" column="59" lean-forward="true" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#0;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#columns#0;n#row#0;n#center#0;n#container#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#1;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#columns#2;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492351001000" expanded="true" signature="1502:1540" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="1541:1951" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="1719:1800" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="1867:1893" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="1910:1951" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="4568:5620" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="4630:5555" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="4800:5402" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="4873:5331" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="4965:5257" ph="..." />
+            <marker date="1492351001000" expanded="true" signature="5080:5184" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_lottogopher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="491" column="0" lean-forward="false" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-membership-upgrade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="97" column="37" lean-forward="true" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="134" column="40" lean-forward="false" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-alert-notifications-big-winnings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="175" column="73" lean-forward="false" selection-start-line="175" selection-start-column="73" selection-end-line="175" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#center#0;n#columns#1;n#row#0;n#container#1;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#columns#2;n#row#0;n#container#0;n#columns#0;n#row#0;n#container#3;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#columns#2;n#row#1;n#container#0;n#columns#0;n#row#0;n#container#3;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#1;n#container#3;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#container#4;n#columns#0;n#row#0;n#center#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#columns#0;n#row#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492351353000" expanded="true" signature="10494:11653" ph="..." />
+            <marker date="1492351353000" expanded="true" signature="10564:11580" ph="..." />
+            <marker date="1492351353000" expanded="true" signature="10750:11411" ph="..." />
+            <marker date="1492351353000" expanded="true" signature="10831:11332" ph="..." />
+            <marker date="1492351353000" expanded="true" signature="10931:11250" ph="..." />
+            <marker date="1492351353000" expanded="true" signature="11054:11169" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lottogopher-emails</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

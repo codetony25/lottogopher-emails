@@ -1,16 +1,14 @@
 ---
-subject: Membership Upgrade Email
+subject: Ticket Cancellation Email
 ---
 
 {{> header}}
-{{> top-green-box }}
-<container class="common-container membership-upgrade">
+{{> top-name-green-box title='Your Ticket Cancellation' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
+<container class="common-container ticket-cancellation">
     <row>
-        {{> left-green-box }}
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
             <table cellpadding="0" cellspacing="0" border="0" cellpadding="0" cellspacing="0" border="0" width="100%">
                 <tr>
-                    <!-- Top middle cloud image -->
                     <td>
                         <center>
                             <table align="center" class="lotto-top-context" style="width: 100%;" cellpadding="0" cellspacing="0" border="0" width="100%" style="table-layout: fixed;">
@@ -20,19 +18,14 @@ subject: Membership Upgrade Email
                                         <center bgcolor="#fff">
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
-                                                    <h1 class="lotto-border-left-right text-center">Membership Upgraded!</h1>
-                                                    <spacer class="lotto-border-left-right" size="10"></spacer>
                                                     <container class="lotto-border-left-right">
                                                         <row>
-                                                            <columns small="12" large="8" class="emails large-offset-1">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Your membership has no been upgraded.</h3>
+                                                            <columns small="12" large="12" class="emails large-offset-1">
+                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Cancellation Confirmation</h3>
                                                                 <spacer size="15"></spacer>
                                                                 <p class="lotto-email-info lotto-body-spacing">
                                                                     This email is to confirm that we've processed your request for the following:
                                                                 </p>
-                                                            </columns>
-                                                            <columns small="12" large="3">
-                                                                <img class="icon small-float-center" src="http://i.imgur.com/GZ5BKuc.png" alt="membership upgrade certificate icon image">
                                                             </columns>
                                                         </row>
                                                     </container>
@@ -59,37 +52,38 @@ subject: Membership Upgrade Email
                                                         <row class="purchase-info">
                                                             <columns small="6">
                                                                 <spacer size="15"></spacer>
-                                                                <p class="purchased-item text-left">Annual Membership Upgrade</p>
+                                                                <p class="purchased-item text-left">1 SupperLotto Plus Set of Eight Tickets <span class="cancelled">(CANCELLED)</span></p>
                                                             </columns>
                                                             <columns small="6">
                                                                 <spacer size="15"></spacer>
                                                                 <p class="price text-right">$99.00</p>
                                                             </columns>
                                                         </row>
-                                                        <row class="total-info lotto-body-spacing">
-                                                            <columns small="6">
-                                                                <p class="paid-with text-left">Paid with <br />
-                                                                    <img src="http://i.imgur.com/X6k2b8Y.png" alt="visa card icon" />&nbsp;&nbsp;&nbsp;<span>Visa **** 9000</span>
-                                                                </p>
-                                                            </columns>
-                                                            <columns small="6">
-                                                                <p class="total text-right"><span>Total</span> $99.00</p>
-                                                            </columns>
-                                                        </row>
                                                     </container>
+                                                    <p class="lotto-questions-concerns lotto-border-left-right lotto-body-spacing">Your subscription has been cancelled andyou will not be charged. But before you go we want to ask you...</p>
                                                     <center class="lotto-border-left-right">
                                                         <spacer size="25"></spacer>
                                                         <p class="lotto-important-bg">
-                                                            IMPORTANT: The LottoGopher ticket courier service will appear on your bank statement as "<span>TICKETCOURIER.COM</span>" - please make note of this!</span>
+                                                            <span style="color: #333333; font-weight: bold; font-size: 13px;">1. What was the reason for cancelling your ticket subscription today?</span><br />
+                                                            <span style="color: #333333; font-weight: bold; font-size: 13px;">2. If there was afeature you would like to see added, what would it be?</span>
                                                         </p>
                                                     </center>
                                                     <spacer class="lotto-border-left-right" size="30"></spacer>
-                                                    <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">Questions or concerns, please contact
+                                                    <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">
+                                                        Help make Lottogropher great for everyone. Please take a moment and tell us why you cancelled this order.
+                                                        <a href="#">Simply reply to this email.</a>
+                                                    </p>
+                                                    <spacer class="lotto-border-left-right" size="30"></spacer>
+                                                    <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">If you had experienced any errors or didn't request this cancellation please contact
                                                         <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call <a href="">866-LOTTO-GO</a>
                                                     </p>
                                                     <spacer class="lotto-border-left-right" size="20"></spacer>
                                                     <p class="lotto-border-left-right lotto-sincerely lotto-body-spacing">Sincerely,<br />The LottoGopher Team</p>
-                                                    <spacer class="last-line lotto-border-left-right" size="55"></spacer>
+                                                    <spacer class="lotto-border-left-right" size="20"></spacer>
+                                                    <p class="lotto-border-left-right lotto-questions-concerns lotto-body-spacing">
+                                                        <strong style="color: #333333">p.s.</strong>Your subscriptions already paid for will play through the end of this cycle, and Membership accounts will still remain accessible until the scheduled expiration date if you would like to place additional orders until then.
+                                                    </p>
+                                                    <spacer class="last-line lotto-border-left-right" size="35"></spacer>
                                                     {{> footer}}
                                                 </columns>
                                             </row>
@@ -103,6 +97,5 @@ subject: Membership Upgrade Email
                 </tr>
             </table>
         </columns>
-        {{> right-green-box }}
     </row>
 </container>
