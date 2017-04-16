@@ -3,7 +3,11 @@ subject: Receipt Gift Order Giver Email
 ---
 
 {{> header}}
-{{> top-name-green-box title='You sent Jane Tattersall 5 Lottery Tickets' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
+{{> 
+    top-name-green-box title="You sent Jane Tattersall 5 Lottery Tickets" 
+    topImage="http://i.imgur.com/QdeF0PM.jpg"
+    name="Karm Khanna"
+}}
 <container class="common-container receipt-gift-order-giver">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -21,7 +25,7 @@ subject: Receipt Gift Order Giver Email
                                                     <container class="lotto-border-left-right">
                                                         <row>
                                                             <columns small="12" large="12" class="emails">
-                                                                <h3 class="lotto-confirmation-msg text-center lotto-body-spacing" style="padding-left: 25px; padding-right: 25px; color: #aeaeae; font-size: 16px; font-weight: bold;">
+                                                                <h3 class="lotto-confirmation-msg text-center lotto-body-spacing" style="color: #aeaeae; font-size: 16px; font-weight: bold;">
                                                                     Your note to Jane Tattersall:
                                                                 </h3>
                                                                 <spacer size="30"></spacer>
@@ -52,10 +56,11 @@ subject: Receipt Gift Order Giver Email
                                                     <container class="lotto-border-left-right">
                                                         <row>
                                                             <columns>
+                                                                <spacer size="20"></spacer>
                                                                 <h3 class="lotto-confirmation-msg lotto-body-spacing">Congratulations</h3>
-                                                                <spacer size="15"></spacer>
+                                                                <spacer size="20"></spacer>
                                                                 <p class="lotto-body-spacing">on your gift order to Jane. Below is the summary of your order on LottoGopher.com:</p>
-                                                                <spacer size="15"></spacer>
+                                                                <spacer size="25"></spacer>
                                                             </columns>
                                                         </row>
                                                     </container>
@@ -256,7 +261,7 @@ subject: Receipt Gift Order Giver Email
                                                     <container>
                                                         <center>
                                                             <spacer size="30"></spacer>
-                                                            <p class="light-paragraph text-center">*This can sometimes take a few days depending on your bank's policy.</p>
+                                                            <p class="light-paragraph text-center">*This can sometimes take a few days depending on your bank"s policy.</p>
                                                         </center>
                                                     </container>
                                                     {{> footer}}

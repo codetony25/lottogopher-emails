@@ -1,27 +1,52 @@
 <container class="lotto-top-name-bg">
     <row>
+
         <!--[if !mso]><\!-->
-        <columns class="show-for-large" small="1" large="1" bgcolor="#8ad53b" style="padding: 0 !important;"></columns>
+        {{#if isMoneyTopBackground}}
+        <columns class="show-for-large" background="http://i.imgur.com/DClkpLi.jpg" small="1" large="1" style="padding: 0 !important; padding-right: 8px !important"></columns>
+        {{else}}
+        <columns class="show-for-large" small="1" large="1" bgcolor="#80d123" style="padding: 0 !important; padding-right: 8px !important"></columns>
+        {{/if}}
+
         <!-- <![endif]-->
         <columns small="12" large="12">
             <table cellpadding="0" cellspacing="0" border="0" width="100%">
                 <tr>
-                    <td background="{{topImage}}" bgcolor="#fff" valign="top" style="background-position: 50% 0 !important; background-repeat: no-repeat !important;">
+                    <td background="{{topImage}}" bgcolor="#fff" valign="top" class="lotto-body-spacing" style="background-color: white; background-position: 50% 0 !important; background-repeat: no-repeat !important; height: 220px !important;">
                         <!--[if gte mso 9]>
-                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;">
-                            <v:fill type="tile" src="{{topImage}}" color="#fff" />
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:445;">
+                            <v:fill type="frame" origin="0.5, 0" position="0.52,-0.25" src="{{topImage}}" color="#fff" size="100%, 50%" />
                             <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
                         <![endif]-->
                         <div>
-                            <spacer size="20"></spacer>
+                            <spacer size="23"></spacer>
+
+
+                            {{#if name}}
                             <p class="top-name-introduction" style="color: white; font-size: 15px;">
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello Jane,
+                                Hello {{ name }},
                             </p>
-                            <spacer size="60"></spacer>
-                            {{#if subtitle}}
-                            <h2 class="lotto-border-left-right text-center">{{subtitle}}</h2>
+                            {{else}}
+                            <spacer size="33"></spacer>
                             {{/if}}
-                            <h1 style="padding-left: 25px; padding-right: 25px;" class="{{classForTitle}} lotto-border-left-right text-center">{{title}}</h1>
+
+
+                            {{#if subtitle}}
+                            <h2>{{subtitle}}</h2>
+                            {{/if}}
+
+                            <spacer size="50"></spacer>
+                            <h1 class="{{classForTitle}} text-center">{{ title }}</h1>
+
+                            {{#if attention}}
+                            <h2 class="text-center lotto-attention">{{ attention }}</h2>
+                            {{/if}}
+
+                            {{#if greeting}}
+                            <spacer size="15"></spacer>
+                            <h3 class="lotto-confirmation-msg">{{ greeting }}</h3>
+                            <spacer size="15"></spacer>
+                            {{/if}}
                         </div>
                         <!--[if gte mso 9]>
                         </v:textbox>
@@ -31,8 +56,14 @@
                 </tr>
             </table>
         </columns>
+
         <!--[if !mso]><\!-->
-        <columns class="show-for-large" small="1" large="1" bgcolor="#8ad53b" style="padding: 0 !important;"></columns>
+        {{#if isMoneyTopBackground}}
+        <columns class="show-for-large" background="http://i.imgur.com/eKn53fu.jpg" small="1" large="1" style="padding: 0 !important; padding-left: 8px !important"></columns>
+        {{else}}
+        <columns class="show-for-large" small="1" large="1" bgcolor="#80d123" style="padding: 0 !important; padding-left: 8px !important;"></columns>
+        {{/if}}
         <!-- <![endif]-->
+
     </row>
 </container>

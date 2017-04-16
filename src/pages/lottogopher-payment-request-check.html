@@ -3,7 +3,12 @@ subject: Payment Request Check Email
 ---
 
 {{> header}}
-{{> top-money-green-box title='Your payment is on its way!' topImage='http://i.imgur.com/VPWyKoB.jpg' }}
+{{>
+    top-name-green-box
+    title='Your payment is on its way!'
+    topImage='http://i.imgur.com/VPWyKoB.jpg'
+    isMoneyTopBackground='true'
+}}
 <container class="common-container payment-request-check">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">

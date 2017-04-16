@@ -20,21 +20,21 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
   }
   h1 {
     font-size: 30px;
-    @media (min-width: 640px) {
+    @media (min-width: 680px) {
       font-size: 56px !important;
     }
   }
   h4 {
     font-weight: 100;
     font-size: 24px;
-    @media (min-width: 640px) {
+    @media (min-width: 680px) {
       font-size: 24px !important;
     }
   }
   h3 {
     font-size: 14px;
     margin-top: 32px;
-    @media (min-width: 640px) {
+    @media (min-width: 680px) {
       margin-top: initial !important;
     }
   }
@@ -71,7 +71,7 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
 .lotto-spacing-between {
   h2 {
     padding: 0 10px;
-    @media (min-width: 640px) {
+    @media (min-width: 680px) {
       padding: 0 18px !important;
     }
   }
@@ -157,8 +157,8 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
     font-size: 38px;
     font-weight: bold;
   }
-  @media (min-width: 638px) {
-    width: 638px !important;
+  @media (min-width: 660px) {
+    width: 660px !important;
   }
   th.columns {
     padding-bottom: 0 !important;
@@ -167,12 +167,19 @@ tr { font-size:0px !important; line-height:0px !important; border-collapse: coll
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
+  th.large-1 {
+    width: 40px;
+  }
+}
+
+.lotto-attention {
+  color: #303030;
+  font-size: 32px;
+  font-weight: bold;
 }
 
 .mega-millions-top-border {
   border-top: 4px solid #4276d6;
-  width: 550px;
-  margin: 0 auto;
 }
 
 .ticket-category {
@@ -195,8 +202,16 @@ table.container.ticket-cancellation,
 table.container.ticket-subscription,
 table.container.receipt-gift-order-receipient,
 table.container.receipt-member-subscription,
-table.container.billing-update {
+table.container.billing-update,
+table.container.alert-notifications-big-winnings
+table.container.email-password-reset {
   max-width: 573px !important;
+}
+
+.lotto-confirmation-msg {
+  color: #74ce00 !important;
+  font-weight: bold !important;
+  font-size: 16px !important;
 }
 
 /* Common Emails */
@@ -207,15 +222,9 @@ table.container.billing-update {
       color: black;
       font-size: 25px;
       margin: 0 !important;
-      @media (min-width: 640px) {
+      @media (min-width: 680px) {
         font-size: 32px !important;
       }
-    }
-    .lotto-confirmation-msg {
-      color: #74ce00;
-      font-weight: bold;
-      font-size: 16px;
-      padding-top: 25px;
     }
     .lotto-email-info {
       font-size: 14px;
@@ -228,9 +237,6 @@ table.container.billing-update {
     p {
       font-size: 14px;
       color: #777777;
-    }
-    .emails {
-      padding-top: 10px;
     }
     .icon {
       padding-top: 28px;
@@ -285,7 +291,7 @@ table.container.billing-update {
   background: #eff8ff;
   padding: 21px;
   width: 90%;
-  @media (min-width: 640px) {
+  @media (min-width: 680px) {
     width: 85% !important;
   }
   span {
@@ -305,7 +311,7 @@ table.container.billing-update {
 .lotto-body-spacing {
   padding-left: 25px !important;
   padding-right: 25px !important;
-  @media only screen and (max-width: 640px) {
+  @media only screen and (max-width: 680px) {
     padding-left: 15px !important;
     padding-right: 15px !important;
   }
@@ -332,7 +338,7 @@ table.container.billing-update {
     .date,
     .paid-with {
       padding-left: 25px;
-      @media only screen and (max-width: 640px) {
+      @media only screen and (max-width: 680px) {
         padding-left: 15px !important;
       }
     }
@@ -341,7 +347,7 @@ table.container.billing-update {
     .total,
     .total-info {
       padding-right: 23px;
-      @media only screen and (max-width: 640px) {
+      @media only screen and (max-width: 680px) {
         padding-right: 13px !important;
       }
     }
@@ -349,7 +355,7 @@ table.container.billing-update {
     .description,
     .purchased-item {
       padding-left: 5px;
-      @media only screen and (max-width: 640px) {
+      @media only screen and (max-width: 680px) {
         padding-left: 15px !important;
       }
     }
@@ -357,7 +363,7 @@ table.container.billing-update {
     .amount,
     .price {
       padding-right: 5px;
-      @media only screen and (max-width: 640px) {
+      @media only screen and (max-width: 680px) {
         padding-right: 15px !important;
       }
     }
@@ -403,7 +409,7 @@ table.container.billing-update {
     .purchase-info,
     .ticket-info {
       margin: 15px auto;
-      @media (min-width: 640px) {
+      @media (min-width: 680px) {
         width: 530px !important;
       }
     }
@@ -455,7 +461,7 @@ table.container.billing-update {
           padding-left: 25px;
           vertical-align: top;
           color: #999999;
-          @media (min-width: 640px) {
+          @media (min-width: 680px) {
             padding-right: 60px !important;
           }
         }
@@ -464,7 +470,7 @@ table.container.billing-update {
         span {
           display: inline-block;
           vertical-align: middle;
-          @media (min-width: 640px) {
+          @media (min-width: 680px) {
             padding-right: 6px !important;
           }
         }
@@ -475,7 +481,7 @@ table.container.billing-update {
         }
         .quick-pick {
           color: #c1c1c1;
-          @media (min-width: 640px) {
+          @media (min-width: 680px) {
             padding-left: 5px !important;
           }
         }
@@ -501,7 +507,7 @@ table.container.billing-update {
     .total {
       padding-right: 5px !important;
     }
-    @media (min-width: 640px) {
+    @media (min-width: 680px) {
       width: 530px !important;
     }
   }
@@ -543,8 +549,9 @@ table.container.billing-update {
   -webkit-hyphens: none;
   hyphens: none;
 }
-p {
-  line-height: 24px !important;
+
+p, td {
+  line-height: 24px;
 }
 
 table.button {
@@ -561,7 +568,7 @@ table.body {
   margin: 65px auto !important;
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 680px) {
   table.body .container {
     width: 100% !important;
   }

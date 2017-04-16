@@ -3,8 +3,14 @@ subject: Alert Notifications Big Winnings Email
 ---
 
 {{> header}}
-{{> top-name-green-box title='Cha-ching! You just won $109.00' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
-<container class="common-container ticket-receipt">
+{{>
+    top-name-green-box
+    title='Cha-ching! You just won'
+    attention='$109.00'
+    topImage="http://i.imgur.com/d2ptUbP.jpg"
+    isMoneyTopBackground="true"
+}}
+<container class="common-container alert-notifications-big-winnings">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
             <table cellpadding="0" cellspacing="0" border="0" cellpadding="0" cellspacing="0" border="0" width="100%">
@@ -14,13 +20,13 @@ subject: Alert Notifications Big Winnings Email
                             <table align="center" class="lotto-top-context" style="width: 100%;" cellpadding="0" cellspacing="0" border="0" width="100%" style="table-layout: fixed;">
                                 <tbody>
                                 <tr>
-                                    <td clsss="background-img" valign="top">
+                                    <td valign="top">
                                         <center bgcolor="#fff">
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
                                                     <container class="lotto-border-left-right">
                                                         <row>
-                                                            <columns small="12" large="12" class="emails">
+                                                            <columns small="12" large="12">
                                                                 <spacer size="20"></spacer>
                                                                 <p class="lotto-email-info lotto-body-spacing">
                                                                     <span>Congratulations!</span> Below is a summary of your winning numbers
@@ -31,16 +37,12 @@ subject: Alert Notifications Big Winnings Email
                                                     </container>
                                                     <container class="lotto-border-left-right">
                                                         <row>
-                                                            <columns small="2" large="2">&nbsp;&nbsp;&nbsp;&nbsp;</columns>
-                                                            <columns  small="8" large="8">
-                                                                <center class="mega-millions-top-border">
-                                                                    <spacer size="10"></spacer>
-                                                                    <img src="http://i.imgur.com/o00oAbh.png" alt="mega millions ball">
-                                                                    <spacer size="10"></spacer>
-                                                                    <p style="font-weight: bold; font-size: 16px; color: #787878;" class="text-center">Wednesday, January 13, 2017</p>
-                                                                </center>
+                                                            <columns class="mega-millions-top-border">
+                                                                <spacer size="10"></spacer>
+                                                                <img class="float-center" src="http://i.imgur.com/o00oAbh.png" alt="mega millions ball">
+                                                                <p style="font-weight: bold; font-size: 16px; color: #787878;" class="text-center">Wednesday, January 13, 2017</p>
+                                                                <spacer size="10"></spacer>
                                                             </columns>
-                                                            <columns small="2" large="2">&nbsp;&nbsp;&nbsp;&nbsp;</columns>
                                                         </row>
                                                     </container>
                                                     <container class="lotto-border-left-right">

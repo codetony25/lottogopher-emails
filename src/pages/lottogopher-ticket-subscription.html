@@ -3,7 +3,13 @@ subject: Ticket Subscription Email
 ---
 
 {{> header}}
-{{> top-name-green-box title='Your Order Receipt' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
+{{>
+    top-name-green-box
+    title="Your Order Receipt"
+    topImage="http://i.imgur.com/CCEJk8A.jpg"
+    greeting="Thank you for your purchase."
+    name="Jane"
+}}
 <container class="common-container ticket-subscription">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -19,13 +25,15 @@ subject: Ticket Subscription Email
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
                                                     <container class="lotto-border-left-right">
+                                                        <table>
+                                                            <tr>
+                                                                <td class="lotto-email-info lotto-body-spacing">
+                                                                    This is your receipt from LottoGopher.com for Memberships and/or Tickets ordered. Monthly/Yearly Memberships will automatically renew and re-bill.
+                                                                </td>
+                                                            </tr>
+                                                        </table>
                                                         <row>
                                                             <columns small="12" large="12" class="emails large-offset-1">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Thank you for your purchase.</h3>
-                                                                <spacer size="15"></spacer>
-                                                                <p class="lotto-email-info lotto-body-spacing">
-                                                                    This is your receipt from LottoGopher.com for Memberships and/or Tickets ordered. Monthly/Yearly Memberships will automatically renew and re-bill.
-                                                                </p>
                                                             </columns>
                                                         </row>
                                                     </container>

@@ -3,7 +3,13 @@ subject: Ticket Cancellation Email
 ---
 
 {{> header}}
-{{> top-name-green-box title='Your Ticket Cancellation' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
+{{>
+    top-name-green-box
+    title='Your Ticket Cancellation'
+    topImage='http://i.imgur.com/gfnorjv.jpg'
+    name='Jane'
+    greeting='Cancellation Confirmation'
+}}
 <container class="common-container ticket-cancellation">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -20,9 +26,7 @@ subject: Ticket Cancellation Email
                                                 <columns small="12">
                                                     <container class="lotto-border-left-right">
                                                         <row>
-                                                            <columns small="12" large="12" class="emails large-offset-1">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Cancellation Confirmation</h3>
-                                                                <spacer size="15"></spacer>
+                                                            <columns small="12" large="12">
                                                                 <p class="lotto-email-info lotto-body-spacing">
                                                                     This email is to confirm that we've processed your request for the following:
                                                                 </p>
@@ -32,29 +36,29 @@ subject: Ticket Cancellation Email
                                                     <spacer class="lotto-border-left-right" size="30"></spacer>
                                                     <container class="lotto-statement lotto-border-left-right">
                                                         <row>
-                                                            <columns small="6">
+                                                            <columns small="8">
                                                                 <p class="date text-left">Match 28, 2017</p>
                                                             </columns>
-                                                            <columns small="6">
+                                                            <columns small="4">
                                                                 <p class="invoice text-right">#34708773FK39827P</p>
                                                             </columns>
                                                         </row>
                                                         <row class="description-info">
-                                                            <columns small="6">
+                                                            <columns small="8">
                                                                 <spacer size="15"></spacer>
                                                                 <p class="description text-left">Description</p>
                                                             </columns>
-                                                            <columns small="6">
+                                                            <columns small="4">
                                                                 <spacer size="15"></spacer>
                                                                 <p class="amount text-right">Amount</p>
                                                             </columns>
                                                         </row>
                                                         <row class="purchase-info">
-                                                            <columns small="6">
-                                                                <spacer size="15"></spacer>
+                                                            <columns small="10">
+                                                                <spacer size="17"></spacer>
                                                                 <p class="purchased-item text-left">1 SupperLotto Plus Set of Eight Tickets <span class="cancelled">(CANCELLED)</span></p>
                                                             </columns>
-                                                            <columns small="6">
+                                                            <columns small="2">
                                                                 <spacer size="15"></spacer>
                                                                 <p class="price text-right">$99.00</p>
                                                             </columns>

@@ -3,7 +3,13 @@ subject: Receipt Member Subscription Email
 ---
 
 {{> header}}
-{{> top-name-green-box title='Your Order Receipt' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
+{{>
+    top-name-green-box
+    title='Your Order Receipt'
+    topImage='http://i.imgur.com/CCEJk8A.jpg'
+    name="Jane"
+    greeting="Thank you for your purchase."
+}}
 <container class="common-container receipt-member-subscription">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -15,14 +21,12 @@ subject: Receipt Member Subscription Email
                                 <tbody>
                                 <tr>
                                     <td clsss="background-img" valign="top">
-                                        <center bgcolor="#fff">
+                                        <center>
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
                                                     <container class="lotto-border-left-right">
                                                         <row>
                                                             <columns small="12" large="12" class="emails">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Thank you for your purchase.</h3>
-                                                                <spacer size="20"></spacer>
                                                                 <p class="lotto-email-info lotto-body-spacing">
                                                                     This is your receipt from LottoGopher.com for Memberships and/or Tickets ordered. Monthly/Yearly Memberships will automatically renew and re-bill.
                                                                 </p>
@@ -114,36 +118,8 @@ subject: Receipt Member Subscription Email
                                                                         </row>
                                                                     </container>
                                                                 </center>
-                                                                <center>
-                                                                    <container>
-                                                                        <spacer size="20"></spacer>
-                                                                        <center>
-                                                                            <!--[if !mso]><\!-->
-                                                                            <button href="#" class="lotto-order-button success radius large">View My Tickets</button>
-                                                                            <!-- <![endif]-->
-
-                                                                            <!--[if gte mso 9]>
-                                                                            <container>
-                                                                                <row>
-                                                                                    <columns small="4"></columns>
-                                                                                    <columns small="4">
-                                                                                        <center>
-                                                                                            <a class="text-center">
-                                                                                                <img src="http://i.imgur.com/B4nv6MB.png"
-                                                                                                     alt="order tickers button">
-                                                                                            </a>
-                                                                                        </center>
-                                                                                    </columns>
-                                                                                    <columns small="4"></columns>
-                                                                                </row>
-                                                                            </container>
-                                                                            <![endif]-->
-                                                                        </center>
-                                                                        <spacer size="20"></spacer>
-                                                                    </container>
-                                                                </center>
                                                                 <center class="lotto-footer-tickets">
-                                                                    <spacer size="30"></spacer>
+                                                                    <spacer size="60"></spacer>
                                                                     <img style="display: block;" src="http://i.imgur.com/IGT76Ri.png" alt="Lotto Footer Tickets">
                                                                 </center>
                                                             </columns>

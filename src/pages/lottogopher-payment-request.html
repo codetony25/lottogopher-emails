@@ -3,7 +3,12 @@ subject: Payment Request Email
 ---
 
 {{> header}}
-{{> top-money-green-box title='Your payment is on its way!' topImage='http://i.imgur.com/VPWyKoB.jpg' }}
+{{>
+    top-name-green-box
+    title='Your payment is on its way!'
+    topImage='http://i.imgur.com/VPWyKoB.jpg'
+    isMoneyTopBackground='true'
+}}
 <container class="common-container payment-request">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -15,15 +20,17 @@ subject: Payment Request Email
                                 <tbody>
                                 <tr>
                                     <td clsss="background-img" valign="top">
-                                        <center bgcolor="#fff">
+                                        <center>
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
                                                     <container class="lotto-border-left-right">
                                                         <row>
                                                             <columns small="12" large="12" class="emails">
-                                                                <p class="lotto-email-info lotto-body-spacing">
-                                                                    Your request to cash in your winnings has been received and will be processed within the next 48 hours.
-                                                                </p>
+                                                                <table>
+                                                                    <tr>
+                                                                        <td class="lotto-body-spacing lotto-email-info">Your request to cash in your winnings has been received and will be processed within the next 48 hours.</td>
+                                                                    </tr>
+                                                                </table>
                                                             </columns>
                                                         </row>
                                                     </container>
@@ -55,11 +62,20 @@ subject: Payment Request Email
                                                         <row>
                                                             <columns>
                                                                 <spacer size="30"></spacer>
-                                                                <p class="lotto-questions-concerns lotto-body-spacing">If your payment information is inccorrect, please contact us 24 hours a day, seven days a week at
-                                                                    <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call <a href="">866-LOTTO-GO</a>
-                                                                </p>
+                                                                <table>
+                                                                    <tr>
+                                                                        <td class="lotto-questions-concerns lotto-body-spacing">
+                                                                            If your payment information is inccorrect, please contact us 24 hours a day, seven days a week at
+                                                                            <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call <a href="">866-LOTTO-GO</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
                                                                 <spacer size="20"></spacer>
-                                                                <p class="lotto-body-spacing"><span>Just Go-pher it!</span></p>
+                                                                <table>
+                                                                    <tr>
+                                                                        <td class="lotto-body-spacing"><span>Just Go-pher it!</span></td>
+                                                                    </tr>
+                                                                </table>
                                                                 <spacer size="20"></spacer>
                                                                 <p class="lotto-sincerely lotto-body-spacing">Sincerely,<br />The LottoGopher Team</p>
                                                                 <center>
@@ -73,11 +89,15 @@ subject: Payment Request Email
                                                                 </center>
                                                                 <center>
                                                                     <spacer size="30"></spacer>
-                                                                    <p class="lotto-body-spacing text-center">Use your winnings to order tickets next time! Simply click on 'Pay with your winnings' when checking out!</p>
+                                                                    <table>
+                                                                        <tr>
+                                                                            <td class="lotto-body-spacing text-center lotto-questions-concerns">Use your winnings to order tickets next time! Simply click on 'Pay with your winnings' when checking out!</td>
+                                                                        </tr>
+                                                                    </table>
                                                                 </center>
                                                                 <center class="lotto-footer-tickets">
                                                                     <spacer size="30"></spacer>
-                                                                    <img style="display: block;" src="http://i.imgur.com/IGT76Ri.png" alt="Lotto Footer Tickets">
+                                                                    <img src="http://i.imgur.com/IGT76Ri.png" alt="Lotto Footer Tickets">
                                                                 </center>
                                                             </columns>
                                                         </row>

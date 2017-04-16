@@ -3,7 +3,13 @@ subject: Billing Update Email
 ---
 
 {{> header}}
-{{> top-money-green-box title='Confirmation of Account Update' topImage='http://i.imgur.com/VPWyKoB.jpg' }}
+{{>
+    top-name-green-box
+    title="Confirmation of Account Update"
+    topImage="http://i.imgur.com/2r3YnhZ.jpg"
+    greeting="Your credit card information has been updated."
+    name="Jane"
+}}
 <container class="common-container billing-update">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -19,12 +25,11 @@ subject: Billing Update Email
                                             <row class="lotto-second-middle-row">
                                                 <columns small="12">
                                                     <container class="lotto-border-left-right">
-                                                        <row>
-                                                            <columns small="12" large="12" class="emails">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Your credit card information has been updated.</h3>
-                                                                <spacer size="30"></spacer>
+                                                        <rows>
+                                                            <columns>
+                                                                <spacer size="25"></spacer>
                                                             </columns>
-                                                        </row>
+                                                        </rows>
                                                     </container>
                                                     <container class="lotto-border-left-right">
                                                         <row>
@@ -47,13 +52,32 @@ subject: Billing Update Email
                                                         <row>
                                                             <columns>
                                                                 <spacer size="30"></spacer>
-                                                                <p class="lotto-questions-concerns lotto-body-spacing">Questions, concerns or feedback? Contact us 24 hours a day, seven days a week at
-                                                                    <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call <a href="">866-LOTTO-GO</a>
-                                                                </p>
-                                                                <spacer size="20"></spacer>
-                                                                <p class="lotto-body-spacing"><span>Just Go-pher it!</span></p>
-                                                                <spacer size="20"></spacer>
-                                                                <p class="lotto-sincerely lotto-body-spacing">Sincerely,<br />The LottoGopher Team</p>
+                                                                <table>
+                                                                    <tr>
+                                                                        <td class="lotto-questions-concerns lotto-body-spacing">
+                                                                            Questions, concerns or feedback? Contact us 24 hours a day, seven days a week at
+                                                                            <a href="mailto:service@lottogopher.com">service@lottogopher.com</a>
+                                                                            or call <a href="">866-LOTTO-GO</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                                <table>
+                                                                    <tr>
+                                                                        <td class="lotto-body-spacing">
+                                                                            <spacer size="20"></spacer>
+                                                                            <span>Just Go-pher it!</span>
+                                                                            <spacer size="20"></spacer>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                                <table>
+                                                                    <tr>
+                                                                        <td class="lotto-sincerely lotto-body-spacing">
+                                                                            Sincerely,<br />
+                                                                            The LottoGopher Team
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
                                                                 <center class="lotto-footer-tickets">
                                                                     <spacer size="30"></spacer>
                                                                     <img style="display: block;" src="http://i.imgur.com/IGT76Ri.png" alt="Lotto Footer Tickets">

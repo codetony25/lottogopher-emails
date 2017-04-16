@@ -3,7 +3,12 @@ subject: Ticket Receipt Email
 ---
 
 {{> header}}
-{{> top-name-green-box title='Your Order Receipt' topImage='http://i.imgur.com/QdeF0PM.jpg' }}
+{{>
+    top-name-green-box title='Your Order Receipt'
+    topImage='http://i.imgur.com/CCEJk8A.jpg'
+    name='Jane'
+    greeting='Thank you for your purchase.'
+}}
 <container class="common-container ticket-receipt">
     <row>
         <columns class="lotto-info" small="12" large="10" style="padding: 0 !important;">
@@ -21,8 +26,6 @@ subject: Ticket Receipt Email
                                                     <container class="lotto-border-left-right">
                                                         <row>
                                                             <columns small="12" large="12" class="emails">
-                                                                <h3 class="lotto-confirmation-msg lotto-body-spacing">Thank you for your purchase.</h3>
-                                                                <spacer size="20"></spacer>
                                                                 <p class="lotto-email-info lotto-body-spacing">
                                                                     This is your receipt from LottoGopher.com for Memberships and/or Tickets ordered. Monthly/Yearly Memberships will automatically renew and re-bill.
                                                                 </p>
