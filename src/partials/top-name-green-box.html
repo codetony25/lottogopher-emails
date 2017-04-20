@@ -2,12 +2,7 @@
     <row>
 
         <!--[if !mso]><\!-->
-        {{#if isMoneyTopBackground}}
-        <columns class="show-for-large" background="http://i.imgur.com/DClkpLi.jpg" small="1" large="1" style="padding: 0 !important; padding-right: 8px !important"></columns>
-        {{else}}
         <columns class="show-for-large" small="1" large="1" bgcolor="#80d123" style="padding: 0 !important; padding-right: 8px !important"></columns>
-        {{/if}}
-
         <!-- <![endif]-->
         <columns small="12" large="12">
             <table cellpadding="0" cellspacing="0" border="0" width="100%">
@@ -29,6 +24,8 @@
                             {{else}}
                             <spacer size="33"></spacer>
                             {{/if}}
+                            <!--{{#bg-img src="http://i.imgur.com/0HeV2X9.jpg" imgwidth="660" imgheight="412" bgcolor="#fff"}}-->
+                            <!--{{/bg-img}}-->
 
 
                             {{#if subtitle}}
@@ -56,14 +53,10 @@
                 </tr>
             </table>
         </columns>
-
         <!--[if !mso]><\!-->
         {{#if isMoneyTopBackground}}
-        <columns class="show-for-large" background="http://i.imgur.com/eKn53fu.jpg" small="1" large="1" style="padding: 0 !important; padding-left: 8px !important"></columns>
-        {{else}}
         <columns class="show-for-large" small="1" large="1" bgcolor="#80d123" style="padding: 0 !important; padding-left: 8px !important;"></columns>
         {{/if}}
         <!-- <![endif]-->
-
     </row>
 </container>
