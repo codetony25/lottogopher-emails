@@ -52,7 +52,7 @@ subject: Email Receipt Gift Order Receipient
         </columns>
     </row>
     {{/bg-img}}
-    <wrapper class="secondary lotto-bottom-radius lotto-border-bottom" style="background: white;">
+    <wrapper class="secondary lotto-bottom-radius" style="background: white;">
         <row>
             <columns small="12">
                 <row>
@@ -77,7 +77,7 @@ subject: Email Receipt Gift Order Receipient
                             <tr>
                                 <th class="fix-padding">
                                     <spacer size="25"></spacer>
-                                    <p class="light-paragraph">To claim your tickets, click on the button below. If you're already a Lottogopher user you will be asked to log in to claim your tickets. If you're a new Lottogopher user (welcome!), you'll be asked to create a profile so we can track your tickets and notify you of any winners.</p>
+                                    <p class="light-paragraph" style="font-size: 14px;">To claim your tickets, click on the button below. If you're already a Lottogopher user you will be asked to log in to claim your tickets. If you're a new Lottogopher user (welcome!), you'll be asked to create a profile so we can track your tickets and notify you of any winners.</p>
                                 </th>
                             </tr>
                             </tbody>
@@ -117,13 +117,29 @@ subject: Email Receipt Gift Order Receipient
             <columns></columns>
         </row>
         <row>
-            <columns small="2" large="2"></columns>
-            <columns small="8" large="8">
-                <spacer size="18"></spacer>
-                <p class="light-paragraph text-center" style="font-size: 12px;">If you have any questions, or encounter problems accessing your tickets please contact us at
-                    <a href="#">service@lottogopher.com</a>or call <a href="tel:+18665688646">866-LOTTO-GO</a>.</p>
+            <columns small="12">
+                <row>
+                    <th class="small-12 large-12 columns">
+                        <table>
+                            <tbody>
+                            <tr>
+                                <th class="fix-padding">
+                                    <spacer size="25"></spacer>
+                                    <p class="light-paragraph">If you have any questions, or encounter problems accessing your tickets please contact us at
+                                        <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call <a href="tel:+18665688646">866-LOTTO-GO</a>
+                                    </p>
+                                    <spacer size="15"></spacer>
+                                    <p class="light-paragraph"><strong>Good Luck!</strong></p>
+                                    <spacer size="15"></spacer>
+                                    <p class="light-paragraph">Sincerely,<br />The LottoGopher Team</p>
+                                    <spacer size="15"></spacer>
+                                </th>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </th>
+                </row>
             </columns>
-            <columns small="2" large="2"></columns>
         </row>
         {{>tickets-footer }}
     </wrapper>
