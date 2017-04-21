@@ -3,29 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html" afterPath="$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-alert-notifications-jackpot.html" afterPath="$PROJECT_DIR$/src/pages/email-alert-notifications-jackpot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-billing-alert.html" afterPath="$PROJECT_DIR$/src/pages/email-billing-alert.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-billing-update.html" afterPath="$PROJECT_DIR$/src/pages/email-billing-update.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-change-update.html" afterPath="$PROJECT_DIR$/src/pages/email-change-update.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-declined-transaction.html" afterPath="$PROJECT_DIR$/src/pages/email-declined-transaction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-invite-friend.html" afterPath="$PROJECT_DIR$/src/pages/email-invite-friend.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-membership-cancellation.html" afterPath="$PROJECT_DIR$/src/pages/email-membership-cancellation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-membership-upgrade.html" afterPath="$PROJECT_DIR$/src/pages/email-membership-upgrade.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-new-registration.html" afterPath="$PROJECT_DIR$/src/pages/email-new-registration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-password-reset.html" afterPath="$PROJECT_DIR$/src/pages/email-password-reset.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-payment-request-check.html" afterPath="$PROJECT_DIR$/src/pages/email-payment-request-check.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-payment-request.html" afterPath="$PROJECT_DIR$/src/pages/email-payment-request.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html" afterPath="$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-receipt-gift-order-receipient.html" afterPath="$PROJECT_DIR$/src/pages/email-receipt-gift-order-receipient.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-receipt-member-subscription.html" afterPath="$PROJECT_DIR$/src/pages/email-receipt-member-subscription.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html" afterPath="$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-receipt-ticket-subscription.html" afterPath="$PROJECT_DIR$/src/pages/email-receipt-ticket-subscription.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-ticket-cancellation.html" afterPath="$PROJECT_DIR$/src/pages/email-ticket-cancellation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html" afterPath="$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/jackpot-blasts-powerball.html" afterPath="$PROJECT_DIR$/src/pages/jackpot-blasts-powerball.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html" afterPath="$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,8 +49,8 @@
       <file leaf-file-name="email-receipt-gift-order-giver.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="64" column="128" lean-forward="true" selection-start-line="64" selection-start-column="128" selection-end-line="64" selection-end-column="128" />
+            <state relative-caret-position="276">
+              <caret line="245" column="54" lean-forward="true" selection-start-line="245" selection-start-column="54" selection-end-line="245" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -80,8 +59,8 @@
       <file leaf-file-name="email-payment-request-check.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request-check.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="209" />
+            <state relative-caret-position="357">
+              <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
               </folding>
@@ -92,8 +71,8 @@
       <file leaf-file-name="email-payment-request.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+            <state relative-caret-position="505">
+              <caret line="128" column="14" lean-forward="false" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
               </folding>
@@ -105,7 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>small=</find>
       <find>small=&quot;</find>
       <find>small=&quot;0</find>
       <find>small=&quot;0&quot;</find>
@@ -135,6 +113,7 @@
       <find>Get Started</find>
       <find>border</find>
       <find>order lott</find>
+      <find>cashin\</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -202,8 +181,8 @@
         <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-gift-order-receipient.html" />
         <option value="$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-payment-request-check.html" />
         <option value="$PROJECT_DIR$/src/pages/email-invite-friend.html" />
+        <option value="$PROJECT_DIR$/src/pages/email-payment-request-check.html" />
         <option value="$PROJECT_DIR$/src/pages/email-payment-request.html" />
       </list>
     </option>
@@ -218,10 +197,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="630" />
+    <option name="x" value="-57" />
+    <option name="y" value="226" />
     <option name="width" value="3840" />
-    <option name="height" value="1574" />
+    <option name="height" value="1167" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -846,15 +825,15 @@
       <workItem from="1492682009094" duration="2061000" />
       <workItem from="1492701152020" duration="593000" />
       <workItem from="1492703608759" duration="9267000" />
-      <workItem from="1492743390175" duration="6406000" />
+      <workItem from="1492743390175" duration="7585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243008000" />
+    <option name="totallyTimeSpent" value="244187000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="630" width="3840" height="1574" extended-state="0" />
+    <frame x="-57" y="226" width="3840" height="1167" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -867,7 +846,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32726046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4511628" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23854661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1205,14 +1184,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="64" column="128" lean-forward="true" selection-start-line="64" selection-start-column="128" selection-end-line="64" selection-end-column="128" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-invite-friend.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -1231,10 +1202,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="245" column="54" lean-forward="true" selection-start-line="245" selection-start-column="54" selection-end-line="245" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request-check.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="209" />
+        <state relative-caret-position="357">
+          <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
           </folding>
@@ -1243,8 +1222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        <state relative-caret-position="505">
+          <caret line="128" column="14" lean-forward="false" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
           </folding>
