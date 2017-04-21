@@ -611,6 +611,12 @@ table.button.success table a {
   border-top: 4px solid #4276d6;
 }
 
+.fix-padding-40 {
+  .first {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
 .ticket-info {
   border-left: 6px solid #ffa434;
   border-right: 14px solid #ffa434;

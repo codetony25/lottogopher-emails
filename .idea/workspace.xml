@@ -19,8 +19,8 @@
       <file leaf-file-name="jackpot-blasts-megamillions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+            <state relative-caret-position="855">
+              <caret line="66" column="59" lean-forward="true" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
               <folding>
                 <marker date="1492746991000" expanded="true" signature="2330:2750" ph="..." />
                 <marker date="1492746991000" expanded="true" signature="2404:2691" ph="..." />
@@ -32,28 +32,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="email-alert-notifications-big-winnings.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="email-alert-notifications-big-winnings.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="79" column="80" lean-forward="true" selection-start-line="79" selection-start-column="80" selection-end-line="79" selection-end-column="80" />
+            <state relative-caret-position="715">
+              <caret line="47" column="53" lean-forward="false" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
               <folding>
+                <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#columns#2;n#row#0;n#container#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#columns#2;n#row#1;n#container#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#0;n#row#2;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#4;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                <marker date="1492755987000" expanded="true" signature="5848:6430" ph="..." />
-                <marker date="1492755987000" expanded="true" signature="5954:6341" ph="..." />
-                <marker date="1492755987000" expanded="true" signature="5995:6302" ph="..." />
-                <marker date="1492755987000" expanded="true" signature="6064:6260" ph="..." />
-                <marker date="1492755987000" expanded="true" signature="6147:6219" ph="..." />
+                <marker date="1492757491000" expanded="true" signature="5831:6413" ph="..." />
+                <marker date="1492757491000" expanded="true" signature="5937:6324" ph="..." />
+                <marker date="1492757491000" expanded="true" signature="5978:6285" ph="..." />
+                <marker date="1492757491000" expanded="true" signature="6047:6243" ph="..." />
+                <marker date="1492757491000" expanded="true" signature="6130:6202" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lotto-gopher.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lotto-gopher.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="591" column="0" lean-forward="true" selection-start-line="591" selection-start-column="0" selection-end-line="591" selection-end-column="0" />
+            <state relative-caret-position="407">
+              <caret line="613" column="1" lean-forward="false" selection-start-line="613" selection-start-column="1" selection-end-line="613" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -63,7 +67,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>colusmall=&quot;0&quot;</find>
       <find>columsmall=&quot;0&quot;</find>
       <find>columnsmall=&quot;0&quot;</find>
       <find>columnssmall=&quot;0&quot;</find>
@@ -90,9 +93,10 @@
       <find>h</find>
       <find>hero</find>
       <find>background</find>
-      <find>img</find>
       <find>hero-</find>
       <find>winning-ticket</find>
+      <find>ticket-info</find>
+      <find>img</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -161,8 +165,8 @@
         <option value="$PROJECT_DIR$/src/pages/email-new-registration.html" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html" />
         <option value="$PROJECT_DIR$/src/helpers/bg-img.js" />
-        <option value="$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html" />
       </list>
     </option>
   </component>
@@ -884,12 +888,12 @@
       <workItem from="1492682009094" duration="2061000" />
       <workItem from="1492701152020" duration="593000" />
       <workItem from="1492703608759" duration="9267000" />
-      <workItem from="1492743390175" duration="12127000" />
+      <workItem from="1492743390175" duration="13619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248729000" />
+    <option name="totallyTimeSpent" value="250221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="22" width="2144" height="1574" extended-state="0" />
@@ -1198,20 +1202,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="865">
-          <caret line="332" column="38" lean-forward="true" selection-start-line="332" selection-start-column="38" selection-end-line="332" selection-end-column="38" />
-          <folding>
-            <marker date="1492748369000" expanded="true" signature="22933:23473" ph="..." />
-            <marker date="1492748369000" expanded="true" signature="23031:23392" ph="..." />
-            <marker date="1492748369000" expanded="true" signature="23068:23357" ph="..." />
-            <marker date="1492748369000" expanded="true" signature="23133:23319" ph="..." />
-            <marker date="1492748369000" expanded="true" signature="23212:23282" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-subscription.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
@@ -1231,20 +1221,6 @@
         <state relative-caret-position="476">
           <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
-          <folding>
-            <marker date="1492746991000" expanded="true" signature="2330:2750" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2404:2691" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2427:2668" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2512:2644" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2573:2623" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,26 +1274,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html">
+    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="79" column="80" lean-forward="true" selection-start-line="79" selection-start-column="80" selection-end-line="79" selection-end-column="80" />
+        <state relative-caret-position="933">
+          <caret line="336" column="22" lean-forward="true" selection-start-line="336" selection-start-column="22" selection-end-line="336" selection-end-column="22" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#4;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492755987000" expanded="true" signature="5848:6430" ph="..." />
-            <marker date="1492755987000" expanded="true" signature="5954:6341" ph="..." />
-            <marker date="1492755987000" expanded="true" signature="5995:6302" ph="..." />
-            <marker date="1492755987000" expanded="true" signature="6064:6260" ph="..." />
-            <marker date="1492755987000" expanded="true" signature="6147:6219" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="22933:23473" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23031:23392" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23068:23357" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23133:23319" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23212:23282" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="66" column="59" lean-forward="true" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+          <folding>
+            <marker date="1492746991000" expanded="true" signature="2330:2750" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2404:2691" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2427:2668" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2512:2644" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2573:2623" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="591" column="0" lean-forward="true" selection-start-line="591" selection-start-column="0" selection-end-line="591" selection-end-column="0" />
+        <state relative-caret-position="407">
+          <caret line="613" column="1" lean-forward="false" selection-start-line="613" selection-start-column="1" selection-end-line="613" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="47" column="53" lean-forward="false" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#columns#2;n#row#0;n#container#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#columns#2;n#row#1;n#container#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#2;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#4;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492757491000" expanded="true" signature="5831:6413" ph="..." />
+            <marker date="1492757491000" expanded="true" signature="5937:6324" ph="..." />
+            <marker date="1492757491000" expanded="true" signature="5978:6285" ph="..." />
+            <marker date="1492757491000" expanded="true" signature="6047:6243" ph="..." />
+            <marker date="1492757491000" expanded="true" signature="6130:6202" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
