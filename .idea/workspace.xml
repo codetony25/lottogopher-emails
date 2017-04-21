@@ -2,80 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/gift-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/group-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/view-my-tickets-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notifications-jackpot/order-now-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notifications-jackpot/powerball-ticket.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/billing-alert/cash-register.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/billing-alert/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/billing-update/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/change-updage/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/common/icon-border.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/common/left-quotes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/common/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/declined-transaction/cash-register.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/declined-transaction/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/get-started-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/right-quotes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/small-certificate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/small-group.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/small-ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/user-check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-megamillions/order-tickets-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-powerball/blasts-powerball-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-powerball/order-tickets-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-superlottoplus/blasts-superlottoplus-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-superlottoplus/order-tickets-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/member-cancellation/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/member-upgrade/icon-certificate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/member-upgrade/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/group-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/horn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/right-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/small-certificate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/two-tickets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/password-reset/lock-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/password-reset/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request-check/pay-with-winnings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request-check/phone-hand-check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request-check/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request/pay-with-winnings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request/phone-cash-hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-giver/gift-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-giver/group-communication.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-giver/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-receipient/claim-tickets-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-receipient/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-member-subscription/gift-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-member-subscription/group-communication.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-member-subscription/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-purchase/gift-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-purchase/group-communication.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-purchase/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/gift-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/group-communication.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/small-recurring.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/top-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/view-my-tickets-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ticket-cancellation/top-bg.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/jackpot-blasts/powerball-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/jackpot-blasts/superlottoplus-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-cancel-ticket-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-money-bag-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-plain-money-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-powerball-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-receipt-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-ticket-bg.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/9HsRbzi.jpg" afterPath="$PROJECT_DIR$/src/assets/img/alert-notifications-jackpot/top-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/icons/email-update.png" afterPath="$PROJECT_DIR$/src/assets/img/change-updage/mail-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/jackpot-blasts/megamillions-bg.jpg" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-megamillions/blasts-megamillions-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helpers/bg-img.js" afterPath="$PROJECT_DIR$/src/helpers/bg-img.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jackpot-blasts-superlottoplus.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jackpot-blasts-superlottoplus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="843">
-              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            <state relative-caret-position="928">
+              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
               <folding>
                 <marker date="1492746991000" expanded="true" signature="2785:3359" ph="..." />
                 <marker date="1492746991000" expanded="true" signature="2883:3278" ph="..." />
@@ -135,14 +62,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="bg-img.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/helpers/bg-img.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+              <folding>
+                <marker date="1492755000000" expanded="true" signature="2190:2231" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="2429:2473" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="2652:2738" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="2739:3921" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="2764:3911" ph="..." />
+                <marker date="1492755000000" expanded="false" signature="2865:3057" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="3058:3904" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="3075:3433" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="3452:3698" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="3544:3688" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="3583:3654" ph="..." />
+                <marker date="1492755000000" expanded="true" signature="3707:3895" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>small=&quot;0</find>
-      <find>small=&quot;0&quot;</find>
-      <find>csmall=&quot;0&quot;</find>
-      <find>cosmall=&quot;0&quot;</find>
       <find>colsmall=&quot;0&quot;</find>
       <find>colusmall=&quot;0&quot;</find>
       <find>columsmall=&quot;0&quot;</find>
@@ -164,11 +110,15 @@
       <find>G</find>
       <find>Get Star</find>
       <find>Get Starte</find>
-      <find>Get Started</find>
       <find>border</find>
       <find>order lott</find>
       <find>cashin\</find>
       <find>img</find>
+      <find>Get Started</find>
+      <find>h</find>
+      <find>hero</find>
+      <find>hero-</find>
+      <find>background</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -212,7 +162,6 @@
         <option value="$PROJECT_DIR$/dist/lottogopher-billing-update.html" />
         <option value="$PROJECT_DIR$/dist/css/app.css" />
         <option value="$PROJECT_DIR$/dist/lottogopher-blasts-megamillions.html" />
-        <option value="$PROJECT_DIR$/src/helpers/bg-img.js" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" />
         <option value="$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
@@ -239,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/pages/email-invite-friend.html" />
         <option value="$PROJECT_DIR$/src/pages/email-new-registration.html" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html" />
+        <option value="$PROJECT_DIR$/src/helpers/bg-img.js" />
       </list>
     </option>
   </component>
@@ -252,6 +202,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="115" />
     <option name="y" value="22" />
     <option name="width" value="2144" />
     <option name="height" value="1574" />
@@ -355,6 +306,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lottogopher-emails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lottogopher-emails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alert-notification-big-winnings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -903,15 +880,16 @@
       <workItem from="1492682009094" duration="2061000" />
       <workItem from="1492701152020" duration="593000" />
       <workItem from="1492703608759" duration="9267000" />
-      <workItem from="1492743390175" duration="10520000" />
+      <workItem from="1492743390175" duration="11194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247122000" />
+    <option name="totallyTimeSpent" value="247796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2144" height="1574" extended-state="0" />
+    <frame x="115" y="22" width="2144" height="1574" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -923,7 +901,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17881241" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17746289" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36489058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -996,13 +974,6 @@
     <entry file="file://$PROJECT_DIR$/src/partials/left-green-box.html" />
     <entry file="file://$PROJECT_DIR$/src/partials/top-green-box.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-powerball.html" />
-    <entry file="file://$PROJECT_DIR$/src/helpers/bg-img.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/helpers/raw.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1175,17 +1146,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#1;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#3;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492754325000" expanded="true" signature="9617:10153" ph="..." />
-            <marker date="1492754325000" expanded="true" signature="9715:10072" ph="..." />
-            <marker date="1492754325000" expanded="true" signature="9752:10037" ph="..." />
-            <marker date="1492754325000" expanded="true" signature="9817:9999" ph="..." />
-            <marker date="1492754325000" expanded="true" signature="9896:9962" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1336,14 +1297,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        <state relative-caret-position="928">
+          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <marker date="1492746991000" expanded="true" signature="2785:3359" ph="..." />
             <marker date="1492746991000" expanded="true" signature="2883:3278" ph="..." />
             <marker date="1492746991000" expanded="true" signature="2920:3243" ph="..." />
             <marker date="1492746991000" expanded="true" signature="3021:3205" ph="..." />
             <marker date="1492746991000" expanded="true" signature="3100:3168" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/bg-img.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <folding>
+            <marker date="1492755000000" expanded="true" signature="2190:2231" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="2429:2473" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="2652:2738" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="2739:3921" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="2764:3911" ph="..." />
+            <marker date="1492755000000" expanded="false" signature="2865:3057" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="3058:3904" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="3075:3433" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="3452:3698" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="3544:3688" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="3583:3654" ph="..." />
+            <marker date="1492755000000" expanded="true" signature="3707:3895" ph="..." />
           </folding>
         </state>
       </provider>

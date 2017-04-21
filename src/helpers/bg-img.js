@@ -68,7 +68,7 @@ module.exports = function(options) {
 
   // HTML Output
   var bg = '\
-    <table background="assets/img/hero-header.jpg" align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important;">\
+    <table align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important;">\
       <tr valign="top">\
         <td background="' + src + '" bgcolor="' + bgcolor + '" valign="top" align="center" style="height: ' + imgheight + 'px;' + ' !important; text-align: center; background-position: center center !important; background-size: auto 100% !important; background-repeat: no-repeat !important;">\
           <!--[if gte mso 9]>\
