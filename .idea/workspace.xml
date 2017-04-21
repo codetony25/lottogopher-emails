@@ -2,9 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/gift-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/group-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notification-big-winnings/view-my-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notifications-jackpot/order-now-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/alert-notifications-jackpot/powerball-ticket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/billing-alert/cash-register.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/billing-alert/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/billing-update/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/change-updage/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/common/icon-border.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/common/left-quotes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/common/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/declined-transaction/cash-register.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/declined-transaction/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/get-started-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/right-quotes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/small-certificate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/small-group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/small-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/invite-friend/user-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-megamillions/order-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-powerball/blasts-powerball-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-powerball/order-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-superlottoplus/blasts-superlottoplus-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-superlottoplus/order-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/member-cancellation/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/member-upgrade/icon-certificate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/member-upgrade/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/group-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/horn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/small-certificate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/new-registration/two-tickets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/password-reset/lock-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/password-reset/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request-check/pay-with-winnings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request-check/phone-hand-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request-check/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request/pay-with-winnings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request/phone-cash-hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/payment-request/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-giver/gift-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-giver/group-communication.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-giver/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-receipient/claim-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-gift-order-receipient/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-member-subscription/gift-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-member-subscription/group-communication.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-member-subscription/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-purchase/gift-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-purchase/group-communication.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-purchase/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/gift-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/group-communication.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/small-recurring.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription/view-my-tickets-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ticket-cancellation/top-bg.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/jackpot-blasts/powerball-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/jackpot-blasts/superlottoplus-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-cancel-ticket-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-money-bag-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-plain-money-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-powerball-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-receipt-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/top-backgrounds/top-ticket-bg.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/9HsRbzi.jpg" afterPath="$PROJECT_DIR$/src/assets/img/alert-notifications-jackpot/top-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/icons/email-update.png" afterPath="$PROJECT_DIR$/src/assets/img/change-updage/mail-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/jackpot-blasts/megamillions-bg.jpg" afterPath="$PROJECT_DIR$/src/assets/img/jackpot-blasts-megamillions/blasts-megamillions-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-payment-request-check.html" afterPath="$PROJECT_DIR$/src/pages/email-payment-request-check.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-payment-request.html" afterPath="$PROJECT_DIR$/src/pages/email-payment-request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,65 +87,49 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lotto-gopher.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
+      <file leaf-file-name="jackpot-blasts-megamillions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="554" column="20" lean-forward="false" selection-start-line="554" selection-start-column="20" selection-end-line="554" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="email-invite-friend.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/email-invite-friend.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="129" column="36" lean-forward="true" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
+            <state relative-caret-position="527">
+              <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#1;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#3;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                <marker date="1492749443000" expanded="true" signature="9619:10155" ph="..." />
-                <marker date="1492749443000" expanded="true" signature="9717:10074" ph="..." />
-                <marker date="1492749443000" expanded="true" signature="9754:10039" ph="..." />
-                <marker date="1492749443000" expanded="true" signature="9819:10001" ph="..." />
-                <marker date="1492749443000" expanded="true" signature="9898:9964" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2330:2750" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2404:2691" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2427:2668" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2512:2644" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2573:2623" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="email-receipt-gift-order-giver.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html">
+      <file leaf-file-name="jackpot-blasts-powerball.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-powerball.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="245" column="54" lean-forward="true" selection-start-line="245" selection-start-column="54" selection-end-line="245" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="email-payment-request-check.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request-check.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="49" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                <marker date="1492746991000" expanded="true" signature="2778:3352" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2876:3271" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2913:3236" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="3014:3198" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="3093:3161" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="email-payment-request.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request.html">
+      <file leaf-file-name="jackpot-blasts-superlottoplus.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="128" column="14" lean-forward="false" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
+            <state relative-caret-position="843">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                <marker date="1492746991000" expanded="true" signature="2785:3359" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2883:3278" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="2920:3243" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="3021:3205" ph="..." />
+                <marker date="1492746991000" expanded="true" signature="3100:3168" ph="..." />
               </folding>
             </state>
           </provider>
@@ -84,7 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>small=&quot;</find>
       <find>small=&quot;0</find>
       <find>small=&quot;0&quot;</find>
       <find>csmall=&quot;0&quot;</find>
@@ -114,6 +168,7 @@
       <find>border</find>
       <find>order lott</find>
       <find>cashin\</find>
+      <find>img</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -133,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/lottogopher-billing-alert.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-declined-transaction.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-membership-cancel.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
@@ -172,18 +226,19 @@
         <option value="$PROJECT_DIR$/src/partials/header.html" />
         <option value="$PROJECT_DIR$/src/pages/email-declined-transaction.html" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-member-subscription.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-alert-notifications-jackpot.html" />
         <option value="$PROJECT_DIR$/src/pages/email-billing-alert.html" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-ticket-subscription.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-new-registration.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
         <option value="$PROJECT_DIR$/src/pages/email-receipt-gift-order-receipient.html" />
         <option value="$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-invite-friend.html" />
         <option value="$PROJECT_DIR$/src/pages/email-payment-request-check.html" />
         <option value="$PROJECT_DIR$/src/pages/email-payment-request.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/email-alert-notifications-jackpot.html" />
+        <option value="$PROJECT_DIR$/src/pages/email-billing-update.html" />
+        <option value="$PROJECT_DIR$/src/pages/email-invite-friend.html" />
+        <option value="$PROJECT_DIR$/src/pages/email-new-registration.html" />
+        <option value="$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html" />
       </list>
     </option>
   </component>
@@ -197,10 +252,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-57" />
-    <option name="y" value="226" />
-    <option name="width" value="3840" />
-    <option name="height" value="1167" />
+    <option name="y" value="22" />
+    <option name="width" value="2144" />
+    <option name="height" value="1574" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -282,6 +336,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lottogopher-emails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lottogopher-emails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -300,17 +376,19 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/img" />
-      <recent name="$PROJECT_DIR$/src/partials" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img/common" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/partials" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/assets/img" />
-      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img/jackpot-blasts-superlottoplus" />
+      <recent name="$PROJECT_DIR$/src/assets/img/jackpot-blasts-powerball" />
+      <recent name="$PROJECT_DIR$/src/assets/img/jackpot-blasts-megamillions" />
+      <recent name="$PROJECT_DIR$/src/assets/img/ticket-cancellation" />
+      <recent name="$PROJECT_DIR$/src/assets/img/receipt-ticket-subscription" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -825,16 +903,15 @@
       <workItem from="1492682009094" duration="2061000" />
       <workItem from="1492701152020" duration="593000" />
       <workItem from="1492703608759" duration="9267000" />
-      <workItem from="1492743390175" duration="7585000" />
+      <workItem from="1492743390175" duration="10520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244187000" />
+    <option name="totallyTimeSpent" value="247122000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-57" y="226" width="3840" height="1167" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="2144" height="1574" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -846,10 +923,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4511628" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17881241" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23854661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36489058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -913,17 +990,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="1090" column="28" lean-forward="true" selection-start-line="1090" selection-start-column="28" selection-end-line="1090" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/empty.html" />
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
-    <entry file="file://$PROJECT_DIR$/dist/lottogopher-blasts-megamillions.html" />
-    <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-email-change-update.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/lottogopher-registration.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/examples/hero.html" />
@@ -1028,62 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-declined-transaction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="59" column="10" lean-forward="true" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-member-subscription.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-alert-notifications-jackpot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-billing-alert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="76" column="122" lean-forward="true" selection-start-line="76" selection-start-column="122" selection-end-line="76" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-change-update.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="62" column="58" lean-forward="true" selection-start-line="62" selection-start-column="58" selection-end-line="62" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-subscription.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="57" column="49" lean-forward="false" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -1092,32 +1102,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-ticket-cancellation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="56" column="10" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding>
-            <marker date="1492746991000" expanded="true" signature="2330:2750" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2404:2691" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2427:2668" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2512:2644" ph="..." />
-            <marker date="1492746991000" expanded="true" signature="2573:2623" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-alert-notifications-big-winnings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="203" column="71" lean-forward="true" selection-start-line="203" selection-start-column="71" selection-end-line="203" selection-end-column="71" />
+        <state relative-caret-position="730">
+          <caret line="214" column="42" lean-forward="true" selection-start-line="214" selection-start-column="42" selection-end-line="214" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#4;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
             <marker date="1492748197000" expanded="true" signature="5796:6378" ph="..." />
@@ -1129,42 +1117,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-new-registration.html">
+    <entry file="file://$PROJECT_DIR$/src/pages/email-billing-alert.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="233" column="14" lean-forward="false" selection-start-line="209" selection-start-column="8" selection-end-line="233" selection-end-column="14" />
+        <state relative-caret-position="328">
+          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="542" column="19" lean-forward="true" selection-start-line="542" selection-start-column="19" selection-end-line="542" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-alert-notifications-jackpot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#2;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#2;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#2;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#columns#2;n#row#0;n#columns#0;n#row#0;n#columns#1;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#p#3;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#4;n#wrapper#0;n#container#0;n#!!top" expanded="false" />
+            <marker date="1492754325000" expanded="true" signature="2214:2752" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="2312:2671" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="2349:2636" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="2414:2598" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="2493:2561" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-billing-update.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="104" column="14" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="104" selection-end-column="14" />
+        <state relative-caret-position="695">
+          <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-change-update.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-declined-transaction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="224" column="14" lean-forward="true" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-invite-friend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#1;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#3;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1492754325000" expanded="true" signature="9617:10153" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="9715:10072" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="9752:10037" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="9817:9999" ph="..." />
+            <marker date="1492754325000" expanded="true" signature="9896:9962" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-membership-cancellation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="58" column="63" lean-forward="false" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-membership-upgrade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-new-registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="230" column="25" lean-forward="true" selection-start-line="230" selection-start-column="25" selection-end-line="230" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-password-reset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="83" column="36" lean-forward="true" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-receipient.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="85" column="22" lean-forward="true" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        <state relative-caret-position="921">
+          <caret line="140" column="22" lean-forward="true" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
             <marker date="1492748369000" expanded="true" signature="4324:4862" ph="..." />
@@ -1176,56 +1244,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="554" column="20" lean-forward="false" selection-start-line="554" selection-start-column="20" selection-end-line="554" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-invite-friend.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="129" column="36" lean-forward="true" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#1;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#3;n#center#0;n#columns#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1492749443000" expanded="true" signature="9619:10155" ph="..." />
-            <marker date="1492749443000" expanded="true" signature="9717:10074" ph="..." />
-            <marker date="1492749443000" expanded="true" signature="9754:10039" ph="..." />
-            <marker date="1492749443000" expanded="true" signature="9819:10001" ph="..." />
-            <marker date="1492749443000" expanded="true" signature="9898:9964" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-gift-order-giver.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="245" column="54" lean-forward="true" selection-start-line="245" selection-start-column="54" selection-end-line="245" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request-check.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="632">
+          <caret line="109" column="63" lean-forward="true" selection-start-line="109" selection-start-column="63" selection-end-line="109" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-payment-request.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="128" column="14" lean-forward="false" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
+        <state relative-caret-position="904">
+          <caret line="125" column="30" lean-forward="false" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="60" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#columns#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-member-subscription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1016">
+          <caret line="237" column="14" lean-forward="true" selection-start-line="237" selection-start-column="14" selection-end-line="237" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-purchase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="332" column="38" lean-forward="true" selection-start-line="332" selection-start-column="38" selection-end-line="332" selection-end-column="38" />
+          <folding>
+            <marker date="1492748369000" expanded="true" signature="22933:23473" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23031:23392" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23068:23357" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23133:23319" ph="..." />
+            <marker date="1492748369000" expanded="true" signature="23212:23282" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-receipt-ticket-subscription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="387" column="51" lean-forward="true" selection-start-line="387" selection-start-column="51" selection-end-line="387" selection-end-column="51" />
+          <folding>
+            <marker date="1492748066000" expanded="true" signature="27405:27945" ph="..." />
+            <marker date="1492748066000" expanded="true" signature="27503:27864" ph="..." />
+            <marker date="1492748066000" expanded="true" signature="27540:27829" ph="..." />
+            <marker date="1492748066000" expanded="true" signature="27605:27791" ph="..." />
+            <marker date="1492748066000" expanded="true" signature="27684:27754" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-ticket-cancellation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-megamillions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <marker date="1492746991000" expanded="true" signature="2330:2750" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2404:2691" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2427:2668" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2512:2644" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2573:2623" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-powerball.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <marker date="1492746991000" expanded="true" signature="2778:3352" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2876:3271" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2913:3236" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="3014:3198" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="3093:3161" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <marker date="1492746991000" expanded="true" signature="2785:3359" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2883:3278" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="2920:3243" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="3021:3205" ph="..." />
+            <marker date="1492746991000" expanded="true" signature="3100:3168" ph="..." />
           </folding>
         </state>
       </provider>
