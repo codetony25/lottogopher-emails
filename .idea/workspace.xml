@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/small-groups.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/img/prospect-freemium/lotto-sign.png" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/lotto-sign-border.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-prospect-1.html" afterPath="$PROJECT_DIR$/src/pages/email-prospect-1.html" />
@@ -11,7 +9,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-prospect-3.html" afterPath="$PROJECT_DIR$/src/pages/email-prospect-3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-prospect-4.html" afterPath="$PROJECT_DIR$/src/pages/email-prospect-4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-prospect-5.html" afterPath="$PROJECT_DIR$/src/pages/email-prospect-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/extra.html" afterPath="$PROJECT_DIR$/src/pages/extra.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/partials/prospect-freemium-footer.html" afterPath="$PROJECT_DIR$/src/partials/prospect-freemium-footer.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,94 +20,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5512675">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="email-prospect-1.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-1.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-                  <folding>
-                    <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#a#0;n#p#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                    <marker date="1495019245000" expanded="true" signature="3770:4541" ph="..." />
-                    <marker date="1495019245000" expanded="true" signature="3900:4428" ph="..." />
-                    <marker date="1495019245000" expanded="true" signature="3953:4377" ph="..." />
-                    <marker date="1495019245000" expanded="true" signature="4086:4323" ph="..." />
-                    <marker date="1495019245000" expanded="true" signature="4181:4270" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="email-prospect-2.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-2.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="682">
-                  <caret line="51" column="55" lean-forward="true" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
-                  <folding>
-                    <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                    <marker date="1495018344000" expanded="true" signature="2978:3704" ph="..." />
-                    <marker date="1495018344000" expanded="true" signature="3100:3599" ph="..." />
-                    <marker date="1495018344000" expanded="true" signature="3149:3552" ph="..." />
-                    <marker date="1495018344000" expanded="true" signature="3278:3502" ph="..." />
-                    <marker date="1495018344000" expanded="true" signature="3369:3453" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="email-prospect-3.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-3.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="63">
-                  <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-                  <folding>
-                    <marker date="1495018320000" expanded="true" signature="2871:3455" ph="..." />
-                    <marker date="1495018320000" expanded="true" signature="2969:3374" ph="..." />
-                    <marker date="1495018320000" expanded="true" signature="3006:3339" ph="..." />
-                    <marker date="1495018320000" expanded="true" signature="3114:3301" ph="..." />
-                    <marker date="1495018320000" expanded="true" signature="3193:3264" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="email-prospect-4.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-4.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="92" lean-forward="false" selection-start-line="6" selection-start-column="92" selection-end-line="6" selection-end-column="92" />
-                  <folding>
-                    <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                    <marker date="1495019174000" expanded="true" signature="3086:3830" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="3216:3717" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="3269:3666" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="3377:3612" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="3472:3559" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="email-prospect-5.html" pinned="false" current-in-tab="false">
+        <leaf>
+          <file leaf-file-name="email-prospect-5.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="515">
-                  <caret line="127" column="92" lean-forward="true" selection-start-line="127" selection-start-column="92" selection-end-line="127" selection-end-column="92" />
+                <state relative-caret-position="984">
+                  <caret line="92" column="52" lean-forward="true" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
                   <folding>
                     <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#img#0;n#a#0;n#th#1;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#a#0;n#p#1;n#th#3;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#img#0;n#a#0;n#th#3;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#p#1;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#img#0;n#th#1;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-                    <marker date="1495019174000" expanded="true" signature="8308:8892" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="8406:8811" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="8443:8776" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="8551:8738" ph="..." />
-                    <marker date="1495019174000" expanded="true" signature="8630:8701" ph="..." />
+                    <marker date="1495037711000" expanded="true" signature="7451:8035" ph="..." />
+                    <marker date="1495037711000" expanded="true" signature="7549:7954" ph="..." />
+                    <marker date="1495037711000" expanded="true" signature="7586:7919" ph="..." />
+                    <marker date="1495037711000" expanded="true" signature="7694:7881" ph="..." />
+                    <marker date="1495037711000" expanded="true" signature="7773:7844" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -118,12 +50,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file leaf-file-name="lotto-gopher.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="712">
-                  <caret line="715" column="17" lean-forward="false" selection-start-line="715" selection-start-column="17" selection-end-line="715" selection-end-column="17" />
+                <state relative-caret-position="437">
+                  <caret line="648" column="18" lean-forward="false" selection-start-line="648" selection-start-column="18" selection-end-line="648" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -135,17 +67,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Get the most</find>
-      <find>Get them</find>
-      <find>ord</find>
-      <find>order now</find>
-      <find>order now b</find>
-      <find>order now bu</find>
-      <find>order now but</find>
-      <find>order now butt</find>
-      <find>order now button</find>
-      <find>b</find>
-      <find>button</find>
       <find>button imag</find>
       <find>button image</find>
       <find>order today</find>
@@ -164,7 +85,18 @@
       <find>Header Image Link</find>
       <find>a href</find>
       <find>#</find>
+      <find>fix-middle-padding</find>
       <find>href=&quot;#</find>
+      <find>center-menu</find>
+      <find>lotto-footer-description</find>
+      <find>nb</find>
+      <find>no-pa</find>
+      <find>secure-paragraph</find>
+      <find>hide-me-small</find>
+      <find>small-text-center</find>
+      <find>hide-for-large</find>
+      <find>hide-m</find>
+      <find>hide</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -188,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dist/lottogopher-billing-update.html" />
         <option value="$PROJECT_DIR$/dist/css/app.css" />
         <option value="$PROJECT_DIR$/dist/lottogopher-blasts-megamillions.html" />
         <option value="$PROJECT_DIR$/src/pages/lottogopher-blasts-megamillions.html" />
@@ -228,17 +159,18 @@
         <option value="$PROJECT_DIR$/src/pages/email-prospect-freemium-1.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/pages/index.html" />
-        <option value="$PROJECT_DIR$/dist/email-prospect-1.html" />
         <option value="$PROJECT_DIR$/dist/email-prospect-3.html" />
-        <option value="$PROJECT_DIR$/src/partials/prospect-freemium-footer.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
-        <option value="$PROJECT_DIR$/dist/email-prospect-5.html" />
         <option value="$PROJECT_DIR$/src/pages/extra.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-prospect-3.html" />
+        <option value="$PROJECT_DIR$/dist/email-prospect-2.html" />
+        <option value="$PROJECT_DIR$/src/partials/prospect-freemium-footer.html" />
         <option value="$PROJECT_DIR$/src/pages/email-prospect-2.html" />
+        <option value="$PROJECT_DIR$/dist/email-prospect-1.html" />
+        <option value="$PROJECT_DIR$/src/pages/email-prospect-3.html" />
         <option value="$PROJECT_DIR$/src/pages/email-prospect-4.html" />
-        <option value="$PROJECT_DIR$/src/pages/email-prospect-5.html" />
         <option value="$PROJECT_DIR$/src/pages/email-prospect-1.html" />
+        <option value="$PROJECT_DIR$/dist/email-prospect-5.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
+        <option value="$PROJECT_DIR$/src/pages/email-prospect-5.html" />
       </list>
     </option>
   </component>
@@ -254,7 +186,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="3840" />
-    <option name="height" value="1578" />
+    <option name="height" value="1574" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -364,63 +296,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lottogopher-emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -980,19 +856,19 @@
       <workItem from="1493511722137" duration="2668000" />
       <workItem from="1494988542322" duration="11444000" />
       <workItem from="1495000329624" duration="16618000" />
-      <workItem from="1495017248444" duration="1959000" />
+      <workItem from="1495017248444" duration="20151000" />
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="enabled" value="true" />
-    <option name="totallyTimeSpent" value="298080000" />
+    <option name="totallyTimeSpent" value="316272000" />
     <option name="showClosedTasks" value="false" />
     <option name="showSpentTimeFromLastPost" value="true" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="3840" height="1578" extended-state="6" />
+    <frame x="0" y="22" width="3840" height="1574" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1006,7 +882,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8512015" sideWeight="0.4978701" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15679677" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15721998" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08662454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1308,46 +1184,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/email-prospect-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="0" column="6137" lean-forward="false" selection-start-line="0" selection-start-column="6137" selection-end-line="0" selection-end-column="6137" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/img/prospect-freemium/header.jpg" />
-    <entry file="file://$PROJECT_DIR$/dist/email-prospect-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="0" column="11441" lean-forward="true" selection-start-line="0" selection-start-column="11441" selection-end-line="0" selection-end-column="11441" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="30" column="73" lean-forward="false" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/prospect-freemium-footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/email-prospect-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="0" column="8971" lean-forward="false" selection-start-line="0" selection-start-column="8971" selection-end-line="0" selection-end-column="8971" />
         </state>
       </provider>
     </entry>
@@ -1383,32 +1224,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/email-prospect-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="813">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/email-prospect-5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1772">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="27932" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/extra.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="182" column="0" lean-forward="true" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="715" column="17" lean-forward="false" selection-start-line="715" selection-start-column="17" selection-end-line="715" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1420,82 +1239,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-5.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/prospect-freemium-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="127" column="92" lean-forward="true" selection-start-line="127" selection-start-column="92" selection-end-line="127" selection-end-column="92" />
+        <state relative-caret-position="561">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#th#1;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#1;n#th#3;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#th#3;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#th#1;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1495019174000" expanded="true" signature="8308:8892" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="8406:8811" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="8443:8776" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="8551:8738" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="8630:8701" ph="..." />
+            <element signature="n#style#0;n#p#0;n#center#0;n#columns#1;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#columns#0;n#row#0;n#center#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-4.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="92" lean-forward="false" selection-start-line="6" selection-start-column="92" selection-end-line="6" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1495019174000" expanded="true" signature="3086:3830" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="3216:3717" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="3269:3666" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="3377:3612" ph="..." />
-            <marker date="1495019174000" expanded="true" signature="3472:3559" ph="..." />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/email-prospect-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/email-prospect-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="0" column="13200" lean-forward="false" selection-start-line="0" selection-start-column="13200" selection-end-line="0" selection-end-column="13200" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/email-prospect-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="0" column="14428" lean-forward="false" selection-start-line="0" selection-start-column="14428" selection-end-line="0" selection-end-column="14428" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/email-prospect-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="0" column="35435" lean-forward="true" selection-start-line="0" selection-start-column="35435" selection-end-line="0" selection-end-column="35435" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <marker date="1495018320000" expanded="true" signature="2871:3455" ph="..." />
-            <marker date="1495018320000" expanded="true" signature="2969:3374" ph="..." />
-            <marker date="1495018320000" expanded="true" signature="3006:3339" ph="..." />
-            <marker date="1495018320000" expanded="true" signature="3114:3301" ph="..." />
-            <marker date="1495018320000" expanded="true" signature="3193:3264" ph="..." />
+            <marker date="1495029811000" expanded="true" signature="2871:3455" ph="..." />
+            <marker date="1495029811000" expanded="true" signature="2969:3374" ph="..." />
+            <marker date="1495029811000" expanded="true" signature="3006:3339" ph="..." />
+            <marker date="1495029811000" expanded="true" signature="3114:3301" ph="..." />
+            <marker date="1495029811000" expanded="true" signature="3193:3264" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="51" column="55" lean-forward="true" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+        <state relative-caret-position="534">
+          <caret line="49" column="136" lean-forward="false" selection-start-line="49" selection-start-column="136" selection-end-line="49" selection-end-column="136" />
           <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1495018344000" expanded="true" signature="2978:3704" ph="..." />
-            <marker date="1495018344000" expanded="true" signature="3100:3599" ph="..." />
-            <marker date="1495018344000" expanded="true" signature="3149:3552" ph="..." />
-            <marker date="1495018344000" expanded="true" signature="3278:3502" ph="..." />
-            <marker date="1495018344000" expanded="true" signature="3369:3453" ph="..." />
+            <marker date="1495029599000" expanded="true" signature="3554:4324" ph="..." />
+            <marker date="1495029599000" expanded="true" signature="3684:4211" ph="..." />
+            <marker date="1495029599000" expanded="true" signature="3737:4160" ph="..." />
+            <marker date="1495029599000" expanded="true" signature="3870:4106" ph="..." />
+            <marker date="1495029599000" expanded="true" signature="3965:4053" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="80" column="50" lean-forward="false" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1495029819000" expanded="true" signature="3086:3830" ph="..." />
+            <marker date="1495029819000" expanded="true" signature="3216:3717" ph="..." />
+            <marker date="1495029819000" expanded="true" signature="3269:3666" ph="..." />
+            <marker date="1495029819000" expanded="true" signature="3377:3612" ph="..." />
+            <marker date="1495029819000" expanded="true" signature="3472:3559" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        <state relative-caret-position="405">
+          <caret line="33" column="76" lean-forward="false" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
           <folding>
+            <element signature="n#style#0;n#a#0;n#p#1;n#columns#1;n#row#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1495030075000" expanded="true" signature="4291:5062" ph="..." />
+            <marker date="1495030075000" expanded="true" signature="4421:4949" ph="..." />
+            <marker date="1495030075000" expanded="true" signature="4474:4898" ph="..." />
+            <marker date="1495030075000" expanded="true" signature="4607:4844" ph="..." />
+            <marker date="1495030075000" expanded="true" signature="4702:4791" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/email-prospect-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="13" column="3395" lean-forward="true" selection-start-line="13" selection-start-column="3395" selection-end-line="13" selection-end-column="3395" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="648" column="18" lean-forward="false" selection-start-line="648" selection-start-column="18" selection-end-line="648" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="92" column="52" lean-forward="true" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
-            <marker date="1495019245000" expanded="true" signature="3770:4541" ph="..." />
-            <marker date="1495019245000" expanded="true" signature="3900:4428" ph="..." />
-            <marker date="1495019245000" expanded="true" signature="3953:4377" ph="..." />
-            <marker date="1495019245000" expanded="true" signature="4086:4323" ph="..." />
-            <marker date="1495019245000" expanded="true" signature="4181:4270" ph="..." />
+            <element signature="n#style#0;n#img#0;n#a#0;n#th#1;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#th#3;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#1;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#2;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#th#1;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#3;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
+            <marker date="1495037711000" expanded="true" signature="7451:8035" ph="..." />
+            <marker date="1495037711000" expanded="true" signature="7549:7954" ph="..." />
+            <marker date="1495037711000" expanded="true" signature="7586:7919" ph="..." />
+            <marker date="1495037711000" expanded="true" signature="7694:7881" ph="..." />
+            <marker date="1495037711000" expanded="true" signature="7773:7844" ph="..." />
           </folding>
         </state>
       </provider>

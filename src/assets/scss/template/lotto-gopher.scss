@@ -123,6 +123,7 @@ table.button.success table a {
   color: #777777;
   font-size: 12px;
   line-height: 18px;
+  width: 100%;
 }
 
 .lotto-footer {
@@ -469,6 +470,13 @@ table.button.success table a {
   }
 }
 
+.no-left-right-padding {
+  @media (min-width: 630px) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
 .fix-middle-padding {
   padding-left: 25px;
   padding-right: 25px;
@@ -541,11 +549,11 @@ table.button.success table a {
 
 }
 
-.center-menu {
-  tr {
-    text-align: center !important;
-  }
-}
+//.center-menu {
+//  tr {
+//    text-align: center !important;
+//  }
+//}
 
 .no-underline-link {
   text-decoration: none !important;
@@ -640,14 +648,39 @@ table.button.success table a {
 
 .hide-me-smaller {
   @media (max-width: 500px) {
-    display: none;
+    display: none !important;
   }
 }
 
 .hide-me-small {
-  @media (max-width: 678px) {
-    display: none;
+  display: none !important;
+
+  @media (min-width: 500px) {
+    display: initial !important;
   }
+}
+
+
+.hide-me-large {
+  @media (max-width: 500px) {
+    display: none !important;
+  }
+}
+
+.show-it-small-hide-it-large {
+  display: block;
+
+  @media (min-width: 678px) {
+    display: none !important;
+  }
+}
+
+.show-me-small {
+  display: initial !important;
+
+ @media (min-width: 500px) {
+   display: none !important;
+ }
 }
 
 .mega-millions-top-border {
@@ -719,6 +752,14 @@ table.button.success table a {
   @media (min-width: 680px) {
     display: initial !important;
     text-align: initial !important;
+  }
+}
+
+.text-right {
+  @media (min-width: 668px) {
+    th, td {
+      text-align: right !important;
+    }
   }
 }
 

@@ -1,7 +1,8 @@
 <wrapper>
     <container class="lotto-footer">
         <row class="collapsed footer">
-            <columns class="fix-middle-padding" small="12" large="12">
+            <columns small="1" large="1"></columns>
+            <columns small="10" large="10" class="no-left-right-padding">
                 <spacer size="24"></spacer>
                 <p class="lotto-footer-description text-center">
                     LottoGopher is an online community available to 18+ California residents that love to play the lottery. As a member, you can safely order lottery tickets for each jackpot. Your account can be easily managed online, and LottoGopher offers many features to make the lottery more fun with less hassle. We are your number one choice for ordering online lottery tickets. 256-BIT SSL Encryption.
@@ -11,23 +12,27 @@
                     <spacer size="5"></spacer>
                     <p class="text-center" style="font-size: 10px; font-weight: 700; color: #4a4a4a; padding: 0 !important; margin: 0 !important;">AS SEEN ON:</p>
                     <img src="http://i.imgur.com/VNdNfx6.jpg" alt="As seen on tv image">
+                    <spacer size="20"></spacer>
                 </center>
                 {{/if}}
-                <center class="center-menu">
-                    <menu>
-                        <item class="no-underline-link">
-                            <spacer size="12"></spacer>
-                            <img src="http://i.imgur.com/yH9L4fv.jpg" alt="Lock Image">
-                        </item>
-                        <item class="no-underline-link" style="padding-right: 0;">
-                            <spacer size="12"></spacer>
-                            <p class="secure-paragraph">100% SAFE AND SECURE</p>
-                        </item>
-                        <item class="no-underline-link" style="padding-left: 0; text-decoration: none !important;">
-                            <img src="http://i.imgur.com/97jhQgB.jpg" alt="Security Icon Images">
-                        </item>
-                    </menu>
-                </center>
+                <row class="no-underline-link">
+                    <columns small="12" large="12">
+                        <center>
+                            <row>
+                                <columns class="text-right">
+                                    <spacer size="8"></spacer>
+                                    <p class="small-text-center float-right secure-paragraph">
+                                        <img style="display: inline" src="http://i.imgur.com/yH9L4fv.jpg" alt="Lock Image" />
+                                        &nbsp;&nbsp;100% SAFE AND SECURE
+                                    </p>
+                                </columns>
+                                <columns>
+                                    <img class="small-float-center float-left" src="http://i.imgur.com/97jhQgB.jpg" alt="Security Icon Images" />
+                                </columns>
+                            </row>
+                        </center>
+                    </columns>
+                </row>
                 <spacer size="5"></spacer>
                 <p class="lotto-footer-links text-center"><a href="https://lottogopher.desk.com/" target="_blank">Help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="mailto:service@lottogopher.com">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://lottogopher.com/privacy-policy" target="_blank">Privacy</a></p>
                 <spacer size="5"></spacer>
@@ -73,6 +78,7 @@
                 </p>
                 <spacer size="40"></spacer>
             </columns>
+            <columns small="1" large="1"></columns>
         </row>
     </container>
 </wrapper>
