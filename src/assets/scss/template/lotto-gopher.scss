@@ -567,6 +567,17 @@ table.button.success table a {
     font-size: 28px !important;
   }
 }
+
+.prospect-header-text-white {
+  color: white;
+  font-size: 28px;
+  font-weight: 400;
+
+  @media (min-width: 678px) {
+    font-size: 36px !important;
+  }
+}
+
 .small-screen-font {
   font-size: 14px;
   color: #269eff;
