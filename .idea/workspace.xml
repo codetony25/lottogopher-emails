@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce1df25-cd63-457b-94d3-2f37d630c4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/join-group-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/lock.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/play-groups.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/prospect-1-header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/prospect-freemium/security-icons.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/email-prospect-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/email-prospect-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/email-prospect-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/email-prospect-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/email-prospect-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/extra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/free-ticket-exit-popup/megamillions-ticket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/free-ticket-exit-popup/redeem-tix-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/free-ticket-exit-popup/top-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/email-free-ticket-exit-popup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/email-new-registration.html" afterPath="$PROJECT_DIR$/src/pages/email-new-registration.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/index.html" afterPath="$PROJECT_DIR$/src/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html" afterPath="$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,12 +21,14 @@
     <splitter split-orientation="horizontal" split-proportion="0.7030342">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="93">
-                  <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-                  <folding />
+                <state relative-caret-position="824">
+                  <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+                  <folding>
+                    <marker date="1494998203000" expanded="false" signature="4181:4224" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -46,7 +37,7 @@
             <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-1.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="955">
-                  <caret line="130" column="32" lean-forward="true" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
+                  <caret line="130" column="32" lean-forward="false" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
                   <folding>
                     <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
@@ -63,11 +54,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="153">
-                  <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+                  <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -77,7 +68,7 @@
             <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="265">
-                  <caret line="539" column="3" lean-forward="true" selection-start-line="539" selection-start-column="3" selection-end-line="539" selection-end-column="3" />
+                  <caret line="539" column="3" lean-forward="false" selection-start-line="539" selection-start-column="3" selection-end-line="539" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -91,7 +82,7 @@
             <entry file="file://$PROJECT_DIR$/src/pages/email-change-update.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="714">
-                  <caret line="42" column="119" lean-forward="true" selection-start-line="42" selection-start-column="119" selection-end-line="42" selection-end-column="119" />
+                  <caret line="42" column="119" lean-forward="false" selection-start-line="42" selection-start-column="119" selection-end-line="42" selection-end-column="119" />
                   <folding />
                 </state>
               </provider>
@@ -101,7 +92,7 @@
             <entry file="file://$PROJECT_DIR$/src/pages/extra.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="816">
-                  <caret line="150" column="32" lean-forward="true" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
+                  <caret line="150" column="32" lean-forward="false" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
                   <folding>
                     <marker date="1494992713000" expanded="true" signature="3878:4479" ph="..." />
                     <marker date="1494992713000" expanded="true" signature="3968:4406" ph="..." />
@@ -215,10 +206,10 @@
         <option value="$PROJECT_DIR$/src/pages/extra.html" />
         <option value="$PROJECT_DIR$/src/pages/jackpot-blasts-superlottoplus.html" />
         <option value="$PROJECT_DIR$/src/pages/email-prospect-freemium-1.html" />
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss" />
         <option value="$PROJECT_DIR$/src/pages/email-prospect-1.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
       </list>
     </option>
   </component>
@@ -966,14 +957,14 @@
       <workItem from="1493356444630" duration="455000" />
       <workItem from="1493511317580" duration="327000" />
       <workItem from="1493511722137" duration="2668000" />
-      <workItem from="1494988542322" duration="9533000" />
+      <workItem from="1494988542322" duration="9629000" />
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="enabled" value="true" />
-    <option name="totallyTimeSpent" value="277592000" />
+    <option name="totallyTimeSpent" value="277688000" />
     <option name="showClosedTasks" value="false" />
     <option name="showSpentTimeFromLastPost" value="true" />
   </component>
@@ -1417,7 +1408,7 @@
     <entry file="file://$PROJECT_DIR$/src/pages/email-change-update.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
-          <caret line="42" column="119" lean-forward="true" selection-start-line="42" selection-start-column="119" selection-end-line="42" selection-end-column="119" />
+          <caret line="42" column="119" lean-forward="false" selection-start-line="42" selection-start-column="119" selection-end-line="42" selection-end-column="119" />
           <folding />
         </state>
       </provider>
@@ -1433,7 +1424,7 @@
     <entry file="file://$PROJECT_DIR$/src/pages/extra.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
-          <caret line="150" column="32" lean-forward="true" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
+          <caret line="150" column="32" lean-forward="false" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
           <folding>
             <marker date="1494992713000" expanded="true" signature="3878:4479" ph="..." />
             <marker date="1494992713000" expanded="true" signature="3968:4406" ph="..." />
@@ -1454,18 +1445,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/template/lotto-gopher.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
-          <caret line="539" column="3" lean-forward="true" selection-start-line="539" selection-start-column="3" selection-end-line="539" selection-end-column="3" />
+          <caret line="539" column="3" lean-forward="false" selection-start-line="539" selection-start-column="3" selection-end-line="539" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1473,7 +1456,7 @@
     <entry file="file://$PROJECT_DIR$/src/pages/email-prospect-1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="955">
-          <caret line="130" column="32" lean-forward="true" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
+          <caret line="130" column="32" lean-forward="false" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#th#0;n#row#0;n#wrapper#0;n#container#0;n#!!top" expanded="true" />
@@ -1492,8 +1475,18 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <marker date="1494998203000" expanded="false" signature="4181:4224" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
