@@ -568,6 +568,12 @@ table.button.success table a {
   }
 }
 
+.prospect-header-text-sub {
+  color: #333;
+  font-size: 24px;
+  font-weighT: 400;
+}
+
 .prospect-header-text-white {
   color: white;
   font-size: 28px;
@@ -575,6 +581,14 @@ table.button.success table a {
 
   @media (min-width: 678px) {
     font-size: 36px !important;
+  }
+
+  &.prospect-5 {
+    font-size: 20px !important;
+
+    @media (min-width: 678px) {
+      font-size: 28px !important;
+    }
   }
 }
 
@@ -698,6 +712,15 @@ table.button.success table a {
   }
 }
 
+.small-text-center {
+  display: block;
+  text-align: center !important;
+
+  @media (min-width: 680px) {
+    display: initial !important;
+    text-align: initial !important;
+  }
+}
 
 // Helpers
 .blue-header-text {
@@ -705,6 +728,19 @@ table.button.success table a {
   font-size: 17px;
   font-weight: 700;
   text-shadow: 0 1px 0 #ffffff;
+}
+
+.blue-header-text-sub {
+  color: #1d91df;
+  font-size: 16px;
+  font-weight: 700;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.prospect-content-text {
+  font-size: 15px !important;
+  color: #4a4a4a !important;
+  font-weight: 400 !important;
 }
 
 .secure-paragraph {
