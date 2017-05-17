@@ -29,36 +29,6 @@
     }
   }
 
-  //.jackpot-countdown {
-  //  background: rgba(256, 256, 256, 0.15);
-  //  border-radius: 10px;
-  //
-  //  .counter-text {
-  //    font-size: 14px;
-  //    font-weight: bold;
-  //    line-height: 0;
-  //    color: white;
-  //  }
-  //  th, p {
-  //    line-height: 1.1 !important;
-  //    margin: 0 !important;
-  //  }
-  //  .time-number {
-  //    font-size: 48px;
-  //    color: black;
-  //    margin: 0;
-  //    th {
-  //      line-height: 1;
-  //    }
-  //  }
-  //
-  //  .time-word {
-  //    font-size: 14px;
-  //    margin: 0;
-  //    color: black;
-  //  }
-  //}
-
   .wrapper.secondary {
 
     border-bottom-right-radius: 6px;
@@ -73,16 +43,15 @@
     @media (min-width: 600px) {
       width: 600px !important;
     }
-
-    //& .wrapper-inner {
-    //  border: 0 solid rgba(0,0,0,0);
-    //  -webkit-box-shadow: 2px 2px 2px #eee, -2px 2px 2px #eee;
-    //  box-shadow: 2px 2px 2px #eee, -2px 2px 2px #eee;
-    //}
   }
 
   .lotto-border-bottom {
     border-bottom: 1px solid #ccc;
+  }
+
+  .lotto-border-left-right {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
   }
 
   .lotto-bottom-radius {
@@ -153,6 +122,7 @@ table.button.success table a {
 .lotto-footer-description {
   color: #777777;
   font-size: 12px;
+  line-height: 18px;
 }
 
 .lotto-footer {
@@ -168,6 +138,16 @@ table.button.success table a {
   }
 }
 
+.light-bold {
+  color: #4a4a4a !important;
+}
+
+.strong-blue-bold {
+  text-decoration: underline;
+  color: #1d91df;
+  font-size: 15px;
+  font-weight: 700;
+}
 
 .lotto-top-money-bg,
 .lotto-top-name-bg {
@@ -316,8 +296,15 @@ table.button.success table a {
 }
 
 .lotto-hello {
-  color: white;
-  font-size: 15px;
+
+  th {
+    padding-left: 20px;
+  }
+
+  p {
+    color: white;
+    font-size: 15px;
+  }
 }
 
 .middle-button {
@@ -487,11 +474,11 @@ table.button.success table a {
   padding-right: 25px;
   @media (min-width: 630px) {
     padding-left: 55px !important;
-    padding-right: 55px;
+    padding-right: 55px !important;
   }
   @media (min-width: 678px) {
     padding-left: 55px !important;
-    padding-right: 55px;
+    padding-right: 55px !important;
   }
 }
 
@@ -554,6 +541,15 @@ table.button.success table a {
 
 }
 
+.prospect-header-text {
+  color: #333;
+  font-size: 22px;
+  font-weighT: 400;
+
+  @media (min-width: 678px) {
+    font-size: 28px !important;
+  }
+}
 .small-screen-font {
   font-size: 14px;
   color: #269eff;
@@ -672,4 +668,19 @@ table.button.success table a {
       color: #7f7f7f;
     }
   }
+}
+
+
+// Helpers
+.blue-header-text {
+  color: #1d91df;
+  font-size: 17px;
+  font-weight: 700;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.secure-paragraph {
+  font-color: #484848;
+  font-size: 11px;
+  font-weight: 700;
 }
