@@ -547,6 +547,17 @@ table.button.success table a {
   }
 }
 
+.no-underline-link {
+  text-decoration: none !important;
+  cursor: default !important;
+  pointer-events: none !important;
+  a {
+    text-decoration: none !important;
+    cursor: default !important;
+    pointer-events: none !important;
+  }
+}
+
 .prospect-header-text {
   color: #333;
   font-size: 22px;
