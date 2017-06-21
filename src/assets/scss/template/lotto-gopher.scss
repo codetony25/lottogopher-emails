@@ -1,6 +1,6 @@
 .lotto-gopher-common {
 
-  h1 {
+  h1:not(.prospect-header-text-white) {
     font-size: 32px;
     color: #333333;
   }
@@ -214,6 +214,11 @@ table.button.success table a {
   font-size: 16px !important;
 }
 
+.lotto-order-button {
+  a {
+    font-weight: normal !important;
+  }
+}
 /* Common Emails */
 .common-container {
   .lotto-second-middle-row {
@@ -501,8 +506,8 @@ p {
 }
 table.button.success table a {
   padding: 12px 24px;
-  font-size: 16px !important;
-  font-weight: bold !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
 }
 
 .body .columns td.large-1, .body .column td.large-1, .body .columns th.large-1, .body .column th.large-1 {
@@ -566,6 +571,16 @@ table.button.success table a {
   }
 }
 
+.jackpot-header {
+  img {
+    @media (min-width: 678px) {
+      max-width: 463px !important;
+      width: auto !important;
+      max-width: initial !important;
+    }
+  }
+}
+
 .prospect-header-text {
   color: #333;
   font-size: 22px;
@@ -583,12 +598,16 @@ table.button.success table a {
 }
 
 .prospect-header-text-white {
-  color: white;
-  font-size: 28px;
-  font-weight: 400;
+  color: white !important;
+  font-size: 20px;
+  font-weight: 700;
+
+  @media (min-width: 320px) {
+    font-size: 32px !important;
+  }
 
   @media (min-width: 678px) {
-    font-size: 36px !important;
+    font-size: 58px !important;
   }
 
   &.prospect-5 {
@@ -802,5 +821,50 @@ table.button.success table a {
 
   @media (min-width: 500px) {
     font-size: 64px !important;
+  }
+}
+
+.combo-amount {
+  th {
+    text-align: center !important;
+
+    @media (min-width: 320px) {
+      padding-top: 7px !important;
+    }
+
+    @media (min-width: 668px) {
+      padding-top: 0 !important;
+    }
+
+    a {
+      display: block;
+      text-align: center;
+
+      @media (min-width: 320px) {
+        display: inline !important;
+        text-align: center !important;
+      }
+    }
+  }
+  h2 {
+    font-size: 23px;
+    margin-bottom: 0;
+
+    @media (min-width: 320px) {
+      font-size: 25px !important;
+    }
+
+    @media (min-width: 668px) {
+      font-size: 38px !important;
+    }
+  }
+
+  span {
+    font-size: 12px !important;
+    display: block;
+
+    @media (min-width: 668px) {
+      font-size: 14px !important;
+    }
   }
 }
