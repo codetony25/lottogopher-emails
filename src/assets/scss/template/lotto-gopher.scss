@@ -72,6 +72,21 @@
     color: #2796fd;
   }
 }
+.wrapper.secondary {
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  @media (min-width: 580px) {
+    width: 578px !important;
+  }
+  @media (min-width: 600px) {
+    width: 600px !important;
+  }
+}
+
 
 th.large-12 center {
   min-width: 568px;
@@ -288,6 +303,15 @@ table.button.success table a {
     }
   }
 }
+
+.ball-right-padding {
+  @media (min-width: 669px) {
+    strong {
+      font-size: 35px !important;
+    }
+  }
+}
+
 
 .lotto-important-bg {
   background: #eff8ff;
