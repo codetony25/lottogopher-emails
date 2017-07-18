@@ -30,19 +30,24 @@
   }
 
   .wrapper.secondary {
-
     border-bottom-right-radius: 6px;
     border-bottom-left-radius: 6px;
     border-left: 1px solid #eee;
     border-right: 1px solid #eee;
-
     width: 100%;
     @media (min-width: 580px) {
       width: 578px !important;
     }
+
     @media (min-width: 600px) {
       width: 600px !important;
+
+      &.extra-width {
+        width: 603px !important;
+      }
     }
+
+
   }
 
   .lotto-border-bottom {
@@ -303,6 +308,28 @@ table.button.success table a {
     }
   }
 }
+
+//.show-for-large {
+//  display: none !important;
+//
+//  @media (min-width: 669px) {
+//    display:none !important;
+//    width:0;
+//    mso-hide:all;
+//    overflow:hidden;
+//  }
+//}
+//
+//.show-for-small {
+//  display: block !important;
+//
+//  @media (min-width: 669px) {
+//    display: none !important;
+//    width: initial;
+//    mso-hide: all;
+//    overflow: initial;
+//  }
+//}
 
 .ball-right-padding {
   @media (min-width: 669px) {
@@ -703,6 +730,14 @@ table.button.success table a {
   }
 }
 
+.bulletproof-bg {
+  @media (max-width: 678px) {
+    .main-bg {
+      background-position: center -40px !important;
+      //background-position: center -68px !important;
+    }
+  }
+}
 
 .hide-me-large {
   @media (max-width: 500px) {
