@@ -711,6 +711,12 @@ table.button.success table a {
   }
 }
 
+.small-text-center {
+  td, tr, th {
+    text-align: center !important;
+  }
+}
+
 .second-header {
   font-size: 24px;
   color: #333333;
@@ -733,8 +739,12 @@ table.button.success table a {
 .bulletproof-bg {
   @media (max-width: 678px) {
     .main-bg {
-      background-position: center -40px !important;
-      //background-position: center -68px !important;
+      background-position: center -68px !important;
+    }
+    &.extra-height {
+      .main-bg {
+        background-position: center -40px !important;
+      }
     }
   }
 }
