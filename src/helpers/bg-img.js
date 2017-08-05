@@ -70,13 +70,14 @@ module.exports = function(options) {
   var bg = '\
     <table align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important;">\
       <tr valign="top">\
-        <td class="main-bg" background="' + src + '" bgcolor="' + bgcolor + '" valign="top" align="center" style="height: ' + imgheight + 'px;' + '; text-align: center; background-position: center center; background-repeat: no-repeat !important;">\
+        <td class="main-bg" background="' + src + '" bgcolor="' + bgcolor + '" valign="top" align="center" style="height: ' + imgheight + 'px;' + ' text-align: center; background-position: center center; background-repeat: no-repeat !important;">\
           <!--[if gte mso 9]>\
             <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:' + imgwidth + 'px;' + unitHeight + ' background-position: center center !important;">\
             <v:fill type="tile" src="' + src + '" color="' + bgcolor + '" />\
             <v:textbox ' + msofit + ' inset="0,0,0,0">\
           <![endif]-->\
           <div>\
+          <img style="display: none !important; width: 0 !important; height: 0 !important;" src="' + src +'" alt="' + src +'" />\
             <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">' + spacer_top +
     '<tr valign="top">\
       <td valign="top">'

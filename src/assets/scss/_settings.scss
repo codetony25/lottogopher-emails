@@ -28,14 +28,14 @@ $black: #0a0a0a;
 $white: #fefefe;
 $pre-color: #ff6908;
 $global-width: 660px;
-$global-width-small: 100%;
+$global-width-small: 95%;
 $global-gutter: 16px;
-$body-background: #ffffff;
-$container-background: #ffffff;
-$global-padding: 0;
-$global-margin: 0;
-$global-radius: 3px;
-$global-rounded: 660px;
+$body-background: $light-gray;
+$container-background: $white;
+$global-padding: 16px;
+$global-margin: 16px;
+$global-radius: 6px;
+$global-rounded: 500px;
 $global-breakpoint: $global-width + $global-gutter;
 
 // 2. Grid
@@ -108,11 +108,11 @@ $button-font-size: (
 );
 $button-color: $white;
 $button-color-alt: $medium-gray;
-$button-font-weight: normal;
+$button-font-weight: bold;
 $button-margin: 0 0 $global-margin 0;
 $button-background: $primary-color;
 $button-border: 2px solid $button-background;
-$button-radius: 6px;
+$button-radius: $global-radius;
 $button-rounded: $global-rounded;
 
 // 6. Callout
@@ -145,3 +145,14 @@ $thumbnail-shadow-hover: 0 0 6px 1px rgba($primary-color, 0.5);
 $thumbnail-transition: box-shadow 200ms ease-out;
 $thumbnail-radius: $global-radius;
 
+.tinyemail {
+  $global-width: 492px;
+
+  & table.container {
+    background: #fefefe;
+    width: 492px;
+    margin: 0 auto;
+    Margin: 0 auto;
+    text-align: inherit;
+  }
+}

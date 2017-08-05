@@ -1,0 +1,86 @@
+---
+layout: index-layout
+subject: Freemium day 3
+---
+
+<container>
+    {{#bg-img src="assets/img/freemium-day-3/header.png" classes="hidden-top" imgwidth="660" imgheight="383" bgcolor="#fff"}}
+    <row>
+        {{> HeaderHeadline
+            text="Did you know LottoGopher gives all members the winning edge?"
+            color="white"
+            width="301px"
+            size="medium"
+        }}
+    </row>
+    {{/bg-img}}
+</container>
+<wrapper class="secondary lotto-bottom-radius lotto-border-bottom" style="background: white;">
+    <row>
+        <columns>
+            <spacer size="10"></spacer>
+            {{>
+                HeaderText
+                text="Now that you’ve tried LottoGopher, get special access to our tools and features to make you an expert lottery player."
+                width="406px"
+                size="small"
+            }}
+            <spacer size="35"></spacer>
+            {{> Button
+                src="assets/img/freemium-day-3/try-our-lotto-btn.png"
+                text="Try our Lotto Picker"
+                link-to="https://lottogopher.com/order/tickets"
+            }}
+            <spacer size="30"></spacer>
+            {{> HeaderText
+                text="With our Lottery Picker you can:"
+                size="small"
+                width="408px"
+            }}
+        </columns>
+    </row>
+    {{> RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="View different combinations quickly"
+        imgSrc="assets/img/freemium-day-3/lotto-thumbnail.png"
+        iconSrc="assets/img/freemium-day-3/small-blue-box.png"
+    }}
+    <spacer size="3"></spacer>
+    {{> RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Use with our Analytics Tools to pick numbers based on historical results"
+        imgSrc="assets/img/freemium-day-3/analytics-thumbnail.png"
+        iconSrc="assets/img/freemium-day-3/small-chart.png"
+    }}
+    <spacer size="3"></spacer>
+    {{> RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Pick numbers in seconds with our Quick Pick feature"
+        imgSrc="assets/img/freemium-day-3/quick-pick-thumbnail.png"
+        iconSrc="assets/img/freemium-day-3/small-clock.png"
+    }}
+    <spacer size="30"></spacer>
+    {{> BackgroundImageBlock
+        text="You can play the lottery using the Underdog Strategy. It’s about picking numbers that are overdue for a win."
+        bgImgSrc="assets/img/freemium-day-3/blue-bg.png"
+        iconSrc="assets/img/freemium-day-3/idea-icon.png"
+        imgwidth="600"
+        imgheight="201"
+        headerText="Did You Know?"
+    }}
+    <row>
+        <columns>
+            <spacer size="15"></spacer>
+            <center>
+                <p style="margin: 0; font-size: 21px;" class="mid-heading text-center">Give it a go!</p>
+                <img style="margin-bottom: -20px;" src="assets/img/freemium-day-3/3-color-balls.png" alt="3 Lotto Color Balls">
+            </center>
+            {{> Button
+                src="assets/img/freemium-day-3/try-our-lotto-btn.png"
+                text="Try our Lotto Picker"
+                link-to="https://lottogopher.com/order/tickets"
+            }}
+        </columns>
+    </row>
+</wrapper>
+{{> Footer }}

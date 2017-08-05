@@ -6,5 +6,3 @@ dist
 .sass-cache
 .awspublish*
 config.json
-/.gtm/
-.idea/

@@ -1,0 +1,232 @@
+@import "foundation-emails";
+
+body,
+html,
+.body {
+  background: #fff !important;
+}
+
+.container.header {
+  background: #fff;
+}
+
+table.container {
+  td.large-12.last, th.large-12.last {
+    padding-left: 0 !important;
+  }
+  td.large-12.first, th.large-12.first {
+    padding-right: 0 !important;
+  }
+}
+
+td {
+  word-wrap: break-word;
+  -webkit-hyphens: none !important;
+  -moz-hyphens: none !important;
+  hyphens: none !important;
+  border-collapse: collapse !important;
+}
+
+.bulletproof-bg.hidden-top {
+  @media (max-width: 660px) {
+    .main-bg {
+      height: 383 - 68px !important;
+      background-position: center -68px !important;
+    }
+  }
+}
+
+.bulletproof-bg.inner-bg {
+  .main-bg {
+    background-size: cover;
+  }
+  @media (min-width: 660px) {
+    .main-bg {
+      background-size: contain !important;
+    }
+  }
+}
+
+th, td {
+  hypen: none !important;
+}
+
+.white-text {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: .5px;
+}
+
+table.button.success table {
+  border-collapse: separate!important;
+  border-spacing: 0;
+  float: none;
+  hyphens: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: top;
+  width: auto;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+table.button.success table a {
+  background: #81c935 !important;
+  border: 0px solid #81c935 !important;
+  border-radius: 6px !important;
+  display: inline-block !important;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 700 !important;
+  padding: 12px 24px !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  white-space: nowrap;
+  word-wrap: break-word;
+  border: 0 solid #81c935 !important;
+  border-radius: 6px;
+  color: #fefefe;
+  display: inline-block;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  hyphens: none;
+  line-height: 1.3;
+  margin: 0;
+  padding: 12px 24px;
+  text-align: left;
+  text-decoration: none;
+  &:hover {
+    background: #81c935 !important;
+  }
+}
+
+.wrapper.secondary {
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
+  padding: 0 !important;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  border-spacing: 0;
+  hyphens: none;
+  padding: 0;
+  text-align: left;
+  vertical-align: top;
+  width: 100%;
+
+  @media (min-width: 600px) {
+    width: 600px !important;
+  }
+}
+
+.lotto-border-bottom {
+  border-bottom: 1px solid #ccc;
+}
+
+.lotto-border-left-right {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+
+.lotto-bottom-radius {
+  border-bottom-right-radius: 6px !important;
+  border-bottom-left-radius: 6px !important;
+
+}
+
+.light-paragraph {
+  color: #777;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.header-text,
+.header-headline-text {
+  color: #333333;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  &.small {
+    font-size: 16px !important;
+  }
+
+  &.medium {
+    font-size: 22px !important;
+  }
+
+  &.white {
+    color: #fff;
+  }
+
+  &.dark {
+    color: #333333;
+  }
+
+}
+
+strong {
+  color: #333333;
+}
+
+a {
+  color: #2796fd;
+}
+
+.mid-heading {
+  color: #212121;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.thin-heading {
+  color: #212121;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+
+/** Footers **/
+.small-light-paragraph {
+  color: #777777;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.copyright-text {
+  font-weight: bold;
+  color: #4a4a4a;
+  font-size: 12px;
+}
+
+.secure-text {
+  color: #484848;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 17px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.footer-links {
+  width: 177px;
+  height: 13px;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #2796fd;
+}
