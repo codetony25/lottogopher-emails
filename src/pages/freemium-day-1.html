@@ -1,76 +1,85 @@
 ---
-layout: index-layout
 subject: Freemium day 1
 ---
-<container class="body">
-    {{#bg-img src="assets/img/freemium-day-1/day-1-header.png" classes="hidden-top" imgwidth="660" imgheight="408" bgcolor="#fff"}}
+<wrapper>
+    <container>
+        {{#bg-img src="assets/img/freemium-day-1/day-1-header.png" classes="hidden-top" imgwidth="660" imgheight="408" bgcolor="#fff"}}
+        <row>
+            <columns>
+                <spacer size="35"></spacer>
+                <a href="https://lottogopher.com/order/tickets" target="_blank">
+                    <spacer class="show-for-large" size="70"></spacer>
+                    <h2 class="text-center" style="color: #ffffff; font-size: 22px; font-weight: 700; margin: 0 auto; max-width: 300px !important;">You’re on the winning path with LottoGopher!</h2>
+                </a>
+            </columns>
+        </row>
+        {{/bg-img}}
+    </container>
+</wrapper>
+<wrapper class="body secondary">
     <row>
         <columns>
-            <!-- Header Image Link Goes Here -->
-            <a href="https://lottogopher.com/order/tickets" target="_blank">
-                <spacer size="35"></spacer>
-                <spacer class="show-for-large" size="70"></spacer>
-                <h2 class="text-center" style="color: #ffffff; font-size: 22px; font-weight: 700; margin: 0 auto; max-width: 300px !important;">You’re on the winning path with LottoGopher!</h2>
-            </a>
+            {{>  HeaderText
+                text="Now that you’ve tried LottoGopher, get special access to our tools and features to make you an expert lottery player."
+                width="409px"
+                size="medium"
+            }}
+            <spacer size="17"></spacer>
+            {{> Button
+                src="assets/img/freemium-day-1/get-the-goods-btn.png"
+                text="Get the Goods"
+                link-to="https://lottogopher.com/order/tickets"
+            }}
+            <spacer size="30"></spacer>
+            {{>  HeaderText
+                text="Become an expert Lottery player:"
+                width="255px"
+                size="small"
+            }}
         </columns>
     </row>
-    {{/bg-img}}
-    <wrapper class="secondary lotto-bottom-radius lotto-border-bottom" style="background: white;">
-        <row>
-            <columns>
-                {{>  HeaderText
-                    text="Now that you’ve tried LottoGopher, get special access to our tools and features to make you an expert lottery player."
-                    width="409px"
-                    size="small"
-                }}
-                <spacer size="17"></spacer>
-                {{> Button
-                    src="assets/img/freemium-day-1/get-the-goods-btn.png"
-                    text="Get the Goods"
-                    link-to="https://lottogopher.com/order/tickets"
-                }}
-                <spacer size="30"></spacer>
-            </columns>
-        </row>
-        <row>
-            {{> TwoColumnBlock
-                link="https://lottogopher.com/order/tickets"
-                text="Use Quick Pick to choose numbers in a flash"
-                imgSrc="assets/img/freemium-day-1/picker-thumnbnail.png"
-                textWidth="112px"
-            }}
-            {{> TwoColumnBlock
-                link="https://lottogopher.com/order/tickets"
-                text="Be a better informed player with our unique analytics tools"
-                imgSrc="assets/img/freemium-day-1/insight-thumbnail.png"
-                textWidth="133px"
-            }}
-            {{> TwoColumnBlock
-                link="https://lottogopher.com/order/tickets"
-                text="Enjoy more chance to win by creating or joining a group"
-                imgSrc="assets/img/freemium-day-1/winning-thumbnail.png"
-                textWidth="133px"
-            }}
-        </row>
-        {{> BackgroundImageBlock
-            text="You can play the lottery using the Underdog Strategy. It’s about picking numbers that are overdue for a win."
-            bgImgSrc="assets/img/freemium-day-1/green-bg.png"
-            iconSrc="assets/img/freemium-day-1/idea-icon.png"
-            imgwidth="600"
-            imgheight="201"
-            headerText="Did You Know?"
+    <row>
+        {{> TwoColumnBlock
+            link="https://lottogopher.com/order/tickets"
+            text="Use Quick Pick to choose numbers in a flash"
+            imgSrc="assets/img/freemium-day-1/picker-thumnbnail.png"
+            textWidth="112px"
         }}
-        <spacer size="30"></spacer>
-        <row>
-            <columns>
-                <spacer size="35"></spacer>
-                <p style="font-size: 21px;" class="mid-heading text-center">Get the inside scoop now!</p>
-                <center>
-                    <img src="assets/img/freemium-day-1/3-balls.png" alt="">
-                </center>
-                <spacer size="25"></spacer>
-            </columns>
-        </row>
-    </wrapper>
-    {{>Footer }}
-</container>
+        {{> TwoColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Be a better informed player with our unique analytics tools"
+        imgSrc="assets/img/freemium-day-1/insight-thumbnail.png"
+        textWidth="133px"
+        }}
+        {{> TwoColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Enjoy more chance to win by creating or joining a group"
+        imgSrc="assets/img/freemium-day-1/winning-thumbnail.png"
+        textWidth="133px"
+        }}
+    </row>
+    {{> BackgroundImageBlock
+        text="You can play the lottery using the Underdog Strategy. It’s about picking numbers that are overdue for a win."
+        bgImgSrc="assets/img/freemium-day-1/green-bg.png"
+        iconSrc="assets/img/freemium-day-1/idea-icon.png"
+        imgwidth="600"
+        imgheight="201"
+        headerText="Did You Know?"
+    }}
+    <row>
+        <columns>
+            <spacer size="45"></spacer>
+            <p style="font-size: 21px;" class="mid-heading text-center">Get the inside scoop now!</p>
+            <center>
+                <img src="assets/img/freemium-day-1/3-balls.png" alt="">
+            </center>
+            <spacer size="25"></spacer>
+        </columns>
+    </row>
+</wrapper>
+
+<wrapper>
+    <container>
+        {{>Footer }}
+    </container>
+</wrapper>

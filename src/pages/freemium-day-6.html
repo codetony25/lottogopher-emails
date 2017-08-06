@@ -1,130 +1,95 @@
 ---
-layout: index-layout
 subject: Freemium day 6
 ---
-
-<container>
-    {{#bg-img src="assets/img/freemium-day-6/header.png" classes="hidden-top" imgwidth="660" imgheight="383" bgcolor="#fff"}}
-    <row>
-        {{> HeaderHeadline
-            text="You can be an instant expert."
-            color="dark"
-            width="301px"
-            size="medium"
-        }}
-    </row>
-    {{/bg-img}}
-</container>
-<wrapper class="secondary lotto-bottom-radius lotto-border-bottom" style="background: white;">
-    <row>
-        <columns>
-            <spacer size="10"></spacer>
-            {{> HeaderText
+<wrapper>
+    <container>
+        {{#bg-img src="assets/img/freemium-day-6/header.png" classes="hidden-top" imgwidth="660" imgheight="383" bgcolor="#fff"}}
+        <row>
+            <columns>
+                <spacer size="35"></spacer>
+                <a href="https://lottogopher.com/order/tickets" target="_blank">
+                    <spacer class="show-for-large" size="70"></spacer>
+                    <h2 class="text-center" style="color: #333; font-size: 22px; font-weight: 700; margin: 0 auto; max-width: 300px !important;">You can be an instant expert.</h2>
+                </a>
+            </columns>
+        </row>
+        {{/bg-img}}
+    </container>
+</wrapper>
+<wrapper>
+    <container class="secondary body">
+        <row>
+            <columns>
+                <spacer size="10"></spacer>
+                {{> HeaderText
                 text="…with our exclusive tools. They’re just one of the perks when you become a LottoGopher member!"
                 width="383px"
                 color="dark"
-                size="small"
-            }}
-            <spacer size="35"></spacer>
-            {{> Button
+                size="medium"
+                }}
+                <spacer size="35"></spacer>
+                {{> Button
                 src="assets/img/freemium-day-6/analytics-tools-btn.png"
                 text="Check out our Analytics tools"
                 link-to="https://lottogopher.com/order/tickets"
-            }}
-            <spacer size="30"></spacer>
-            {{> HeaderText
+                }}
+                <spacer size="30"></spacer>
+                {{> HeaderText
                 text="With our customer Analytics Tools you can:"
                 size="small"
                 width="408px"
-            }}
-        </columns>
-    </row>
-    <row>
-        <columns small="12" large="6">
-            {{> HeaderText
-                text="With our Lottery Picker you can:"
-                size="small"
-                width="408px"
-            }}
-        </columns>
-        <columns small="12" large="6" style="padding-left: 15px !important;">
-            <spacer size="32"></spacer>
-            <p class="small-float-center" style="vertical-align: top; font-size: 16px; color: #333; font-weight: 300;">
-               <span>
-                   <img src="assets/img/freemium-day-6/small-blue-box.png" style="display: inline-block !important; padding-right: 3px; vertical-align: sub;" alt="">
-               </span>
-                View numbers from past Lotteries
-            </p>
-        </columns>
-    </row>
-    <spacer size="3"></spacer>
-    <row>
-        <columns small="12" large="6">
-            <a href="https://lottogopher.com/order/tickets" target="_blank">
-                <img class="small-float-center float-right" src="assets/img/freemium-day-6/graph-thumbnail.png" alt="graph image">
-            </a>
-        </columns>
-        <columns small="12" large="6" style="padding-left: 15px !important;">
-            <spacer size="32"></spacer>
-            <p class="small-float-center" style="vertical-align: top; font-size: 16px; color: #333; font-weight: 300;">
-                       <span>
-                           <img src="assets/img/freemium-day-6/small-chart.png" style="display: inline-block !important; padding-right: 3px; vertical-align: sub;" alt="">
-                       </span>
-                Assess the number of times each number has been selected
-            </p>
-        </columns>
-    </row>
-    <spacer size="3"></spacer>
-    <row>
-        <columns small="12" large="6">
-            <a href="https://lottogopher.com/order/tickets" target="_blank">
-                <img class="small-float-center float-right" src="assets/img/freemium-day-6/rank-thumbnail.png" alt="rank image">
-            </a>
-        </columns>
-        <columns small="12" large="6" style="padding-left: 15px !important;">
-            <spacer size="32"></spacer>
-            <p class="small-float-center float-right" style="vertical-align: top; font-size: 16px; color: #333; font-weight: 300;">
-                        <span>
-                           <img src="assets/img/freemium-day-6/small-clock.png" style="display: inline-block !important; padding-right: 3px; vertical-align: sub;" alt="">
-                        </span>
-                Rank numbers based on the number of times they’ve been chosen
-            </p>
-        </columns>
-    </row>
-    <spacer size="30"></spacer>
-    {{#bg-img src="assets/img/freemium-day-6/light-blue-bg.jpg" classes="inner-bg" imgwidth="600" bgcolor="#fff"}}
-    <row>
-        <columns small="12" large="12">
-            <center>
+                }}
+            </columns>
+        </row>
+        {{>
+        RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="View numbers from past Lotteries"
+        imgSrc="assets/img/freemium-day-6/result-thumbnail.png"
+        iconSrc="assets/img/freemium-day-6/small-blue-box.png"
+        }}
+        {{>
+        RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Assess the number of times each number has been selected"
+        imgSrc="assets/img/freemium-day-6/graph-thumbnail.png"
+        iconSrc="assets/img/freemium-day-6/small-chart.png"
+        }}
+        {{>
+        RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Rank numbers based on the number of times they’ve been chosen"
+        imgSrc="assets/img/freemium-day-6/rank-thumbnail.png"
+        iconSrc="assets/img/freemium-day-6/small-clock.png"
+        }}
+        <spacer size="30"></spacer>
+        {{> BackgroundImageBlock
+        text="The top 3 overdue numbers for Powerball are 07, 12 and 14."
+        bgImgSrc="assets/img/freemium-day-6/light-blue-bg.jpg"
+        iconSrc="assets/img/freemium-day-6/idea-icon.png"
+        imgwidth="600"
+        imgheight="183"
+        headerText="Did You Know?"
+        }}
+        <row>
+            <columns>
+                <spacer size="45"></spacer>
+                <p style="margin: 0; font-size: 21px;" class="mid-heading text-center">Get all the latest info!</p>
                 <spacer size="20"></spacer>
-                <img class="small-float-center" style="vertical-align: top; display: inline-block; padding-right: 10px;" src="assets/img/freemium-day-6/idea-icon.png" alt="" />
-                <h4 style="text-transform: uppercase; vertical-align: middle; display: inline-block; margin: 0;" class="mid-heading small-text-center">
-                    Did You Know?
-                </h4>
-                <spacer size="8"></spacer>
-                <img src="assets/img/freemium-day-6/border-bottom-black.png" alt="">
-                <spacer size="14"></spacer>
-                <p style="max-width: 360px; margin: 0 auto;" class="thin-heading text-center">The top 3 overdue numbers for Powerball are 07, 12 and 14.</p>
-            </center>
-        </columns>
-    </row>
-    {{/bg-img}}
-    <row>
-        <columns>
-            <spacer size="25"></spacer>
-            <p style="margin: 0; font-size: 21px;" class="mid-heading text-center">Get all the latest info!</p>
-            <spacer size="5"></spacer>
-            <center>
-                <!--[if !mso]><\!-->
-                <button class="radius success large" href="https://lottogopher.com/order/tickets">Give me the tools!</button>
-                <!-- <![endif]-->
-                <!--[if gte mso 9]>
-                <img src="assets/img/freemium-day-6/give-me-the-tools-btn.png" alt="analytics tools button">
-                <![endif]-->
-            </center>
-            <spacer size="35"></spacer>
-        </columns>
-    </row>
-    {{> FooterTickets }}
+                {{> Button
+                src="assets/img/freemium-day-6/give-me-the-tools-btn.png"
+                text="Give me the tools!"
+                link-to="https://lottogopher.com/order/tickets"
+                }}
+                <spacer size="35"></spacer>
+            </columns>
+        </row>
+        {{> FooterTickets }}
+    </container>
 </wrapper>
-{{> Footer }}
+
+<wrapper>
+    <container>
+        {{>Footer }}
+    </container>
+</wrapper>

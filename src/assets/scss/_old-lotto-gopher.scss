@@ -1,0 +1,1071 @@
+// 1. Global
+// ---------
+
+$primary-color: #2199e8;
+$secondary-color: #777777;
+$success-color: #3adb76;
+$warning-color: #ffae00;
+$alert-color: #ec5840;
+$light-gray: #f3f3f3;
+$medium-gray: #cacaca;
+$dark-gray: #8a8a8a;
+$black: #0a0a0a;
+$white: #fefefe;
+$pre-color: #ff6908;
+$global-width: 660px;
+$global-width-small: 100%;
+$global-gutter: 16px;
+$body-background: #ffffff;
+$container-background: #ffffff;
+$global-padding: 0;
+$global-margin: 0;
+$global-radius: 3px;
+$global-rounded: 660px;
+$global-breakpoint: $global-width + $global-gutter;
+
+// 2. Grid
+// -------
+
+$grid-column-count: 12;
+$column-padding-bottom: $global-padding;
+$container-radius: 0;
+
+// 3. Block Grid
+// -------------
+
+$block-grid-max: 8;
+$block-grid-gutter: $global-gutter;
+
+// 4. Typography
+// -------------
+
+$global-font-color: $black;
+$body-font-family: Helvetica, Arial, sans-serif;
+$global-font-weight: normal;
+$header-color: inherit;
+$global-line-height: 1.3;
+$global-font-size: 16px;
+$body-line-height: $global-line-height;
+$header-font-family: $body-font-family;
+$header-font-weight: $global-font-weight;
+$h1-font-size: 34px;
+$h2-font-size: 30px;
+$h3-font-size: 28px;
+$h4-font-size: 24px;
+$h5-font-size: 20px;
+$h6-font-size: 18px;
+$header-margin-bottom: 10px;
+$paragraph-margin-bottom: 10px;
+$small-font-size: 80%;
+$small-font-color: $medium-gray;
+$lead-font-size: $global-font-size * 1.25;
+$lead-line-height: 1.6;
+$text-padding: 10px;
+$subheader-lineheight: 1.4;
+$subheader-color: $dark-gray;
+$subheader-font-weight: $global-font-weight;
+$subheader-margin-top: 4px;
+$subheader-margin-bottom: 8px;
+$hr-width: $global-width;
+$hr-border: 1px solid $black;
+$hr-margin: 20px auto;
+$anchor-text-decoration: none;
+$anchor-color: $primary-color;
+$anchor-color-visited: $anchor-color;
+$anchor-color-hover: darken($primary-color, 10%);
+$anchor-color-active: $anchor-color-hover;
+$stat-font-size: 40px;
+
+// 5. Button
+// ---------
+
+$button-padding: (
+  tiny: 4px 8px 4px 8px,
+  small: 5px 10px 5px 10px,
+  default: 8px 16px 8px 16px,
+  large: 10px 20px 10px 20px,
+);
+$button-font-size: (
+  tiny: 10px,
+  small: 12px,
+  default: 16px,
+  large: 20px,
+);
+$button-color: $white;
+$button-color-alt: $medium-gray;
+$button-font-weight: normal;
+$button-margin: 0 0 $global-margin 0;
+$button-background: $primary-color;
+$button-border: 2px solid $button-background;
+$button-radius: 6px;
+$button-rounded: $global-rounded;
+
+// 6. Callout
+// ----------
+
+$callout-background: $white;
+$callout-background-fade: 85%;
+$callout-padding: 10px;
+$callout-margin-bottom: $global-margin;
+$callout-border: 1px solid darken($callout-background, 20%);
+$callout-border-secondary: 1px solid darken($secondary-color, 20%);
+$callout-border-success: 1px solid darken($success-color, 20%);
+$callout-border-warning: 1px solid darken($warning-color, 20%);
+$callout-border-alert: 1px solid darken($alert-color, 20%);
+
+// 7. Menu
+// -------
+
+$menu-item-padding: 10px;
+$menu-item-gutter: 10px;
+$menu-item-color: $primary-color;
+
+// 8. Thumbnail
+// ------------
+
+$thumbnail-border: solid 4px $white;
+$thumbnail-margin-bottom: $global-margin;
+$thumbnail-shadow: 0 0 0 1px rgba($black, 0.2);
+$thumbnail-shadow-hover: 0 0 6px 1px rgba($primary-color, 0.5);
+$thumbnail-transition: box-shadow 200ms ease-out;
+$thumbnail-radius: $global-radius;
+
+.lotto-gopher-common {
+
+  h1:not(.prospect-header-text-white) {
+    font-size: 32px;
+    color: #333333;
+  }
+
+  .user-email {
+    h1 {
+      font-size: 32px;
+      color: #333333;
+    }
+  }
+
+  .jackpot-header {
+    h1, h4, h3 {
+      color: white;
+    }
+    h1 {
+      font-size: 48px;
+      font-weight: bold;
+      @media (min-width: 668px) {
+        font-size: 58px !important;
+      }
+    }
+    h4 {
+      font-weight: 100;
+      font-size: 24px;
+    }
+  }
+
+  .wrapper.secondary {
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    width: 100%;
+    @media (min-width: 580px) {
+      width: 578px !important;
+    }
+
+    @media (min-width: 600px) {
+      width: 600px !important;
+
+      &.extra-width {
+        width: 603px !important;
+      }
+    }
+
+
+  }
+
+  .lotto-border-bottom {
+    border-bottom: 1px solid #ccc;
+  }
+
+  .lotto-border-left-right {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
+
+  .lotto-bottom-radius {
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+  }
+
+  .light-paragraph {
+    color: #777;
+    font-size: 14px;
+  }
+
+  strong {
+    color: #333333;
+  }
+
+  a {
+    color: #2796fd;
+  }
+}
+.wrapper.secondary {
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  @media (min-width: 580px) {
+    width: 578px !important;
+  }
+  @media (min-width: 600px) {
+    width: 600px !important;
+  }
+}
+
+
+th.large-12 center {
+  min-width: 568px;
+}
+
+* {
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+
+table {
+  border-collapse: separate !important;
+  border-spacing: 0;
+}
+
+.column-padding {
+  th, td {
+    padding-left: 32px !important;
+    padding-right: 10px !important;
+    @media (min-width: 668px) {
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+    }
+  }
+  &.apply-top {
+    padding-top: 25px;
+  }
+}
+
+.user-info {
+  th.large-8 {
+    @media (min-width: 668px) {
+      padding-left: 70px !important;
+    }
+  }
+}
+
+table.button.success table td {
+  background: #81c935 !important;
+  border: 0px solid #81c935 !important;
+}
+table.button.success table a {
+  border: 0px solid #81c935 !important;
+}
+/** Footers **/
+.lotto-footer-description {
+  color: #777777;
+  font-size: 12px;
+  line-height: 18px;
+  width: 100%;
+}
+
+.lotto-footer {
+  .lotto-footer-links {
+    a {
+      font-size: 14px;
+    }
+  }
+  .lotto-footer-copyright {
+    font-weight: bold;
+    color: #4a4a4a;
+    font-size: 12px;
+  }
+}
+
+.light-bold {
+  color: #4a4a4a !important;
+}
+
+.strong-blue-bold {
+  text-decoration: underline;
+  color: #1d91df;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.lotto-top-money-bg,
+.lotto-top-name-bg {
+  width: 100%;
+  h2, h1 {
+    margin: 0;
+  }
+  .jackpot {
+    color: #303030;
+    font-size: 38px;
+    font-weight: bold;
+  }
+  th.columns {
+    padding-bottom: 0 !important;
+  }
+  th.large-12 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  th.large-1 {
+    width: 40px;
+  }
+}
+
+.lotto-action-link {
+  a {
+    font-size: 14px;
+    text-decoration: underline;
+    color: #2796fd;
+    font-weight: bold;
+  }
+}
+
+.mega-millions-border {
+  border-top: 4px solid #4276d6;
+}
+
+.ticket-category {
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
+
+  p {
+    color: #aeaeae;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 14px;
+  }
+}
+
+.winning-number {
+  color: #74ce00 !important;
+  font-weight: bold;
+}
+
+.winning-price {
+  color: #c6b24b !important;
+  font-weight: bold !important;
+}
+
+.lotto-confirmation-msg {
+  color: #74ce00 !important;
+  font-weight: bold !important;
+  font-size: 16px !important;
+}
+
+.lotto-order-button {
+  a {
+    font-weight: normal !important;
+  }
+}
+/* Common Emails */
+.common-container {
+  .lotto-second-middle-row {
+    h1 {
+      padding-top: 23px;
+      color: black;
+      font-size: 25px;
+      margin: 0 !important;
+      @media (min-width: 669px) {
+        font-size: 32px !important;
+      }
+    }
+    .lotto-email-info {
+      font-size: 14px;
+      color: #777777;
+      span {
+        font-weight: bold;
+        color: #003333;
+      }
+    }
+    p {
+      font-size: 14px;
+      color: #777777;
+    }
+    .last-line {
+      td {
+        border-bottom: 1px solid #bbb !important;
+      }
+    }
+  }
+}
+
+.common-container {
+  .lotto-important-bg-wide {
+    background: #eff8ff;
+
+    h2 {
+      font-size: 24px;
+      color: #333333;
+    }
+    p {
+      font-size: 14px;
+    }
+    a {
+      color: #269eff;
+      text-decoration: underline;
+    }
+  }
+  .lotto-getting-started {
+    h5 {
+      color: #269eff;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    p {
+      color: #777777;
+      font-size: 13px;
+    }
+    .left-icon {
+      padding: 10px;
+    }
+    .middle-borders {
+      border: 1px solid #bbb;
+    }
+    .right-icon {
+
+    }
+  }
+}
+
+//.show-for-large {
+//  display: none !important;
+//
+//  @media (min-width: 669px) {
+//    display:none !important;
+//    width:0;
+//    mso-hide:all;
+//    overflow:hidden;
+//  }
+//}
+//
+//.show-for-small {
+//  display: block !important;
+//
+//  @media (min-width: 669px) {
+//    display: none !important;
+//    width: initial;
+//    mso-hide: all;
+//    overflow: initial;
+//  }
+//}
+
+.ball-right-padding {
+  @media (min-width: 669px) {
+    strong {
+      font-size: 35px !important;
+    }
+  }
+}
+
+
+.lotto-important-bg {
+  background: #eff8ff;
+  padding: 21px;
+  width: 90%;
+  @media (min-width: 669px) {
+    width: 85% !important;
+  }
+  span {
+    font-weight: bold;
+  }
+}
+
+.lotto-hello {
+
+  th {
+    padding-left: 20px;
+  }
+
+  p {
+    color: white;
+    font-size: 15px;
+  }
+}
+
+.middle-button {
+  background: #fff !important;
+}
+
+.common-container {
+  .lotto-statement {
+    .date,
+    .paid-with {
+      padding-left: 25px;
+      @media only screen and (max-width: 669px) {
+        padding-left: 15px !important;
+      }
+    }
+
+    .invoice,
+    .total,
+    .total-info {
+      padding-right: 23px;
+      @media only screen and (max-width: 669px) {
+        padding-right: 13px !important;
+      }
+    }
+
+    .description-info,
+    .purchase-info {
+      border-top: 2px solid #e4e4e4;
+    }
+
+    .add-bottom-border {
+      border-bottom: 2px solid #e4e4e4;
+    }
+
+    .description-info,
+    .purchase-info,
+    .ticket-info {
+      margin: 15px auto;
+      @media (min-width: 669px) {
+        width: 530px !important;
+      }
+    }
+
+    .total-info {
+      .paid-with {
+        font-weight: bold;
+        font-size: 12px;
+        color: #777777;
+        span {
+          margin-top: 6px;
+          font-size: 14px;
+          display: inline-block;
+          padding-bottom: 5px;
+          color: #333333;
+          vertical-align: bottom;
+        }
+        img {
+          margin-top: 8px;
+          display: inline-block;
+          vertical-align: middle;
+        }
+      }
+      .total {
+        font-size: 16px;
+        color: #333333;
+        font-weight: bold;
+        padding-top: 7px;
+      }
+    }
+
+    .ticket-info {
+      border-left: 6px solid #ffa434;
+      border-right: 14px solid #ffa434;
+      .each-ticket {
+        border-bottom: 1px solid #f0f0f0;
+        padding-bottom: 3px;
+      }
+      span {
+        font-size: 13px;
+        color: #333;
+        font-weight: normal;
+        display: inline-block;
+        padding-top: 6px;
+        padding-bottom: 6px;
+      }
+      .value {
+        span {
+          padding-left: 25px;
+          vertical-align: top;
+          color: #999999;
+          @media (min-width: 669px) {
+            padding-right: 60px !important;
+          }
+        }
+      }
+      .picked-numbers {
+        span {
+          display: inline-block;
+          vertical-align: middle;
+          @media (min-width: 669px) {
+            padding-right: 6px !important;
+          }
+        }
+        .mega-number {
+          color: #333;
+          font-weight: bold;
+          padding-left: 23px;
+        }
+        .quick-pick {
+          color: #c1c1c1;
+          @media (min-width: 669px) {
+            padding-left: 5px !important;
+          }
+        }
+      }
+      .scheduled-date {
+        span {
+          color: #7f7f7f;
+
+        }
+      }
+    }
+  }
+}
+
+.ticket-footer {
+  border-bottom-left-radius: 6px !important;
+  border-bottom-right-radius: 6px !important;
+}
+
+.declined-transaction {
+  .total-info {
+    border-top: 2px solid #e4e4e4;
+    margin: 15px auto;
+    .paid-with {
+      margin: 0;
+      padding-left: 5px !important;
+    }
+    .total {
+      padding-right: 5px !important;
+    }
+    @media (min-width: 669px) {
+      width: 530px !important;
+    }
+  }
+}
+
+.fix-padding {
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  @media (min-width: 676px) {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+  }
+  &.more-padding {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    @media (min-width: 676px) {
+      padding-left: 70px !important;
+      padding-right: 70px !important;
+    }
+  }
+}
+
+.no-left-right-padding {
+  @media (min-width: 630px) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+.fix-middle-padding {
+  padding-left: 25px;
+  padding-right: 25px;
+  @media (min-width: 630px) {
+    padding-left: 55px !important;
+    padding-right: 55px !important;
+  }
+  @media (min-width: 678px) {
+    padding-left: 55px !important;
+    padding-right: 55px !important;
+  }
+}
+
+p {
+  line-height: 24px;
+}
+
+.remove-width {
+  td.large-12, th.large-12 {
+    width: 0 !important;
+  }
+}
+table.button.success table a {
+  padding: 12px 24px;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+}
+
+.body .columns td.large-1, .body .column td.large-1, .body .columns th.large-1, .body .column th.large-1 {
+  width: 7.33333% !important;
+}
+
+.receipt {
+  .date-invoice {
+    font-size: 14px;
+    color: #333333;
+  }
+
+  .bottom-line {
+    border-bottom: 2px solid #e4e4e4;
+  }
+
+  .description {
+    font-size: 12px;
+    font-weight: bold;
+    color: #aeaeae;
+  }
+
+  .description,
+  .amount {
+    font-size: 12px;
+    color: #777777;
+    font-weight: bold;
+  }
+
+  .purchased-item {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333333;
+  }
+
+  .price {
+    font-size: 14px;
+    color: #333333;
+  }
+
+  .cancelled {
+    color: #f56759;
+  }
+
+}
+
+//.center-menu {
+//  tr {
+//    text-align: center !important;
+//  }
+//}
+
+.no-underline-link {
+  text-decoration: none !important;
+  cursor: default !important;
+  pointer-events: none !important;
+  a {
+    text-decoration: none !important;
+    cursor: default !important;
+    pointer-events: none !important;
+  }
+}
+
+.jackpot-header {
+  img {
+    @media (min-width: 678px) {
+      max-width: 463px !important;
+      width: auto !important;
+      max-width: initial !important;
+    }
+  }
+}
+
+.prospect-header-text {
+  color: #333;
+  font-size: 22px;
+  font-weighT: 400;
+
+  @media (min-width: 678px) {
+    font-size: 28px !important;
+  }
+}
+
+.prospect-header-text-sub {
+  color: #333;
+  font-size: 24px;
+  font-weighT: 400;
+}
+
+.prospect-header-text-white {
+  color: white !important;
+  font-size: 20px;
+  font-weight: 700;
+
+  @media (min-width: 320px) {
+    font-size: 32px !important;
+  }
+
+  @media (min-width: 678px) {
+    font-size: 58px !important;
+  }
+
+  &.prospect-5 {
+    font-size: 20px !important;
+
+    @media (min-width: 678px) {
+      font-size: 28px !important;
+    }
+  }
+}
+
+.small-screen-font {
+  font-size: 14px;
+  color: #269eff;
+  font-weight: bold;
+  @media (min-width: 678px) {
+    font-size: 16px !important;
+  }
+}
+
+.pad-left {
+  th {
+    padding-left: 26px;
+  }
+}
+
+.pad-left-small {
+  th {
+    padding-left: 15px;
+  }
+}
+
+.pad-top-small {
+  th {
+    padding-top: 3px;
+  }
+}
+
+.inner-blue-bg {
+  background: #f0f8ff;
+  border-top: 1px solid #e2e2e2;
+  th {
+    padding: 18px 20px 8px 20px;
+  }
+}
+
+.align-th-center {
+  th {
+    text-align: center;
+  }
+}
+
+.small-text-center {
+  td, tr, th {
+    text-align: center !important;
+  }
+}
+
+.second-header {
+  font-size: 24px;
+  color: #333333;
+}
+
+.hide-me-smaller {
+  @media (max-width: 500px) {
+    display: none !important;
+  }
+}
+
+.hide-me-small {
+  display: none !important;
+
+  @media (min-width: 500px) {
+    display: initial !important;
+  }
+}
+
+.bulletproof-bg {
+  @media (max-width: 678px) {
+    .main-bg {
+      background-position: center -68px !important;
+    }
+    &.extra-height {
+      .main-bg {
+        background-position: center -40px !important;
+      }
+    }
+  }
+}
+
+.hide-me-large {
+  @media (max-width: 500px) {
+    display: none !important;
+  }
+}
+
+.show-it-small-hide-it-large {
+  display: block;
+
+  @media (min-width: 678px) {
+    display: none !important;
+  }
+}
+
+.show-me-small {
+  display: initial !important;
+
+  @media (min-width: 500px) {
+    display: none !important;
+  }
+}
+
+.mega-millions-top-border {
+  border-top: 4px solid #4276d6;
+}
+
+.fix-padding-40 {
+  .first {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
+.ticket-info {
+  border-left: 6px solid #ffa434;
+  border-right: 14px solid #ffa434;
+  .each-ticket {
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 3px;
+  }
+  span {
+    font-size: 13px;
+    color: #333;
+    font-weight: normal;
+    display: inline-block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .value {
+    span {
+      padding-left: 25px;
+      vertical-align: top;
+      color: #999999;
+      @media (min-width: 680px) {
+        padding-right: 60px !important;
+      }
+    }
+  }
+  .picked-numbers {
+    span {
+      display: inline-block;
+      vertical-align: middle;
+      @media (min-width: 680px) {
+        padding-right: 6px !important;
+      }
+    }
+    .mega-number {
+      color: #333;
+      font-weight: bold;
+      padding-left: 23px;
+    }
+    .quick-pick {
+      color: #c1c1c1;
+      @media (min-width: 680px) {
+        padding-left: 5px !important;
+      }
+    }
+  }
+  .scheduled-date {
+    span {
+      color: #7f7f7f;
+    }
+  }
+}
+
+.small-text-center {
+  display: block;
+  text-align: center !important;
+
+  @media (min-width: 680px) {
+    display: initial !important;
+    text-align: initial !important;
+  }
+}
+
+.text-right {
+  @media (min-width: 668px) {
+    th, td {
+      text-align: right !important;
+    }
+  }
+}
+
+// Helpers
+.blue-header-text {
+  color: #1d91df;
+  font-size: 17px;
+  font-weight: 700;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.blue-header-text-sub {
+  color: #1d91df;
+  font-size: 16px;
+  font-weight: 700;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.prospect-content-text {
+  font-size: 15px !important;
+  color: #4a4a4a !important;
+  font-weight: 400 !important;
+}
+
+.secure-paragraph {
+  font-color: #484848;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.jackpot-text {
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+  word-break: normal;
+
+  @media (min-width: 320px) {
+    font-size: 60px !important;
+  }
+
+  @media (min-width: 500px) {
+    font-size: 64px !important;
+  }
+}
+
+.combo-amount {
+  th {
+    text-align: center !important;
+
+    @media (min-width: 320px) {
+      padding-top: 7px !important;
+    }
+
+    @media (min-width: 668px) {
+      padding-top: 0 !important;
+    }
+
+    a {
+      display: block;
+      text-align: center;
+
+      @media (min-width: 320px) {
+        display: inline !important;
+        text-align: center !important;
+      }
+    }
+  }
+  h2 {
+    font-size: 23px;
+    margin-bottom: 0;
+
+    @media (min-width: 320px) {
+      font-size: 25px !important;
+    }
+
+    @media (min-width: 668px) {
+      font-size: 38px !important;
+    }
+  }
+
+  span {
+    font-size: 12px !important;
+    display: block;
+
+    @media (min-width: 668px) {
+      font-size: 14px !important;
+    }
+  }
+}
