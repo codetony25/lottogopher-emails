@@ -215,8 +215,6 @@ function zip() {
       .pipe($.replace( new RegExp(fileName, 'g' ), ''))
       .pipe($.replace( new RegExp('//', 'g' ), '/'))
       .pipe($.rename(function (path) {
-        console.log('PATH: ', path);
-        console.log('MOVE HTML FROM ', path.dirname);
         path.dirname = fileName;
         console.log('TO fileName: ', path.dirname);
         return path;

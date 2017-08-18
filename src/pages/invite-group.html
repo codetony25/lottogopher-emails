@@ -1,0 +1,67 @@
+---
+subject: Invite Group
+---
+
+<wrapper>
+    <container>
+        {{#bg-img src="assets/img/invite-group/header-bg.png" classes="normal" imgwidth="660" imgheight="226" bgcolor="#fff"}}
+        <row>
+            <columns>
+                <spacer size="28"></spacer>
+                <spacer class="hide-for-large" size="48"></spacer>
+                <a href="https://lottogopher.com/order/tickets" target="_blank">
+                    <p class="small-text-center" style="padding-left: 30px; color: #ffffff; font-size: 15px; font-weight: 400; line-height: 15px;">Hello Jane,</p>
+                </a>
+            </columns>
+        </row>
+        <row>
+            <columns>
+                <spacer size="28"></spacer>
+                <h1 class="text-center float-center" style="color: #333; font-size: 32px; font-weight: 400; line-height: 46px; max-width: 500px !important; margin: 0 auto;">Karm Khanna wants you to join a lottery pool on LottoGopher.com</h1>
+            </columns>
+        </row>
+        {{/bg-img}}
+    </container>
+</wrapper>
+
+<wrapper>
+    <container class="secondary body">
+        <row>
+            <columns small="12" large="12">
+                <center>
+                    <p style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 400; font-size: 14px; margin: 0 auto; max-width: 515px !important;">Join <strong style="color: #8bc1fe;">All About the Benjamin$</strong> to <strong style="color: #333333;">pool your lottery tickets</strong> with everyone in the group. <strong>If one of you wins, everyone wins</strong></p>
+                    <spacer size="35"></spacer>
+                    <img src="assets/img/invite-group/group-icon.png" alt="">
+                    <spacer size="15"></spacer>
+                    <h1 class="text-center float-center" style="color: #333; font-size: 24px; font-weight: 700; line-height: 38px; max-width: 500px !important; margin: 0 auto;">All About the Benjamin$</h1>
+                    <row>
+                        <columns>
+                            <spacer size="20"></spacer>
+                            {{> Button
+                            src="assets/img/invite-group/join-group-btn.png"
+                            text="Join Group!"
+                            link-to="https://lottogopher.com/order/tickets"
+                            }}
+                        </columns>
+                    </row>
+                    <p style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 400; font-size: 14px; margin: 0 auto; max-width: 515px !important;">If you are already a LottoGopher member you'll be asked to log in to join. If you are a new user (welcome!), you'll be asked to register so we can track your tickets and notify you of winnings.</p>
+                    <spacer size="25"></spacer>
+                    <p style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 400; font-size: 14px; margin: 0 auto; max-width: 515px !important;">If you have any questions, or encounter problems accessing your ticket please contact us at <a href="mailto:service@lottogopher.com">service@lottogopher.com</a> or call <a href="tel:+18665688646">866-LOTTO-GO</a>.</p>
+                    <spacer size="25"></spacer>
+                    <p style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 400; font-size: 14px; margin: 0 auto; max-width: 515px !important;"><strong>Good luck!</strong></p>
+                    <spacer size="25"></spacer>
+                    <p style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 400; font-size: 14px; margin: 0 auto; max-width: 515px !important;"><strong>Sincerely,<br /></strong></p>
+                    <p style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 400; font-size: 14px; margin: 0 auto; max-width: 515px !important;"><strong>The LottoGopher Team</strong></p>
+                    <spacer size="25"></spacer>
+                </center>
+            </columns>
+        </row>
+        {{> FooterTickets }}
+    </container>
+</wrapper>
+
+<wrapper>
+    <container>
+        {{>FooterLight }}
+    </container>
+</wrapper>
