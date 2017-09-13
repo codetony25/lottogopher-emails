@@ -1,0 +1,74 @@
+---
+subject: Prospect day 7
+---
+<wrapper>
+    <container>
+        {{#bg-img src="assets/img/prospect-day-7/header.png" classes="hidden-top" imgwidth="660" imgheight="383" bgcolor="#fff"}}
+        <row>
+            <columns>
+                <spacer size="105"></spacer>
+                <a href="https://lottogopher.com/order/tickets" target="_blank">
+                    <h2 class="text-center" style="color: #333; font-size: 22px; font-weight: 700; margin: 0 auto; max-width: 300px !important;">Ready for Freedom?</h2>
+                    <spacer size="5"></spacer>
+                    <h2 class="text-center" style="color: #333; font-size: 22px; font-weight: normal; margin: 0 auto; max-width: 400px !important;">Here is your last chance to get <strong>5 FREE</strong> lottery tickets on us.</h2>
+                </a>
+            </columns>
+        </row>
+        {{/bg-img}}
+    </container>
+</wrapper>
+<wrapper>
+    <container class="secondary body">
+        <row>
+            <columns>
+                <spacer size="10"></spacer>
+                {{> HeaderText
+                text="Become a monthly member now and save time, gas, money and more! But, the offer ends TONIGHT."
+                width="383px"
+                color="dark"
+                size="medium"
+                }}
+                <spacer size="35"></spacer>
+                {{> Button
+                src="assets/img/prospect-day-7/analytics-tools-btn.png"
+                text="Redeem your tickets now!"
+                link-to="https://lottogopher.com/order/tickets"
+                }}
+                <spacer size="30"></spacer>
+                {{> HeaderText
+                text="Try LottoGopher’s exclusive lottery picker and let us pick you a winner!"
+                size="small"
+                width="408px"
+                }}
+            </columns>
+        </row>
+        {{>
+        RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="View different combinations quickly"
+        imgSrc="assets/img/prospect-day-7/combinations.png"
+        iconSrc="assets/img/prospect-day-7/small-blue-box.png"
+        }}
+        {{>
+        RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Choose numbers based on historical drawings"
+        imgSrc="assets/img/prospect-day-7/rank-thumbnail.png"
+        iconSrc="assets/img/prospect-day-7/small-chart.png"
+        }}
+        {{>
+        RowColumnBlock
+        link="https://lottogopher.com/order/tickets"
+        text="Get your Quick Picks in a flash"
+        imgSrc="assets/img/prospect-day-7/lotto-thumbnail.png"
+        iconSrc="assets/img/prospect-day-7/small-clock.png"
+        }}
+        <spacer size="30"></spacer>
+    </container>
+</wrapper>
+
+<wrapper>
+    <container>
+        {{>Footer }}
+    </container>
+</wrapper>
