@@ -139,7 +139,8 @@ table.button.success table {
   }
 }
 
-.main-bg {
+.main-bg,
+.bulletproof-bg {
   vertical-align: top !important;
 }
 
@@ -235,10 +236,6 @@ table.button.success table {
 
 table {
   border-collapse: collapse;
-}
-
-table, tr, td {
-  vertical-align: middle !important;
 }
 
 table tr:last-child td:first-child {

@@ -1,0 +1,1277 @@
+.main-hero-checkout {
+  background-color: #efefef;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 34px;
+  padding-bottom: 34px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+@media (min-width: 480px) {
+  .main-hero-checkout {
+    padding: 30px 70px !important;
+  }
+}
+
+.hero-btn {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #77d300;
+  color: #fff;
+  text-transform: uppercase;
+  transition: .3s;
+  padding: 12.5px 16px;
+  white-space: pre-wrap;
+  font-size: 16px;
+  z-index: 100;
+}
+
+.hero-btn.small {
+  padding: 12.5px 16px !important;
+}
+
+.hero-btn:hover, .hero-btn:active, .hero-btn:focus {
+  color: #fff;
+}
+
+@media (min-width: 768px) {
+  .hero-btn {
+    padding: 12.5px 60px;
+  }
+}
+
+.hero-container {
+  position: relative;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  width: 100%;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  background: white;
+  padding-bottom: 30px;
+}
+
+.hero-container .step h2 {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 38px;
+}
+
+.hero-container .login-btn {
+  width: 404px;
+}
+
+@media (min-width: 480px) {
+  .hero-container {
+    font-size: 14px;
+    border-radius: 6px 5px 5px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-container {
+    background-size: contain;
+  }
+}
+
+.hero-container .hero-more-info {
+  text-align: center;
+  position: relative;
+  bottom: 25px;
+}
+
+.hero-container .hero-more-info p {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 400;
+  color: #212121;
+  text-align: center;
+  margin: 0 auto;
+  opacity: 0.9;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 14px;
+  line-height: 24px;
+  max-width: 648px;
+  font-weight: 300;
+  margin: 0 auto;
+  position: relative;
+  bottom: 30px;
+}
+
+.hero-container .hero-more-info .ticket-holder {
+  width: 100%;
+  max-width: 578px;
+  min-height: 506px;
+  max-height: 506px;
+  position: relative;
+  background-image: url(../img/checkout/free-ticket-offer.png);
+  background-repeat: no-repeat;
+  background-position: calc(50% - 10px) 100%;
+  background-size: cover;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  bottom: 15px;
+}
+
+.hero-container .hero-more-info .hero-btn {
+  font-family: "Gotham Rounded SSm 7r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 700;
+  background-color: #77d300;
+  color: #fff;
+  text-transform: uppercase;
+  transition: .3s;
+  padding: 12.5px 16px;
+  white-space: pre-wrap;
+  font-size: 16px;
+  z-index: 100;
+  position: absolute;
+  bottom: 85px;
+}
+
+@media (min-width: 768px) {
+  .hero-container .hero-more-info .hero-btn {
+    padding: 12.5px 60px;
+  }
+}
+
+.hero-container .btn-attention {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 6px;
+  color: #fff;
+  background: #76cc1e;
+  margin: 0 auto;
+  text-transform: uppercase;
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: 700;
+  z-index: 20;
+  white-space: nowrap;
+}
+
+.hero-container .btn-attention.lowercase {
+  text-transform: initial;
+}
+
+.hero-container .btn-attention:hover, .hero-container .btn-attention:active, .hero-container .btn-attention:focus {
+  text-decoration: none;
+}
+
+.btn-light {
+  font-family: "Open Sans", sans-serif;
+  border-radius: 5px;
+  background: #f2f6f9;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 14px;
+  color: #060000;
+  min-width: 71px;
+  min-height: 34px;
+}
+
+.btn-light:active, .btn-light:focus {
+  outline: none;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.ticket-selection-container {
+  position: relative;
+}
+
+.ticket-selection-container .btm-img {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+.ticket-selection-list {
+  position: relative;
+  max-width: 614px;
+  margin: 0 auto 35px;
+  height: 280px;
+  overflow: auto;
+}
+
+.ticket-selection-list li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-bottom: 1px solid #e9e9e9;
+  transition: .3s;
+}
+
+.ticket-selection-list li:hover {
+  box-shadow: 0 1px 2px #bababa;
+}
+
+.ticket-selection-list li h4 {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 14px;
+  font-weight: 700;
+}
+
+.ticket-selection-list li.selected {
+  box-shadow: 0 1px 2px #bababa;
+}
+
+.ticket-selection-list li.selected .tix-details h4 {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #269eff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.ticket-selection-list li.selected .tix-checkbox .checkbox-action .solid {
+  display: initial;
+}
+
+.ticket-selection-list li.selected .tix-checkbox .checkbox-action .line {
+  display: none;
+}
+
+.ticket-selection-list li.selected .tix-checkbox img {
+  cursor: pointer;
+}
+
+.ticket-selection-list li .tix-checkbox .checkbox-action .solid {
+  display: none;
+}
+
+.ticket-selection-list li .tix-checkbox .checkbox-action .line {
+  display: initial;
+}
+
+.ticket-selection-list li .tix-checkbox a {
+  padding: 10px;
+}
+
+.ticket-selection-list li .tix-checkbox img {
+  cursor: pointer;
+}
+
+.ticket-selection-list li .tix-details {
+  text-align: left;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.ticket-selection-list li .tix-details p {
+  font-size: 13px;
+}
+
+@media (min-width: 768px) {
+  .ticket-selection-list li .tix-details {
+    padding-left: 23px;
+  }
+}
+
+.ticket-selection-list li .tix-action {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .ticket-selection-list li .tix-action {
+    display: initial;
+    padding-right: 40px;
+  }
+}
+
+.ticket-selection-list li .tix-thumbnail {
+  width: 80px;
+  padding-left: 20px;
+}
+
+.active-text {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #060000;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 16px;
+  margin-top: 25px;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: none;
+}
+
+.md-text {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  color: #212121;
+  font-size: 24px;
+  padding: 0 45px;
+  font-weight: 500;
+  line-height: 44px;
+  margin: 40px auto 30px auto;
+  max-width: 830px;
+}
+
+.md-text .info-text {
+  color: #2aa0ff;
+}
+
+.ticket-selection-header .group-flow-selection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 5px;
+  max-width: 175px;
+  margin: 0 auto;
+  font-size: 14px;
+  border: 2px solid #ffc80a;
+}
+
+.ticket-selection-header .group-flow-selection a {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px;
+  padding: 9px 20px;
+  margin-bottom: -1px !important;
+  margin-top: -1px !important;
+  font-size: 14px;
+  font-weight: 500;
+  opacity: .6;
+  color: #060000;
+}
+
+.ticket-selection-header .group-flow-selection a:hover, .ticket-selection-header .group-flow-selection a:active, .ticket-selection-header .group-flow-selection a:focus {
+  text-decoration: none;
+}
+
+.ticket-selection-header .group-flow-selection .active {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 700;
+  background-color: #ffc80a;
+  margin: 0;
+  color: #060000;
+  opacity: 1;
+}
+
+.selected-amt {
+  color: #212121;
+}
+
+.group-play-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height > div > div.owl-item.active.center > div {
+  opacity: 1 !important;
+  border: 1px solid #ffc80a;
+  border-radius: 10px;
+  opacity: .5;
+  box-shadow: 0 3px 4px #bbbbbb;
+  border: 1px solid #ffc80a;
+  width: 243px;
+  height: 281px;
+  position: relative;
+  z-index: 300;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height > div > div.owl-item.active.center > div .ball-group-icon {
+  margin-top: 100px;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height > div > div.owl-item.active.center > div .ticket-details {
+  bottom: 9px;
+  left: 9px;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height > div > div.owl-item.active.center > div .ticket-details p {
+  color: #269eff;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height > div > div.owl-item.active.center > div .ticket-about {
+  bottom: 12px;
+  right: 9px;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height > div > div.owl-item.active.center > div .ticket-about p {
+  font-size: 16px;
+}
+
+body > div.main-hero-checkout.container > div.hero-container > div.group-step-one > div.group-flow-public > div > div.owl-stage-outer.owl-height {
+  min-height: 320px !important;
+  max-height: 320px !important;
+}
+
+.hero-box-wrapper {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-width: 243px;
+  min-height: 243px;
+  opacity: .5;
+  cursor: pointer;
+  border-radius: 6px 5px 5px;
+  box-shadow: 0 1px 2px #bababa;
+  margin: 30px auto;
+}
+
+.hero-box-wrapper .ball-group-icon {
+  margin: 0 auto;
+  margin-top: 80px;
+}
+
+.hero-box-wrapper.powerball {
+  background-image: url(../img/group-flow/group-eagle-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-box-wrapper.mega {
+  background-image: url(../img/group-flow/group-flag-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-box-wrapper.superlotto {
+  background-image: url(../img/group-flow/group-money-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-box-wrapper.new-group {
+  position: relative;
+  background-image: url(../img/group-flow/group-private-create-bg.png);
+  background-repeat: no-repeat;
+  background-size: 102% 102%;
+}
+
+.hero-box-wrapper.new-group .lock-icon {
+  width: 13px;
+  height: 17px;
+  position: absolute;
+  right: 8px;
+  top: 8px;
+}
+
+.hero-box-wrapper.new-group .create-icon {
+  margin: 24px auto;
+  width: 108px;
+  height: 108px;
+}
+
+.hero-box-wrapper.new-group .ball-icon {
+  max-width: 150px;
+  height: 121px;
+  position: absolute;
+  margin-top: 106px;
+  margin-left: 45px;
+}
+
+.hero-box-wrapper.new-group .ticket-about {
+  right: 26px;
+}
+
+.hero-box-wrapper.new-group .ticket-details {
+  text-align: center;
+  padding-left: 20px;
+}
+
+.hero-box-wrapper.new-group h4 {
+  text-align: center;
+  padding-left: 0;
+  opacity: .5;
+}
+
+.hero-box-wrapper .ticket-details {
+  position: absolute;
+  bottom: 2px;
+  left: 27px;
+  padding-left: 0;
+}
+
+.hero-box-wrapper .ticket-details h4 {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #d4dadf;
+  font-size: 44px;
+  font-weight: 900;
+  margin: 0;
+  line-height: 40px;
+}
+
+.hero-box-wrapper .ticket-details p {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #d4dadf;
+  font-size: 12px;
+  margin: 0;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.hero-box-wrapper .ticket-about {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+}
+
+.hero-box-wrapper .ticket-about p {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #212121;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 0;
+  text-align: left;
+}
+
+.hero-box-wrapper.active {
+  opacity: 1 !important;
+  border: 1px solid #ffc80a;
+  border-radius: 10px;
+  opacity: .5;
+  box-shadow: 0 3px 4px #bbbbbb;
+  border: 1px solid #ffc80a;
+  width: 243px;
+  height: 281px;
+  position: relative;
+  z-index: 300;
+}
+
+.hero-box-wrapper.active .ball-group-icon {
+  margin-top: 100px;
+}
+
+.hero-box-wrapper.active .ticket-details p {
+  color: #269eff;
+}
+
+.hero-box-wrapper.active .ticket-about {
+  bottom: 12px;
+  right: 9px;
+}
+
+.hero-box-wrapper.active .ticket-about p {
+  font-size: 16px;
+}
+
+.nav-arrow {
+  position: absolute;
+  z-index: 500;
+}
+
+.nav-arrow.right {
+  -webkit-transform: translateX(150px);
+      -ms-transform: translateX(150px);
+          transform: translateX(150px);
+}
+
+@media (min-width: 768px) {
+  .nav-arrow.right {
+    -webkit-transform: translateX(160px);
+        -ms-transform: translateX(160px);
+            transform: translateX(160px);
+  }
+}
+
+.nav-arrow.left {
+  -webkit-transform: translateX(-150px);
+      -ms-transform: translateX(-150px);
+          transform: translateX(-150px);
+}
+
+@media (min-width: 768px) {
+  .nav-arrow.left {
+    -webkit-transform: translateX(-160px);
+        -ms-transform: translateX(-160px);
+            transform: translateX(-160px);
+  }
+}
+
+.max-text {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.9;
+  margin: 27px 0 5px 0;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 16px;
+  color: #060000;
+}
+
+.max-text span {
+  color: #16b486;
+}
+
+.group-private {
+  border-radius: 10px;
+  background-color: #f2f6f9;
+  padding: 20px 30px;
+  max-width: 241px;
+  margin: 0 auto;
+  margin-top: 38px;
+  padding-bottom: 25px;
+  margin-bottom: 38px;
+}
+
+.group-private img {
+  margin: 15px 0;
+}
+
+.group-private p {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #212121;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-bottom: 25px;
+}
+
+.group-private .group-invite {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.9;
+  font-size: 16px;
+  line-height: 16px;
+  color: #212121;
+}
+
+.group-private .group-invite a {
+  color: #269eff;
+  font-weight: 500;
+}
+
+.success-notification {
+  font-family: "Open Sans";
+  font-size: 12px;
+  line-height: 20px;
+  border-radius: 3px;
+  border: 1px solid #bbe8f1;
+  background-color: #d9edf7;
+  padding: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  bottom: 15px;
+}
+
+.success-notification p {
+  margin: 0;
+}
+
+.success-notification strong {
+  color: #060000;
+  font-weight: 700;
+}
+
+.success-notification a {
+  color: #269eff;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.modal-dialog {
+  max-width: 672px;
+  width: 100%;
+}
+
+.modal-dialog .modal-header {
+  position: relative;
+  border-bottom: none;
+  padding: 24px 15px;
+}
+
+.modal-dialog .modal-header h5 {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  color: #4a4a4a;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 0;
+}
+
+.modal-dialog .modal-header .close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  opacity: .6;
+  transition: .3s;
+  color: #484848 !important;
+}
+
+.modal-dialog .modal-header .close:hover {
+  opacity: 1;
+}
+
+.modal-dialog .modal-header .close:active, .modal-dialog .modal-header .close:focus {
+  outline: 0;
+}
+
+.modal-dialog .modal-header .close span {
+  color: #484848 !important;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.modal-dialog .modal-body {
+  text-align: center;
+  padding: 0 15px;
+}
+
+.modal-dialog .modal-body p {
+  font-family: 'Open Sans', sans-serif !important;
+  text-shadow: 0 1px 0 #ffffff;
+  color: #333333;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.modal-dialog .modal-body .group-icon {
+  margin-bottom: 24px;
+}
+
+.modal-dialog .modal-body .input-group {
+  max-width: 412px;
+  margin: 24px auto;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+
+.modal-dialog .modal-body .input-group input {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.35);
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  color: #212121;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  padding: 19px 17px;
+}
+
+.modal-dialog .modal-body .input-group .input-group-addon {
+  background: #fff;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  line-height: 20px;
+}
+
+.modal-dialog .modal-body .input-group .input-group-addon .copy-text {
+  font-family: "Open Sans", sans-serif;
+  color: #239bff;
+  font-size: 13px;
+  font-weight: 500;
+  margin-left: 3px;
+}
+
+.modal-dialog .modal-body .input-group .input-group-addon a {
+  cursor: pointer;
+}
+
+.modal-dialog .modal-body .friend-code {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #2197ff;
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 2.5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.modal-dialog .modal-body .invite-form {
+  text-align: left;
+  max-width: 583px;
+  display: block;
+  margin: 12px auto;
+}
+
+.modal-dialog .modal-body .invite-form .email-btn {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 4px;
+  background-color: #7ad020;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 3px;
+}
+
+.modal-dialog .modal-body .invite-form .email-input {
+  display: inline-block !important;
+  max-width: 453px;
+  box-shadow: inset 0 1px 2px #e8e8e8;
+  border-radius: 5px 4px 4px 5px;
+  border: 1px solid #cccccc;
+  background-color: #ffffff;
+  min-height: 44px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.modal-dialog .modal-body .invite-form .email-input::-webkit-input-placeholder {
+  opacity: 0.5;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.modal-dialog .modal-body .invite-form .email-input::-moz-placeholder {
+  opacity: 0.5;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.modal-dialog .modal-body .invite-form .email-input:-ms-input-placeholder {
+  opacity: 0.5;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.modal-dialog .modal-body .invite-form .email-input::placeholder {
+  opacity: 0.5;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.modal-dialog .modal-body .invite-form label {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  color: #3e3d3d;
+  font-size: 13px;
+  font-weight: 500;
+  padding-left: 2px;
+}
+
+.modal-dialog .modal-body .invite-form label img {
+  margin-bottom: 2px;
+  margin-right: 2px;
+}
+
+.modal-footer {
+  border-top: none;
+  text-align: center;
+  padding-bottom: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .modal-footer {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+}
+
+.modal-footer .btn-group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 6px;
+}
+
+@media (min-width: 768px) {
+  .modal-footer .btn-group {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    margin-right: 15px;
+  }
+}
+
+.modal-footer .fb-social-icon {
+  border-radius: 4px;
+  color: white;
+  background: #6177a9;
+}
+
+.modal-footer .fb-social-text {
+  font-family: 'Open Sans', sans-serif !important;
+  color: white;
+  font-size: 13px;
+  padding: 6.6px 11px;
+  font-weight: 400;
+  background: #6a81b7;
+}
+
+.modal-open .modal {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.modal-content {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.24);
+  border-radius: 4px;
+  border: 1px solid #d2d2d2;
+}
+
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 20%);
+      -ms-transform: translate(0, 20%);
+          transform: translate(0, 20%);
+}
+
+.modal-dialog.upgrade-account .slogan {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.9;
+  max-width: 439px;
+  margin: 0 auto;
+  font-size: 15px;
+  color: #060000;
+  font-weight: 300;
+  margin-bottom: 45px;
+  line-height: 20px;
+}
+
+.modal-dialog.upgrade-account .big-red-text {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  text-shadow: 0 1px 0 #ffffff;
+  color: #a8991e;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 30px;
+  margin-bottom: 15px;
+}
+
+.modal-dialog.upgrade-account p {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  text-shadow: 0 1px 0 #ffffff;
+  color: #333333;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19px;
+}
+
+.modal-dialog.upgrade-account .upgrade-features {
+  margin: 35px 5px;
+}
+
+.modal-dialog.upgrade-account .upgrade-features ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+@media (min-width: 500px) {
+  .modal-dialog.upgrade-account .upgrade-features ul {
+    padding: 0 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .modal-dialog.upgrade-account .upgrade-features ul {
+    padding: 0 40px;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+  }
+}
+
+.modal-dialog.upgrade-account .upgrade-features ul li {
+  max-width: 150px;
+  margin-top: 10px;
+}
+
+.modal-dialog.upgrade-account .upgrade-features ul li p {
+  font-size: 11px;
+  font-weight: 600;
+}
+
+@media (min-width: 500px) {
+  .modal-dialog.upgrade-account .upgrade-features ul li p {
+    font-size: 13px;
+  }
+}
+
+.modal-dialog.upgrade-account .upgrade-features ul li img {
+  margin-bottom: 10px;
+}
+
+.group-flow-step-three {
+  margin-top: 56px;
+  padding: 0 15px;
+}
+
+.group-circle-logo {
+  width: 127px;
+  height: 123px;
+  background-image: url(../img/group-flow/group-rounded-bg.png);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.group-circle-logo img {
+  text-align: center;
+  margin-top: 40px;
+  position: relative;
+  right: 10px;
+}
+
+h2 {
+  font-family: "Gotham Rounded SSm 5r", "Gotham Rounded SSm A", "Gotham Rounded SSm B";
+  font-style: normal;
+  font-weight: 500;
+  text-shadow: 0 1px 0 #ffffff;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 38px;
+  max-width: 700px;
+  margin: 0 auto;
+  padding-top: 36px;
+}
+
+.group-amt {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 20px;
+}
+
+.ticket-amt {
+  color: #212121;
+  display: inline-block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  margin: 0;
+  position: relative;
+}
+
+.star-bg {
+  background-image: url(../img/group-flow/small-star-icon.png);
+  background-repeat: no-repeat;
+  width: 44px;
+  height: 44px;
+  color: white;
+  font-size: 20px;
+  color: #ffffff;
+  margin: 0 8px;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.small-paragraph {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.9;
+  color: #060000;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 300;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.skinny-paragraph {
+  font-family: "Gotham A", "Gotham B";
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 30px;
+  text-shadow: 0 1px 0 #ffffff;
+  color: #212121;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.owl-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  max-width: 365px;
+  margin: 0 auto;
+  position: relative;
+  bottom: 170px;
+}
+
+.view-ticket-footer {
+  width: 497px;
+  height: 191px;
+  background-color: #f1faff;
+}
+
+.view-ticket-footer .ticket-amt {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: #212121;
+  font-size: 13px;
+}
+
+.view-ticket-footer .ticket-amt.bold {
+  font-weight: 700;
+}
+
+.view-ticket-footer .star-amt {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  width: 37px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 37px;
+}
+
+.view-ticket.modal-dialog {
+  max-width: 497px;
+  width: 100%;
+}
