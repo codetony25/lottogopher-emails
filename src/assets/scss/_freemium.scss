@@ -84,25 +84,32 @@ td {
 //  }
 //}
 //
-//.bulletproof-bg.hidden-top-small {
-//  @media (max-width: 660px) {
-//    .main-bg {
-//      height: 282 - 45px !important;
-//      background-position: center -45px !important;
-//    }
-//  }
-//}
-//
-//.bulletproof-bg.inner-bg {
-//  .main-bg {
-//    background-size: cover;
-//  }
-//  @media (min-width: 660px) {
-//    .main-bg {
-//      background-size: contain !important;
-//    }
-//  }
-//}
+.bulletproof-bg.hidden-top-small {
+  @media (max-width: 660px) {
+    .main-bg {
+      height: 225px !important;
+      background-position: center -10px !important;
+    }
+  }
+}
+
+.bulletproof-bg.inner-bg {
+  .main-bg {
+    background-position: center left !important;
+  }
+}
+
+.bulletproof-bg.inner-bg-center {
+  .main-bg {
+    background-position: center center !important;
+  }
+}
+
+.bulletproof-bg.inner-bg-bottom {
+  .main-bg {
+    background-position: center 10px !important;
+  }
+}
 
 th, td {
   hypen: none !important;
