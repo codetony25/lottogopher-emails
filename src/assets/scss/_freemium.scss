@@ -41,10 +41,12 @@
 
     td.large-12.last, th.large-12.last {
       padding-right: 0 !important;
+      padding-bottom: 0 !important;
     }
 
     td.large-12.first, th.large-12.first {
       padding-left: 0 !important;
+      padding-bottom: 0 !important;
     }
   }
 }
@@ -76,14 +78,14 @@ td {
 //   }
 //}
 //
-//.bulletproof-bg.normal {
-//  @media (max-width: 660px) {
-//    .main-bg {
-//      background-position: center center !important;
-//    }
-//  }
-//}
-//
+.bulletproof-bg.normal {
+  @media (max-width: 660px) {
+    .main-bg {
+      background-position: center center !important;
+    }
+  }
+}
+
 .bulletproof-bg.hidden-top-small {
   @media (max-width: 660px) {
     .main-bg {
@@ -108,6 +110,18 @@ td {
 .bulletproof-bg.inner-bg-bottom {
   .main-bg {
     background-position: center 10px !important;
+  }
+}
+
+.bulletproof-bg.inner-bg-footer {
+  .main-bg {
+    background-repeat: no-repeat !important;
+    vertical-align: bottom !important;
+    //background-position: center bottom !important;
+
+    table.button.success table a {
+      padding: 12px 40px !important
+    }
   }
 }
 
@@ -244,20 +258,6 @@ table.button.success table {
 table {
   border-collapse: collapse;
 }
-
-table tr:last-child td:first-child {
-  border-bottom-left-radius: 10px !important;
-}
-
-table tr:last-child td:last-child {
-  border-bottom-right-radius: 10px !important;
-}
-
-//body > table > tbody > tr > td > center:nth-child(2) > table > tbody > tr > td > table.container.secondary.body > tbody > tr > td > table:nth-child(2) > tbody > tr > th > table > tbody > tr > th > center > table > tbody > tr > th > table > tbody > tr > th:nth-child(1) {
-//  @media (min-width: 450px) {
-//    transform: translateX(50px);
-//  }
-//}
 
 strong {
   color: #333333;
