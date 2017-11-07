@@ -21,7 +21,7 @@
     border-left: 1px solid #eee;
     border-right: 1px solid #eee;
     border-bottom: 1px solid #ccc;
-    border-collapse: separate!important;
+    border-collapse: separate !important;
     padding: 0 !important;
     background: #fff;
     border-bottom: 1px solid #ccc;
@@ -48,6 +48,10 @@
       padding-left: 0 !important;
       padding-bottom: 0 !important;
     }
+
+    table {
+      border-collapse: separate;
+    }
   }
 }
 
@@ -69,15 +73,15 @@ td {
   border-collapse: collapse !important;
 }
 
-//.bulletproof-bg.hidden-top {
-//   @media (max-width: 660px) {
-//     .main-bg {
-//       height: 383 - 68px !important;
-//       background-position: center -68px !important;
-//     }
-//   }
-//}
-//
+.bulletproof-bg.hidden-top {
+   @media (max-width: 660px) {
+     .main-bg {
+       height: 306px !important;
+       background-position: center -71px !important;
+     }
+   }
+}
+
 .bulletproof-bg.normal {
   @media (max-width: 660px) {
     .main-bg {
@@ -89,8 +93,7 @@ td {
 .bulletproof-bg.hidden-top-small {
   @media (max-width: 660px) {
     .main-bg {
-      height: 225px !important;
-      background-position: center -10px !important;
+      background-position: center -71px !important;
     }
   }
 }
@@ -117,7 +120,7 @@ td {
   .main-bg {
     background-repeat: no-repeat !important;
     vertical-align: bottom !important;
-    //background-position: center bottom !important;
+    background-position: center center !important;
 
     table.button.success table a {
       padding: 12px 40px !important
