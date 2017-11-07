@@ -21,7 +21,7 @@
     border-left: 1px solid #eee;
     border-right: 1px solid #eee;
     border-bottom: 1px solid #ccc;
-    border-collapse: separate !important;
+    border-collapse: separate!important;
     padding: 0 !important;
     background: #fff;
     border-bottom: 1px solid #ccc;
@@ -93,7 +93,7 @@ td {
 .bulletproof-bg.hidden-top-small {
   @media (max-width: 660px) {
     .main-bg {
-      background-position: center -71px !important;
+      background-position: center -20px !important;
     }
   }
 }
@@ -120,7 +120,7 @@ td {
   .main-bg {
     background-repeat: no-repeat !important;
     vertical-align: bottom !important;
-    background-position: center center !important;
+    //background-position: center bottom !important;
 
     table.button.success table a {
       padding: 12px 40px !important
@@ -325,4 +325,8 @@ a {
   font-weight: 400;
   line-height: 24px;
   color: #2796fd;
+}
+
+body > table > tbody > tr > td > center:nth-child(2) > table:nth-child(2) > tbody > tr > td > table > tbody > tr > td > table:nth-child(1) > tbody > tr > th > table {
+  border-left: 1p
 }
