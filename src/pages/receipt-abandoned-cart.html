@@ -11,7 +11,7 @@ subject: Receipt Abandoned Cart
                 <h1 class="text-center" style="color: #333; font-size: 32px; font-weight: bold; max-width: 400px; margin: 0 auto;">We Notice You Still Have Items in Your Cart</h1>
                 <spacer size="15"></spacer>
                 <p class="text-center" style="line-height: 24px; color: #777; font-size: 14px; font-weight: 400; margin: 0 auto; max-width: 522px;">Click below to confirm your tickets and avoid missing out</p>
-                <spacer size="10"></spacer>
+                <spacer size="20"></spacer>
                 {{> Button
                 src="assets/img/receipt-abandoned-cart/finish-check.png"
                 text="Finish checking out"
@@ -27,102 +27,153 @@ subject: Receipt Abandoned Cart
     <container class="secondary body">
         <row>
             <columns>
-                <p class="text-center" style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 700; font-size: 16px; margin: 0 auto; max-width: 515px !important;"><strong>Did you know: </strong></p>
+                <p class="text-center" style="color: #777; line-height: 24px; padding: 0 15px; font-weight: 700; font-size: 20px; margin: 0 auto; max-width: 515px !important;"><strong>Did you know: </strong></p>
                 <spacer size="10"></spacer>
-                <p class="text-center" style="line-height: 24px; color: #777; font-size: 14px; font-weight: 400; margin: 0 auto; max-width: 522px;">There's a LottoGopher winner in every draw!</p>
+                <p class="text-center" style="line-height: 24px; color: #777; font-size: 16px; font-weight: 400; margin: 0 auto; max-width: 522px;">There's a LottoGopher winner in every draw!</p>
                 <spacer size="20"></spacer>
-                <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto; border-bottom: 1px solid #e4e4e4;">
+                <row style="border-top: 2px solid #e4e4e4; max-width: 540px; margin: 0 auto;">
                     <columns>
-                        <spacer size="12"></spacer>
-                        <p class="float-left" style="color: #777; font-weight: 400; font-size: 14px; padding: 0 15px; display: inline-block;">Description</p>
-                        <p class="float-right" style="color: #777; font-weight: 400; font-size: 14px; padding: 0 15px; display: inline-block; float: right;">Amount</p>
-                        <spacer size="12"></spacer>
-                        <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto;">
-                            <columns>
-                                <spacer size="12"></spacer>
-                                <p class="float-left" style="color: #333; font-weight: 700; font-size: 14px; padding: 0 15px; display: inline-block;">5 Powerball Tickets</p>
-                                <p class="float-right" style="color: #777; font-weight: 400; font-size: 14px; padding: 0 15px; display: inline-block; float: right;">$10.00</p>
-                                <spacer size="12"></spacer>
+                        <spacer size="15"></spacer>
+                        <p style="color: #adadad; font-weight: 700; font-size: 12px; padding: 0 15px; display: inline-block;">Description</p>
+                        <p style="color: #adadad; font-weight: 700; font-size: 12px; padding: 0 15px; display: inline-block; float: right;">Amount</p>
+                        <spacer size="5"></spacer>
+                    </columns>
+                </row>
+                <row style="border-top: 2px solid #e4e4e4; max-width: 540px; margin: 0 auto;">
+                    <columns>
+                        <spacer size="15"></spacer>
+                        <p class="float-left" style="color: #333; font-weight: 700; font-size: 14px; padding: 0 15px; display: inline-block;">5 Powerball Tickets</p>
+                        <p class="float-right" style="color: #777; font-weight: 400; font-size: 14px; padding: 0 15px; display: inline-block; float: right;">$10.00</p>
+                        <spacer size="5"></spacer>
+                    </columns>
+                </row>
+                <spacer size="5"></spacer>
+                <row style="max-width: 510px; margin: 0 auto;">
+                    <columns small="12" large="12">
+                        <row style="border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; border-bottom: 1px solid #e4e4e4;">
+                            <columns small="8" large="9" style="background-image: url(assets/img/no-winners/ticket-fill.png); background-repeat: no-repeat; padding: 8px 25px 8px 0 !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #060000; padding-bottom: 0 !important; margin-bottom: 0 !important;">
+                                    <span style="float: left; font-size: 13px; font-weight: 400; color: #9b9999;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        1
+                                        &nbsp;
+                                    </span>
+                                    &nbsp;33&nbsp;
+                                    &nbsp;06&nbsp;
+                                    &nbsp;12&nbsp;
+                                    &nbsp;29&nbsp;
+                                    &nbsp;18&nbsp;
+                                    <span style="font-size: 13px; color: #060000; font-weight: 700;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        27
+                                    </span>
+                                </p>
+                            </columns>
+                            <columns small="4" large="3" style="padding: 8px 25px 8px 30px !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #9b9999; padding-bottom: 0 !important; margin-bottom: 0 !important;">Fri Nov 27</p>
                             </columns>
                         </row>
-                        <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto; border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; padding: 0 15px !important;">
-                            <columns small="12" large="12" style="padding: 0 15px !important;">
-                                <spacer size="12"></spacer>
-                                <p class="text-center" style="float: left; display: inline-block; vertical-align: middle; font-size: 13px; font-weight: 700; color: #9b9999;">1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;1&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;33&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;06&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;12&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;29&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 700;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;</p>
-                                <p style="float: right; display: inline-block; vertical-align: middle; color: #777; font-weight: 400; font-size: 14px;">Fri Nov 27</p>
-                                <spacer size="12"></spacer>
+                        <row style="border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; border-bottom: 1px solid #e4e4e4;">
+                            <columns small="8" large="9" style="background-image: url(assets/img/no-winners/ticket-fill.png); background-repeat: no-repeat; padding: 8px 25px 8px 0 !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #060000; padding-bottom: 0 !important; margin-bottom: 0 !important;">
+                                    <span style="float: left; font-size: 13px; font-weight: 400; color: #9b9999;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        2
+                                        &nbsp;
+                                    </span>
+                                    &nbsp;12&nbsp;
+                                    &nbsp;02&nbsp;
+                                    &nbsp;14&nbsp;
+                                    &nbsp;33&nbsp;
+                                    &nbsp;67&nbsp;
+                                    <span style="font-size: 13px; color: #060000; font-weight: 700;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        56
+                                    </span>
+                                </p>
+                            </columns>
+                            <columns small="4" large="3" style="padding: 8px 25px 8px 30px !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #9b9999; padding-bottom: 0 !important; margin-bottom: 0 !important;">Tues Dec 3</p>
                             </columns>
                         </row>
-                        <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto; border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; padding: 0 15px !important;">
-                            <columns small="12" large="12" style="padding: 0 15px !important;">
-                                <spacer size="12"></spacer>
-                                <p class="text-center" style="float: left; display: inline-block; vertical-align: middle; font-size: 13px; font-weight: 700; color: #9b9999;">2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;12&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;02&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;33&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;29&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;67&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 700;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;56&nbsp;&nbsp;</p>
-                                <p style="float: right; display: inline-block; vertical-align: middle; color: #777; font-weight: 400; font-size: 14px;">Tues Dec 3</p>
-                                <spacer size="12"></spacer>
+                        <row style="border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; border-bottom: 1px solid #e4e4e4;">
+                            <columns small="8" large="9" style="background-image: url(assets/img/no-winners/ticket-fill.png); background-repeat: no-repeat; padding: 8px 25px 8px 0 !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #060000; padding-bottom: 0 !important; margin-bottom: 0 !important;">
+                                    <span style="float: left; font-size: 13px; font-weight: 400; color: #9b9999;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        3
+                                        &nbsp;
+                                    </span>
+                                    &nbsp;33&nbsp;
+                                    &nbsp;06&nbsp;
+                                    &nbsp;12&nbsp;
+                                    &nbsp;29&nbsp;
+                                    &nbsp;18&nbsp;
+                                    <span style="font-size: 13px; color: #060000; font-weight: 700;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        27
+                                    </span>
+                                </p>
+                            </columns>
+                            <columns small="4" large="3" style="padding: 8px 25px 8px 30px !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #9b9999; padding-bottom: 0 !important; margin-bottom: 0 !important;">Fri Dec 6</p>
                             </columns>
                         </row>
-                        <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto; border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; padding: 0 15px !important;">
-                            <columns small="12" large="12" style="padding: 0 15px !important;">
-                                <spacer size="12"></spacer>
-                                <p class="text-center" style="float: left; display: inline-block; vertical-align: middle; font-size: 13px; font-weight: 700; color: #9b9999;">3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;33&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;06&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;12&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;29&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;18&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 700;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27&nbsp;&nbsp;</p>
-                                <p style="float: right; display: inline-block; vertical-align: middle; color: #777; font-weight: 400; font-size: 14px;">Fri Dec 6</p>
-                                <spacer size="12"></spacer>
+                        <row style="border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; border-bottom: 1px solid #e4e4e4;">
+                            <columns small="8" large="9" style="background-image: url(assets/img/no-winners/ticket-fill.png); background-repeat: no-repeat; padding: 8px 25px 8px 0 !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #060000; padding-bottom: 0 !important; margin-bottom: 0 !important;">
+                                    <span style="float: left; font-size: 13px; font-weight: 400; color: #9b9999;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        4
+                                        &nbsp;
+                                    </span>
+                                    &nbsp;43&nbsp;
+                                    &nbsp;57&nbsp;
+                                    &nbsp;23&nbsp;
+                                    &nbsp;47&nbsp;
+                                    &nbsp;65&nbsp;
+                                    <span style="font-size: 13px; color: #060000; font-weight: 700;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        09
+                                    </span>
+                                </p>
+                            </columns>
+                            <columns small="4" large="3" style="padding: 8px 25px 8px 30px !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #9b9999; padding-bottom: 0 !important; margin-bottom: 0 !important;">Tues Dec 9</p>
                             </columns>
                         </row>
-                        <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto; border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; padding: 0 15px !important;">
-                            <columns small="12" large="12" style="padding: 0 15px !important;">
-                                <spacer size="12"></spacer>
-                                <p class="text-center" style="float: left; display: inline-block; vertical-align: middle; font-size: 13px; font-weight: 700; color: #9b9999;">4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;43&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;57&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;23&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;47&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;65&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 700;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09&nbsp;&nbsp;</p>
-                                <p style="float: right; display: inline-block; vertical-align: middle; color: #777; font-weight: 400; font-size: 14px;">Tues Dec 9</p>
-                                <spacer size="12"></spacer>
+                        <row style="border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42;">
+                            <columns small="8" large="9" style="background-image: url(assets/img/no-winners/ticket-fill.png); background-repeat: no-repeat; padding: 8px 25px 8px 0 !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #060000; padding-bottom: 0 !important; margin-bottom: 0 !important;">
+                                    <span style="float: left; font-size: 13px; font-weight: 400; color: #9b9999;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        5
+                                        &nbsp;
+                                    </span>
+                                    &nbsp;33&nbsp;
+                                    &nbsp;06&nbsp;
+                                    &nbsp;12&nbsp;
+                                    &nbsp;29&nbsp;
+                                    &nbsp;18&nbsp;
+                                    <span style="font-size: 13px; color: #060000; font-weight: 700;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        27
+                                    </span>
+                                </p>
                             </columns>
-                        </row>
-                        <row style="border-top: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto; border-left: 5px solid #fd9f42; border-right: 20px solid #fd9f42; padding: 0 15px !important;">
-                            <columns small="12" large="12" style="padding: 0 15px !important;">
-                                <spacer size="12"></spacer>
-                                <p class="text-center" style="float: left; display: inline-block; vertical-align: middle; font-size: 13px; font-weight: 700; color: #9b9999;">5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;33&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;06&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;12&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;29&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 400;">&nbsp;18&nbsp;</p>
-                                <p class="text-center" style="display: inline-block; vertical-align: middle; font-size: 13px; color: #060000; font-weight: 700;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27&nbsp;&nbsp;</p>
-                                <p style="float: right; display: inline-block; vertical-align: middle; color: #777; font-weight: 400; font-size: 14px;">Fri Nov 27</p>
-                                <spacer size="12"></spacer>
+                            <columns small="4" large="3" style="padding: 8px 25px 8px 30px !important;">
+                                <p class="text-center" style="vertical-align: middle; font-size: 13px; color: #9b9999; padding-bottom: 0 !important; margin-bottom: 0 !important;">Fri Nov 27</p>
                             </columns>
                         </row>
                     </columns>
                 </row>
-                <row style="border-bottom: 1px solid #e4e4e4; max-width: 580px; margin: 0 auto;">
+                <spacer size="18"></spacer>
+                <row style="border-top: 2px solid #e4e4e4; border-bottom: 2px solid #e4e4e4; max-width: 540px; margin: 0 auto;">
                     <columns>
-                        <spacer size="24"></spacer>
+                        <spacer size="15"></spacer>
                         <p class="float-left" style="color: #333; font-weight: 700; font-size: 14px; padding: 0 15px; display: inline-block;">Day Pass Membership</p>
                         <p class="float-right" style="color: #777; font-weight: 400; font-size: 14px; padding: 0 15px; display: inline-block; float: right;">$3.00</p>
-                        <spacer size="12"></spacer>
+                        <spacer size="5"></spacer>
                     </columns>
                 </row>
                 <spacer size="25"></spacer>
