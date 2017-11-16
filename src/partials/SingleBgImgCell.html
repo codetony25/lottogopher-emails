@@ -1,0 +1,14 @@
+<td background="{{src}}" bgcolor="{{bgcolor}}" width="{{imgwidth}}" valign="top">
+    <!--[if gte mso 9]>
+    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:{{imgwidth}}px;">
+        <v:fill type="tile" src="{{src}} color="{{bgcolor}}" />
+        <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+    <![endif]-->
+    <div>
+        {{children}}
+    </div>
+    <!--[if gte mso 9]>
+    </v:textbox>
+    </v:rect>
+    <![endif]-->
+</td>

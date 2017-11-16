@@ -20,18 +20,19 @@
  */
 
 module.exports = function(options) {
-	
+
 	// Trim Non-Numberic Chracters
 	String.prototype.trimUnit = function() {
 		return this.replace(/\D/g, '');
 	}
-	
+
 	// Variables & Options
 	var
 		src = options.hash.src,
 		bgcolor = options.hash.bgcolor,
 		classes = options.hash.classes,
 		imgwidth = options.hash.imgwidth,
+		is_cell = options.hash.is_cell,
 		imgheight = options.hash.imgheight,
 		top_padding = options.hash.top_padding,
 		bottom_padding = options.hash.bottom_padding,
@@ -41,7 +42,7 @@ module.exports = function(options) {
 		spacer_top = '',
 		spacer_bot = '',
 		unitHeight = 'height: ' + imgheight + 'px;';
-	
+
 	// Set Undefined Options
 	if (typeof src === 'undefined') src = '';
 	if (typeof bgcolor === 'undefined') bgcolor = '';
@@ -51,21 +52,21 @@ module.exports = function(options) {
 	if (typeof top_padding === 'undefined') top_padding = '';
 	if (typeof bottom_padding === 'undefined') bottom_padding = '';
 	if (typeof fitcontent === 'undefined') fitcontent = '';
-	
+
 	if (fitcontent === 'true') {
 		msofit = 'style="mso-fit-shape-to-text:true"';
 	}
-	
+
 	if (top_padding.length > 0) {
 		top_padding = top_padding.trimUnit();
 		spacer_top = '<tr class="bulletproof-bg-spacer"><td height="' + top_padding + '" style="height: ' + top_padding + 'px !important;"></td></tr>';
 	}
-	
+
 	if (bottom_padding.length > 0) {
 		bottom_padding = bottom_padding.trimUnit();
 		spacer_bot = '<tr class="bulletproof-bg-spacer"><td height="' + bottom_padding + '" style="height: ' + bottom_padding + 'px !important;"></td></tr>';
 	}
-	
+
 	// HTML Output
 	var bg = '\
     <table align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important; vertical-align: top !important">\
@@ -95,6 +96,6 @@ module.exports = function(options) {
 </td>\
 </tr>\
 </table>';
-	
+
 	return bg;
 }

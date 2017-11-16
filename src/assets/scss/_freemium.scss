@@ -112,7 +112,6 @@ td {
 
 .bulletproof-bg.inner-bg-contain-left {
   .main-bg {
-    background-size: contain !important;
     background-position: center left !important;
   }
 }
@@ -135,7 +134,7 @@ td {
       background-size: cover !important;
     }
   }
-}
+ }
 
 .bulletproof-bg.inner-bg-center {
   .main-bg {
@@ -153,8 +152,6 @@ td {
   .main-bg {
     background-repeat: no-repeat !important;
     vertical-align: bottom !important;
-    //background-position: center bottom !important;
-
     table.button.success table a {
       padding: 12px 40px !important
     }
@@ -239,6 +236,7 @@ table.button.success table {
   }
 }
 
+
 .lotto-border-bottom {
   border-bottom: 1px solid #ccc;
 }
@@ -303,32 +301,9 @@ a {
   color: #2796fd;
 }
 
-.mid-heading {
-  color: #212121;
-  font-weight: 700;
-  margin: 0 auto !important;
-  position: absolute;
-  font-size: 32px !important;
-  padding: 0 10px;
-
-  @media (min-width: 550px) {
-    padding: 20px 45px !important;
-  }
-
-  @media (min-width: 660px) {
-    padding: 20px 57px !important;
-  }
-}
-
-.thin-heading {
-  color: #212121;
-  font-size: 18px;
-  font-weight: 300;
-  line-height: 30px;
-}
-
 
 /** Footers **/
+
 .small-light-paragraph {
   color: #777777;
   font-size: 12px;
@@ -372,9 +347,12 @@ a {
   }
 
   @media (min-width: 676px) {
+    position: relative;
+    left: 2px;
+    bottom: 1px;
+
     p {
       font-size: 38px !important;
-      position: relative;
       text-align: center;
     }
   }
@@ -382,6 +360,7 @@ a {
 
 .blue-letter-number {
   font-size: 24px !important;
+
   @media (min-width: 550px) {
     font-size: 31px !important;
   }
@@ -392,3 +371,4 @@ a {
     text-align: center !important;
   }
 }
+
