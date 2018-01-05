@@ -20,13 +20,15 @@
  */
 
 module.exports = function(options) {
+
   // Trim Non-Numberic Chracters
   String.prototype.trimUnit = function() {
-    return this.replace(/\D/g, "");
-  };
+    return this.replace(/\D/g, '');
+  }
 
   // Variables & Options
-  var src = options.hash.src,
+  var
+    src = options.hash.src,
     bgcolor = options.hash.bgcolor,
     classes = options.hash.classes,
     imgwidth = options.hash.imgwidth,
@@ -35,100 +37,65 @@ module.exports = function(options) {
     top_padding = options.hash.top_padding,
     bottom_padding = options.hash.bottom_padding,
     fitcontent = options.hash.fitcontent,
-    msofit = "",
-    unitHeight = "",
-    spacer_top = "",
-    spacer_bot = "",
-    unitHeight = "height: " + imgheight + "px;";
+    msofit = '',
+    unitHeight = '',
+    spacer_top = '',
+    spacer_bot = '',
+    unitHeight = 'height: ' + imgheight + 'px;';
 
   // Set Undefined Options
-  if (typeof src === "undefined") src = "";
-  if (typeof bgcolor === "undefined") bgcolor = "";
-  if (typeof classes === "undefined") classes = "";
-  if (typeof imgwidth === "undefined") imgwidth = "";
-  if (typeof imgheight === "undefined") imgheight = "";
-  if (typeof top_padding === "undefined") top_padding = "";
-  if (typeof bottom_padding === "undefined") bottom_padding = "";
-  if (typeof fitcontent === "undefined") fitcontent = "";
+  if (typeof src === 'undefined') src = '';
+  if (typeof bgcolor === 'undefined') bgcolor = '';
+  if (typeof classes === 'undefined') classes = '';
+  if (typeof imgwidth === 'undefined') imgwidth = '';
+  if (typeof imgheight === 'undefined') imgheight = '';
+  if (typeof top_padding === 'undefined') top_padding = '';
+  if (typeof bottom_padding === 'undefined') bottom_padding = '';
+  if (typeof fitcontent === 'undefined') fitcontent = '';
 
-  if (fitcontent === "true") {
+  if (fitcontent === 'true') {
     msofit = 'style="mso-fit-shape-to-text:true"';
   }
 
   if (top_padding.length > 0) {
     top_padding = top_padding.trimUnit();
-    spacer_top =
-      '<tr class="bulletproof-bg-spacer"><td height="' +
-      top_padding +
-      '" style="height: ' +
-      top_padding +
-      'px !important;"></td></tr>';
+    spacer_top = '<tr class="bulletproof-bg-spacer"><td height="' + top_padding + '" style="height: ' + top_padding + 'px !important;"></td></tr>';
   }
 
   if (bottom_padding.length > 0) {
     bottom_padding = bottom_padding.trimUnit();
-    spacer_bot =
-      '<tr class="bulletproof-bg-spacer"><td height="' +
-      bottom_padding +
-      '" style="height: ' +
-      bottom_padding +
-      'px !important;"></td></tr>';
+    spacer_bot = '<tr class="bulletproof-bg-spacer"><td height="' + bottom_padding + '" style="height: ' + bottom_padding + 'px !important;"></td></tr>';
   }
 
   // HTML Output
-  var bg =
-    '\
-    <table align="center" class="bulletproof-bg ' +
-    classes +
-    '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important; vertical-align: top !important">\
+  var bg = '\
+    <table align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important; vertical-align: top !important">\
       <tr valign="top">\
-        <td class="main-bg" background="' +
-    src +
-    '" bgcolor="' +
-    bgcolor +
-    '" valign="top" align="center" style="height: ' +
-    imgheight +
-    "px;" +
-    ' text-align: center; background-position: center center; background-repeat: no-repeat; vertical-align: middle !important;">\
+        <td class="main-bg" background="' + src + '" bgcolor="' + bgcolor + '" valign="top" align="center" style="height: ' + imgheight + 'px;' + ' text-align: center; background-position: center center; background-repeat: no-repeat; vertical-align: top;">\
           <!--[if gte mso 9]>\
-            <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:' +
-    imgwidth +
-    "px;" +
-    unitHeight +
-    ' background-position: center center !important;">\
-            <v:fill type="tile" src="' +
-    src +
-    '" color="' +
-    bgcolor +
-    '" />\
-            <v:textbox ' +
-    msofit +
-    ' inset="0,0,0,0">\
+            <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:' + imgwidth + 'px;' + unitHeight + ' background-position: center center !important;">\
+            <v:fill type="tile" src="' + src + '" color="' + bgcolor + '" />\
+            <v:textbox ' + msofit + ' inset="0,0,0,0">\
           <![endif]-->\
           <div>\
-          <img style="display: none !important; width: 0 !important; height: 0 !important;" src="' +
-    src +
-    '" alt="' +
-    src +
-    '" />\
-            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">' +
-    spacer_top +
+          <img style="display: none !important; width: 0 !important; height: 0 !important;" src="' + src +'" alt="' + src +'" />\
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">' + spacer_top +
     '<tr valign="top">\
-			<td valign="top">' +
-    options.fn(this) +
-    "</td>\
-	</tr>" +
-    spacer_bot +
+      <td valign="top">'
+    + options.fn(this) +
+    '</td>\
+  </tr>'
+    + spacer_bot +
     '</table>\
-	</div>\
-	<!--[if gte mso 9]>\
-	<p style="margin:0 !important;mso-hide:all !important;"><o:p xmlns:o="urn:schemas-microsoft-com:office:office">&nbsp;</o:p></p>\
-	</v:textbox>\
-	</v:rect>\
-	<![endif]-->\
+  </div>\
+  <!--[if gte mso 9]>\
+  <p style="margin:0 !important;mso-hide:all !important;"><o:p xmlns:o="urn:schemas-microsoft-com:office:office">&nbsp;</o:p></p>\
+  </v:textbox>\
+  </v:rect>\
+  <![endif]-->\
 </td>\
 </tr>\
 </table>';
 
   return bg;
-};
+}
