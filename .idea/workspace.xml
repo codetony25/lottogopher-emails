@@ -5,9 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="822989f4-3f35-4272-97dd-2ca689fbbd9f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/helpers/bg-img.js" afterPath="$PROJECT_DIR$/src/helpers/bg-img.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-31.html" afterPath="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-31.html" />
-      <change beforePath="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-36.html" afterPath="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-36.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/MegaMillions.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/PowerBall.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/SuperLotto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/blue-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/header.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/multiple-tix-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/play-btn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-26/dollar-up-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-26/groups-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-26/header.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-26/play-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-26/three-phones.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30/gopher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30/header.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30/lotto-number-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30/pool-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30/smart-pick-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30/upgrade-btn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/lnp-jackpot-alert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/monthly-yearly-day-26.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/monthly-yearly-day-30.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_freemium.scss" afterPath="$PROJECT_DIR$/src/assets/scss/_freemium.scss" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.html" afterPath="$PROJECT_DIR$/src/pages/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/Button.html" afterPath="$PROJECT_DIR$/src/partials/Button.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,104 +58,66 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="monthly-cancellation-email-day-36.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-36.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="monthly-yearly-day-26.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/monthly-yearly-day-26.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
-                <element signature="n#style#0;n#h2#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#1;n#row#2;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#center#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#center#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#columns#0;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#columns#0;n#row#2;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#2;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg-img.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/helpers/bg-img.js">
+      <file leaf-file-name="_freemium.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/_freemium.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="84" column="24" lean-forward="false" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
-              <folding>
-                <marker date="1515138414238" expanded="true" signature="2226:2267" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="2465:2509" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="2688:2805" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="2806:4082" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="2831:4072" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="2948:3088" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3089:4065" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3106:3464" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3483:3859" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3508:3576" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3705:3849" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3744:3815" ph="..." />
-                <marker date="1515138414238" expanded="true" signature="3868:4056" ph="..." />
-              </folding>
+            <state relative-caret-position="172">
+              <caret line="204" column="1" lean-forward="false" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="monthly-cancellation-email-day-31.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-31.html">
+      <file leaf-file-name="monthly-yearly-day-30.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/monthly-yearly-day-30.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="103" column="9" lean-forward="false" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+            <state relative-caret-position="466">
+              <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#p#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#columns#0;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#strong#1;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#columns#0;n#row#3;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#columns#1;n#row#2;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="monthly-cancellation-email-day-36.html" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/monthly-cancellation-email-day-36 2/monthly-cancellation-email-day-36.html">
+      <file leaf-file-name="Button.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/partials/Button.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="0" column="25805" lean-forward="false" selection-start-line="0" selection-start-column="25805" selection-end-line="0" selection-end-column="25805" />
+            <state relative-caret-position="136">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1516259706350" expanded="true" signature="177:505" ph="..." />
+                <marker date="1516259706350" expanded="true" signature="243:456" ph="..." />
+                <marker date="1516259706350" expanded="true" signature="264:437" ph="..." />
+                <marker date="1516259706350" expanded="true" signature="339:415" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/img/monthly-cancellation-email-day-36/header.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yearly-cancellation-day-35.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/yearly-cancellation-day-35.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="35" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -142,24 +126,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>530</find>
-      <find>HeaderTEx</find>
-      <find>imgwidth</find>
-      <find>bg-im</find>
-      <find>helpers</find>
-      <find>FooterLight</find>
-      <find>/*</find>
-      <find>*</find>
-      <find>iconPosition</find>
-      <find>inner-bg-contain-left</find>
-      <find>max-wi</find>
-      <find>By re</find>
-      <find>5 free</find>
-      <find>&lt;i&gt;</find>
-      <find>font-family</find>
-      <find>sorry to se</find>
-      <find>months free</find>
-      <find>white-space</find>
       <find>But your</find>
       <find>couch</find>
       <find>Call Center</find>
@@ -172,6 +138,24 @@
       <find>middle</find>
       <find>Does not</find>
       <find>'</find>
+      <find>filter</find>
+      <find>lucky-nu</find>
+      <find>lucky-n</find>
+      <find>$40</find>
+      <find>MILLION</find>
+      <find>$48</find>
+      <find>button</find>
+      <find>Lucky</find>
+      <find>“</find>
+      <find>Just Go</find>
+      <find>Get Back</find>
+      <find>Free Ti</find>
+      <find>?</find>
+      <find>lots of</find>
+      <find>What's more</find>
+      <find>upgrade-bt</find>
+      <find>FooterTickets</find>
+      <find>12px</find>
     </findStrings>
     <replaceStrings>
       <replace>as-seen-on.png</replace>
@@ -198,12 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/new-registration.html" />
-        <option value="$USER_HOME$/Desktop/new-registration/new-registration.html" />
-        <option value="$PROJECT_DIR$/dist/shatner-blast.html" />
-        <option value="$PROJECT_DIR$/src/pages/shatner-blast.html" />
-        <option value="$PROJECT_DIR$/src/pages/archive/_completed/email-50-free-tickets.html" />
-        <option value="$USER_HOME$/Desktop/no-winners 2/no-winners.html" />
         <option value="$PROJECT_DIR$/src/layouts/default.html" />
         <option value="$PROJECT_DIR$/src/layouts/lucky-number-layout.html" />
         <option value="$PROJECT_DIR$/src/partials/LKPFooterLight.html" />
@@ -218,7 +196,6 @@
         <option value="$PROJECT_DIR$/src/pages/yearly-cancellation-day-35.html" />
         <option value="$PROJECT_DIR$/src/pages/yearly-cancellation-day-30.html" />
         <option value="$PROJECT_DIR$/src/pages/yearly-cancellation-day-39.html" />
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/pages/alert-notification-redeem-winnings.html" />
         <option value="$PROJECT_DIR$/src/pages/referrer-credit.html" />
         <option value="$PROJECT_DIR$/src/pages/referee-credit.html" />
@@ -244,11 +221,18 @@
         <option value="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-40.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
         <option value="$PROJECT_DIR$/dist/monthly-cancellation-email-day-31.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/_freemium.scss" />
         <option value="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-36.html" />
         <option value="$PROJECT_DIR$/src/helpers/bg-img.js" />
         <option value="$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-31.html" />
         <option value="$USER_HOME$/Desktop/monthly-cancellation-email-day-36 2/monthly-cancellation-email-day-36.html" />
+        <option value="$PROJECT_DIR$/src/pages/lnp-jackpot-alert.html" />
+        <option value="$USER_HOME$/Desktop/monthly-cancellation-email-day-36 3/monthly-cancellation-email-day-36.html" />
+        <option value="$PROJECT_DIR$/src/pages/monthly-yearly-day-1.html" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
+        <option value="$PROJECT_DIR$/src/partials/Button.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/_freemium.scss" />
+        <option value="$PROJECT_DIR$/src/pages/monthly-yearly-day-30.html" />
+        <option value="$PROJECT_DIR$/src/pages/monthly-yearly-day-26.html" />
       </list>
     </option>
   </component>
@@ -269,10 +253,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2750" />
-    <option name="y" value="-486" />
-    <option name="width" value="2337" />
-    <option name="height" value="1047" />
+    <option name="x" value="2887" />
+    <option name="y" value="-251" />
+    <option name="width" value="2560" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -401,6 +385,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -411,17 +397,6 @@
             <path>
               <item name="lottogopher-emails" type="b2602c69:ProjectViewProjectNode" />
               <item name="lottogopher-emails" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lottogopher-emails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lottogopher-emails" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lottogopher-emails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lottogopher-emails" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -443,15 +418,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="monthly-cancellation-email-day-31" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lottogopher-emails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lottogopher-emails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="monthly-cancellation-email-day-36" type="462c0819:PsiDirectoryNode" />
+              <item name="monthly-yearly-day-30" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lottogopher-emails" type="b2602c69:ProjectViewProjectNode" />
@@ -471,8 +438,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -506,19 +471,19 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_completed/" />
-      <recent name="$PROJECT_DIR$/_completed" />
-      <recent name="$PROJECT_DIR$/src/partials" />
-      <recent name="$PROJECT_DIR$/src/assets/img" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert" />
       <recent name="$PROJECT_DIR$/src/assets/img/get-my-numbers" />
       <recent name="$PROJECT_DIR$/src/assets/img/alert-notifications-group-winnings" />
       <recent name="$PROJECT_DIR$/src/assets/img/alert-notifications-redeem-winnings" />
       <recent name="$PROJECT_DIR$/src/assets/img/referrer-credit" />
-      <recent name="$PROJECT_DIR$/src/assets/img/referee-credit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img/monthly-yearly-day-30" />
+      <recent name="$PROJECT_DIR$/src/assets/img/montly-yearly-day-1" />
+      <recent name="$PROJECT_DIR$/_completed" />
+      <recent name="$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert" />
+      <recent name="$PROJECT_DIR$/_completed/" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -651,28 +616,30 @@
     <option name="totallyTimeSpent" value="81291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2750" y="-486" width="2337" height="1047" extended-state="0" />
+    <frame x="2887" y="-251" width="2560" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20900321" sideWeight="0.52442" order="14" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32583067" sideWeight="0.49815693" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24894957" sideWeight="0.47557998" order="12" side_tool="false" content_ui="tabs" x="-116" y="302" width="3840" height="1094" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17381974" sideWeight="0.47557998" order="12" side_tool="false" content_ui="tabs" x="-116" y="302" width="3840" height="1094" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1764706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bucklescript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25496426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bucklescript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Storybook" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24985021" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -750,107 +717,13 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/halloween-blasts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/no-winners.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/alert-notification-redeem-winnings.html" />
-    <entry file="file://$PROJECT_DIR$/_completed/get-my-numbers/get-my-numbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="0" column="29524" lean-forward="false" selection-start-line="0" selection-start-column="29524" selection-end-line="0" selection-end-column="29524" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/monthly-cancellation-email-day-40/green-bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/no-winners/ticket-fill.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/alert-notifications-group-winnings/group-bg.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/img/alert-notifications-group-winnings/header.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/alert-notifications-group-winnings/group-tag.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_completed/alert-notification-group-winnings/alert-notification-group-winnings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="0" column="38132" lean-forward="false" selection-start-line="0" selection-start-column="38132" selection-end-line="0" selection-end-column="38132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/alert-notification-group-winnings 2/alert-notification-group-winnings.html" />
-    <entry file="file://$PROJECT_DIR$/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/alert-notification-group-winnings.html" />
-    <entry file="file://$PROJECT_DIR$/_completed/alert-notification-group-winnings/alert-notification-group-winnings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="0" column="17348" lean-forward="false" selection-start-line="0" selection-start-column="17348" selection-end-line="0" selection-end-column="17348" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/get-my-numbers/blue-lotto-ball.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/alert-notification-redeem-winnings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/get-my-numbers 2/get-my-numbers.html" />
     <entry file="file://$PROJECT_DIR$/src/assets/img/alert-notifications-group-winnings/white-ball.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_completed/alert-notification-group-winnings/alert-notification-group-winnings.html" />
-    <entry file="file://$PROJECT_DIR$/src/layouts/lucky-number-layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/get-my-numbers/get-my-numbers.html" />
-    <entry file="file://$PROJECT_DIR$/src/pages/get-my-numbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="147" column="22" lean-forward="false" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.json" />
     <entry file="file://$PROJECT_DIR$/dist/halloween-blasts.html" />
     <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
@@ -943,13 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_freemium.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="238" column="0" lean-forward="true" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/monthly-cancellation-email-day-36.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/alert-notification-group-winnings.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -958,11 +824,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-40.html">
+    <entry file="file://$USER_HOME$/Desktop/monthly-cancellation-email-day-36 2/monthly-cancellation-email-day-36.html" />
+    <entry file="file://$PROJECT_DIR$/src/helpers/bg-img.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="417">
+          <caret line="84" column="24" lean-forward="false" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -973,54 +839,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/yearly-cancellation-day-35.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="-349">
           <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-36.html">
+    <entry file="file://$PROJECT_DIR$/src/layouts/lucky-number-layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#center#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#center#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#2;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#2;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helpers/bg-img.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/get-my-numbers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="84" column="24" lean-forward="false" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
-          <folding>
-            <marker date="1515138414238" expanded="true" signature="2226:2267" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="2465:2509" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="2688:2805" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="2806:4082" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="2831:4072" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="2948:3088" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3089:4065" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3106:3464" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3483:3859" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3508:3576" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3705:3849" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3744:3815" ph="..." />
-            <marker date="1515138414238" expanded="true" signature="3868:4056" ph="..." />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/header.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-31.html">
@@ -1028,29 +868,169 @@
         <state relative-caret-position="561">
           <caret line="103" column="9" lean-forward="false" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
           <folding>
-            <element signature="n#style#0;n#h2#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#columns#0;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#strong#1;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#columns#0;n#row#3;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#strong#0;n#p#0;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#1;n#columns#0;n#row#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#columns#0;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#strong#1;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#3;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/monthly-cancellation-email-day-36 2/monthly-cancellation-email-day-36.html">
+    <entry file="file://$PROJECT_DIR$/src/assets/img/common/lucky-number-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/play-btn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/PowerBall.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/halloween-blasts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="0" column="25805" lean-forward="false" selection-start-line="0" selection-start-column="25805" selection-end-line="0" selection-end-column="25805" />
+        <state relative-caret-position="156">
+          <caret line="60" column="42" lean-forward="true" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/no-winners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/blue-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/MegaMillions.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lnp-jackpot-alert/multiple-tix-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/millions-notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="154" column="36" lean-forward="true" selection-start-line="154" selection-start-column="36" selection-end-line="154" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/shatner-blast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="134" column="30" lean-forward="true" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/lnp-jackpot-alert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/monthly-cancellation-email-day-36 3/monthly-cancellation-email-day-36.html" />
+    <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-40.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/monthly-cancellation-email-day-36.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/monthly-cancellation-email-day-36/play-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/Button.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1516259706350" expanded="true" signature="177:505" ph="..." />
+            <marker date="1516259706350" expanded="true" signature="243:456" ph="..." />
+            <marker date="1516259706350" expanded="true" signature="264:437" ph="..." />
+            <marker date="1516259706350" expanded="true" signature="339:415" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/monthly-yearly-day-30.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#columns#0;n#row#0;n#container#0;n#wrapper#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#2;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/_freemium.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="204" column="1" lean-forward="false" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/monthly-yearly-day-26.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#columns#0;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#0;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#1;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#columns#1;n#row#2;n#columns#1;n#row#0;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#columns#0;n#row#0;n#container#0;n#wrapper#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

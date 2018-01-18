@@ -198,6 +198,11 @@ table.button.success table {
   vertical-align: top !important;
 }
 
+table.button.success.gopher-up-btn table {
+  a {
+    padding: 12px 75px !important;
+  }
+}
 table.button.success table {
   .lotto-ul-button {
     td > table > tbody > tr > td {
