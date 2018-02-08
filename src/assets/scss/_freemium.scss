@@ -193,6 +193,15 @@ table.button.success table {
   }
 }
 
+.gopher-btn {
+  &.down {
+    position: relative;
+    top: 5px;
+    z-index: 1;
+    margin-bottom: -15px !important;
+  }
+}
+
 .main-bg,
 .bulletproof-bg {
   vertical-align: top !important;

@@ -37,6 +37,7 @@ module.exports = function(options) {
     top_padding = options.hash.top_padding,
     bottom_padding = options.hash.bottom_padding,
     fitcontent = options.hash.fitcontent,
+    style = options.hash.style,
     msofit = '',
     unitHeight = '',
     spacer_top = '',
@@ -52,6 +53,7 @@ module.exports = function(options) {
   if (typeof top_padding === 'undefined') top_padding = '';
   if (typeof bottom_padding === 'undefined') bottom_padding = '';
   if (typeof fitcontent === 'undefined') fitcontent = '';
+  if (typeof style === 'undefined') style = '';
 
   if (fitcontent === 'true') {
     msofit = 'style="mso-fit-shape-to-text:true"';
@@ -69,7 +71,7 @@ module.exports = function(options) {
 
   // HTML Output
   var bg = '\
-    <table align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; mso-margin-top-alt:0px !important; vertical-align: top !important">\
+    <table align="center" class="bulletproof-bg ' + classes + '" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:1px !important; line-height:0 !important; ' + style + 'mso-margin-top-alt:0px !important; vertical-align: top !important">\
       <tr valign="top">\
         <td class="main-bg" background="' + src + '" bgcolor="' + bgcolor + '" valign="top" align="center" style="height: ' + imgheight + 'px;' + ' text-align: center; background-position: center center; background-repeat: no-repeat; vertical-align: top;">\
           <!--[if gte mso 9]>\
