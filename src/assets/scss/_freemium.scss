@@ -76,6 +76,12 @@ td {
   border-collapse: collapse !important;
 }
 
+
+.bordered td {
+  border-left: 1px solid #FEFEFE !important;
+  border-right: 1px solid #FEFEFE  !important;
+}
+
 .bulletproof-bg.hidden-top {
    @media (max-width: 660px) {
      .main-bg {
@@ -190,12 +196,24 @@ table.button.success table {
   font-weight: 400;
 }
 
+.color-gopher-up-btn {
+  margin-bottom: 31px !important;
+  
+  &.success table a {
+    padding: 12px 80px !important;
+  }
+}
+
 .gopher-button {
   @media (min-width: 676px) {
     position: absolute;
     right: 140px;
     bottom: 0;
   }
+}
+
+td.large-12 center, th.large-12 center {
+  max-width: initial !important;  
 }
 
 .gopher-btn {
@@ -222,6 +240,7 @@ table.button.success.gopher-up-btn table {
     padding: 12px 75px !important;
   }
 }
+
 table.button.success table {
   .lotto-ul-button {
     td > table > tbody > tr > td {
@@ -237,7 +256,7 @@ table.button.success table {
     font-size: 14px !important;
   }
   a {
-    padding: 12px 24px !important;
+    padding: 12px 24px;
     white-space: nowrap;
     word-wrap: break-word;
     border: 0 solid #81c935 !important;
