@@ -5,4 +5,6 @@ bower_components
 dist
 .sass-cache
 .awspublish*
+.idea/
 config.json
+yarn.lock
